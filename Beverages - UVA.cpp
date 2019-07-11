@@ -78,6 +78,5 @@ int main() {
 		topoSort(drinks, inD, g);
 		puts(".\n");
 	}
-
 	return 0;
 }
