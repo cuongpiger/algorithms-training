@@ -45,7 +45,6 @@ void solve(int c, int j) {
 	}
 }
 
-
 int main() {
 	int br = 0;
 
