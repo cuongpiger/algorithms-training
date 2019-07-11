@@ -8,6 +8,7 @@
 #include <map>
 #include <set>
 #include <stdio.h>
+#include <bitset>
 using namespace std;
 
 //=============================================================================================
