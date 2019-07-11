@@ -3,6 +3,7 @@
 #include <algorithm>
 #include <functional>
 #include <queue>
+#include <stack>
 #include <string>
 #include <vector>
 #include <map>
