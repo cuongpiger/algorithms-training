@@ -25,6 +25,12 @@ typedef pair<ld, ld> p2ld;
 typedef pair<char, char> pcc;
 //=============================================================================================
 
+/*
+- Mảng xorAtIndex dùng để lưu kết quả khi xor các giá trị trước index hiện tại (index - 1) với giá trị tại index hiện tại
+- Mảng countZeroAtIndex dùng để đếm số lượng số 0 tới index hiện tại
+- xorAtIndex[r] - xorAtIndex[l - 1] để tính kết quả khi xor toàn bộ các giá trị trong khoảng từ [l, r] là bao nhiêu để giá trị tại xorAtIndex[r] bằng như vậy
+*/
+
 int xorAtIndex[(int)1e5 + 5], countZeroAtIndex[(int)1e5 + 5];
 
 int main() {
