@@ -31,121 +31,102 @@ typedef pair<char, char> pcc;
 /**
  ** Comment **
  **/
-vector<int> screen;
-int r, c;
 
-inline int bitExtracted(int number, int k, int p)
-{
-	return (((1 << k) - 1) & (number >> (p - 1)));
-}
+void fromBtoD(vector<vector<int>> &bm, int row_s, int col_s, int row_e, int col_e, int &cnt){
+	if (row_s >= row_e || col_s >= col_e) return;
 
-void fromBtoD(int row, int col, int height, int width, int p){
-	if (!width || !height) return;
-	int sum = 0;
+	int cntBit_0 = 0;
 
-	for (int i = row; i < row + height; ++i){
-		sum += bitExtracted(screen[i], width, p);
+	for (int i = row_s; i < row_e; ++i){
+		cntBit_0 += (count(bm[i].begin() + col_s, bm[i].begin() + col_e, 0));
 	}
 
-	if (sum == 0){
+	if (cnt > 0 && !(cnt % 50)){
+		cout << endl;
+	}
+	++cnt;
+
+	if (cntBit_0 == (col_e - col_s)*(row_e - row_s)){
 		cout << "0";
 	}
-	else if (sum == (pow(2, width*1.0) - 1)*height){
+	else if (!cntBit_0){
 		cout << "1";
 	}
-	else {
+	else{
 		cout << "D";
-		fromBtoD(row, col, height / 2 + height % 2, width / 2 + width % 2, p + width / 2);
-		fromBtoD(row, col + width / 2 + width % 2, height / 2 + height % 2, width / 2, p);
-		fromBtoD(row + height / 2 + height % 2, col, height / 2, width / 2 + width % 2, p + width / 2);
-		fromBtoD(row + height / 2 + height % 2, col + width / 2 + width % 2, height / 2, width / 2, p);
+
+		int rowHalf = (row_s + row_e + 1) / 2;
+		int colHalf = (col_s + col_e + 1) / 2;
+		fromBtoD(bm, row_s, col_s, rowHalf, colHalf, cnt);
+		fromBtoD(bm, row_s, colHalf, rowHalf, col_e, cnt);
+		fromBtoD(bm, rowHalf, col_s, row_e, colHalf, cnt);
+		fromBtoD(bm, rowHalf, colHalf, row_e, col_e, cnt);
 	}
 }
 
-void fromDtoB(int row, int col, int height, int width, int &ch, string &s, int p){
-	if (ch >= s.length() || !width || !height) {
-		if (!width || !height) --ch;
-		return;
-	}
-	//printf("row = %d, col = %d, height = %d, width = %d, ch = %d, s[ch] = %c, p = %d\n", row, col, height, width, ch, s[ch], p);
+void fromDtoB(vector<vector<int>> &bm, int row_s, int col_s, int row_e, int col_e){
+	if (row_s >= row_e || col_s >= col_e) return;
+	int ch = cin.get();
 
-	if (s[ch] == '1'){
-		int all_1 = pow(2, c*1.0) - 1;
-		int bit_1 = (int)(pow(2, width*1.0) - 1) << (p - 1);
-		bit_1 &= all_1;
-
-		for (int i = row; i < row + height; ++i){
-			//printf("bit_1 = %d, screen[%d] = %d\n", bit_1, i, screen[i]);
-			screen[i] += bit_1;
-			//printf("screen[%d] = %d\n\n", i, screen[i]);
+	if (ch == '0' || ch == '1'){
+		for (int i = row_s; i < row_e; ++i){
+			for (int j = col_s; j < col_e; ++j){
+				bm[i][j] = ch - '0';
+			}
 		}
 
 		return;
 	}
-	else if (s[ch] == 'D'){
-		fromDtoB(row, col, height / 2 + height % 2, width / 2 + width % 2, ++ch, s, p + width / 2);
-		fromDtoB(row, col + width / 2 + width % 2, height / 2 + height % 2, width / 2, ++ch, s, p);
-		fromDtoB(row + height / 2 + height % 2, col, height / 2, width / 2 + width % 2, ++ch, s, p + width / 2);
-		fromDtoB(row + height / 2 + height % 2, col + width / 2 + width % 2, height / 2, width / 2, ++ch, s, p);
+	else {
+		int rowHalf = (row_s + row_e + 1) / 2;
+		int colHalf = (col_s + col_e + 1) / 2;
+		fromDtoB(bm, row_s, col_s, rowHalf, colHalf);
+		fromDtoB(bm, row_s, colHalf, rowHalf, col_e);
+		fromDtoB(bm, rowHalf, col_s, row_e, colHalf);
+		fromDtoB(bm, rowHalf, colHalf, row_e, col_e);
 	}
-}
-
-inline string show_binary(unsigned int u, int num_of_bits)
-{
-	string a = "";
-
-	int t = pow(2, num_of_bits);   // t is the max number that can be represented
-
-	for (t; t > 0; t = t / 2)           // t iterates through powers of 2
-		if (u >= t){                // check if u can be represented by current value of t
-			u -= t;
-			a += "1";               // if so, add a 1
-		}
-		else {
-			a += "0";               // if not, add a 0
-		}
-
-		return a;                     // returns string
 }
 
 int main() {
 	/*ios_base::sync_with_stdio(0);
 	cin.tie(0), cout.tie(0);*/
 	char func;
+	int row, col;
 
 	while (cin >> func, func != '#'){
-		string s;
-		cin >> r >> c;
-		cin.ignore();
-
-		while (s.length() < r * c) {
-			string tmp;
-			getline(cin, tmp);
-			s += tmp;
-		}
-		cout << endl;
-		cout << s << endl;
-
-		screen.clear();
-		screen.resize(r, 0);
-		cout << (func == 'B' ? "D" : "B") << right << setw(4) << r << right << setw(4) << c << endl;
-
+		cin >> row >> col; cin.ignore();
+		cout << (func == 'B' ? "D" : "B") << right << setw(4) << row << right << setw(4) << col << endl;
+		
+		vector<vector<int>> bm(row, vector<int>(col));
 		if (func == 'B'){
-			for (int i = 0; i < r; ++i){
-				cout << s.substr(i*c, c) << endl;
-				screen[i] = stoi(s.substr(i*c, c), nullptr, 2);
+			string input;
+			while (input.length() < row *col){
+				string tmp;
+				getline(cin, tmp);
+				input += tmp;
 			}
 
-			fromBtoD(0, 0, r, c, 1);
+			for (int i = 0; i < row; ++i){
+				for (int j = 0; j < col; ++j){
+					bm[i][j] = input[col *i + j] - '0';
+				}
+			}
+
+			int cnt = 0; // count the number of characters was printed on a line
+			fromBtoD(bm, 0, 0, row, col, cnt);
 			cout << endl;
 		}
 		else{
-			int ch = 0;
-			fromDtoB(0, 0, r, c, ch, s, 1);
-
-			for (int i = 0; i < r; ++i){
-				cout << show_binary(screen[i], c - 1);
+			fromDtoB(bm, 0, 0, row, col);
+			for (int i = 0; i < row; ++i){
+				for (int j = 0; j < col; ++j){
+					if (i + j > 0 && !((col*i + j) % 50)){
+						cout << endl;
+					}
+					cout << bm[i][j];
+				}
 			}
+
 			cout << endl;
 		}
 	}
