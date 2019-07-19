@@ -3,71 +3,90 @@
 #include <algorithm>
 #include <functional>
 #include <queue>
-#include <stack>
-#include <string>
 #include <vector>
-#include <map>
-#include <set>
-#include <bitset>
-#include <cmath>
-#include <iomanip>
 using namespace std;
-
-vector<int> topoSort(vector< vector<int> > &adj, vector<int> &indegree){
-    int n = indegree.size();
-    priority_queue<int, vector<int>, greater<int> > zero_indegree;
-    vector<int> topoSorted;
-    // vector<bool> avail(n, true);
-
-    for (int i = 0; i < indegree.size(); i++)
-        if (indegree[i] == 0){
-            zero_indegree.push(i);
-            // avail[i] = false;
-        }
-
-
-    while (!zero_indegree.empty()){
-        int u = zero_indegree.top();
-        zero_indegree.pop();
-
-        topoSorted.push_back(u);
-
-        for (int i = 0;i < adj[u].size(); i++){
-            int v = adj[u][i];
-            indegree[v] --;
-            if (indegree[v] == 0){
-                zero_indegree.push(v);
-            }
-        }
-    }
-
-    return topoSorted;
+ 
+//=============================================================================================
+const double pi = 3.14159265359;
+#define p(a) ((a) * (a))
+typedef long long ll;
+typedef long double ld;
+typedef pair<int, int> pii;
+typedef pair<double, double> pdd;
+typedef pair<ll, ll> p2ll;
+typedef pair<string, int> psi;
+typedef pair<ld, ld> p2ld;
+typedef pair<char, char> pcc;
+//=============================================================================================
+ 
+int n, m;
+ 
+bool topologicalSort(vector<vector<int>> &grp, vector<int> &res) {
+	vector<int> inDegree(n + 1, 0);
+	priority_queue <int, vector<int>, greater<int> > zeroInDegree;
+ 
+	for (int u = 1; u <= n; ++u) {
+		vector<int>::iterator it;
+ 
+		for (it = grp[u].begin(); it != grp[u].end(); ++it) {
+			++inDegree[*it];
+		}
+	}
+ 
+	for (int i = 1; i <= n; ++i) {
+		if (!inDegree[i]) {
+			zeroInDegree.push(i);
+		}
+	}
+ 
+	while (!zeroInDegree.empty()) {
+		int u = zeroInDegree.top();
+		zeroInDegree.pop();
+		res.push_back(u);
+		vector<int>::iterator it;
+ 
+		for (it = grp[u].begin(); it != grp[u].end(); ++it) {
+			--inDegree[*it];
+ 
+			if (!inDegree[*it]) {
+				zeroInDegree.push(*it);
+			}
+		}
+	}
+ 
+	for (int i = 1; i <= n; ++i) {
+		if (inDegree[i]) {
+			return false;
+		}
+	}
+ 
+	return true;
 }
-
-int main(){
-    // n: number of vertices
-    // m: number of edges
-    int n, m, u, v;
-    vector< vector<int> > adj;
-    vector<int> indegree;
-    scanf("%d %d", &n, &m);
-    adj.resize(n);
-    indegree.assign(n, 0);
-    for (int i = 0; i < m; i++){
-        scanf("%d %d", &u, &v);
-        adj[u - 1].push_back(v - 1);
-        indegree[v - 1] ++;
-    }
-    
-    vector<int> res = topoSort(adj, indegree);
-    if (res.size() < n){
-        printf("Sandro fails.\n");
-        return 0;
-    }
-
-    for (int i = 0; i < res.size(); i++)
-        printf("%d ", res[i] + 1);
-    printf("\n");
-
-    return 0;
-}
+ 
+int main() {
+	ios_base::sync_with_stdio(false);
+	cin.tie(NULL), cout.tie(NULL);
+ 
+	vector<vector<int>> grp;
+	vector<int> res;
+ 
+	cin >> n >> m;
+	grp.assign(n + 1, vector<int>());
+ 
+	for (int u, v, i = 0; i < m; ++i) {
+		cin >> u >> v;
+		grp[u].push_back(v);
+	}
+ 
+	if (topologicalSort(grp, res)) {
+		for (int i = 0; i < res.size(); ++i) {
+			cout << res[i] << " ";
+		}
+	}
+	else {
+		cout << "Sandro fails.";
+	}
+	cout << endl;
+ 
+	return 0;
+} 
