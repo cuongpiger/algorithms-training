@@ -1,9 +1,16 @@
+#pragma warning(disable:4996)
 #include <iostream>
-#include <vector>
+#include <algorithm>
+#include <functional>
 #include <queue>
 #include <stack>
+#include <string>
+#include <vector>
+#include <map>
 #include <set>
-
+#include <bitset>
+#include <cmath>
+#include <iomanip>
 using namespace std;
 
 vector<int> topoSort(vector< vector<int> > &adj, vector<int> &indegree){
@@ -34,7 +41,6 @@ vector<int> topoSort(vector< vector<int> > &adj, vector<int> &indegree){
         }
     }
 
-    
     return topoSorted;
 }
 
