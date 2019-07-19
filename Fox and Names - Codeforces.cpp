@@ -3,12 +3,14 @@
 #include <algorithm>
 #include <functional>
 #include <queue>
+#include <stack>
 #include <string>
 #include <vector>
 #include <map>
 #include <set>
-#include <stdio.h>
-#include <fstream>
+#include <bitset>
+#include <cmath>
+#include <iomanip>
 using namespace std;
 
 //=============================================================================================
