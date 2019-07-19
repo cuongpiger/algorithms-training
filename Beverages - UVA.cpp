@@ -3,11 +3,14 @@
 #include <algorithm>
 #include <functional>
 #include <queue>
+#include <stack>
 #include <string>
 #include <vector>
 #include <map>
 #include <set>
-#include <stdio.h>
+#include <bitset>
+#include <cmath>
+#include <iomanip>
 using namespace std;
 
 //=============================================================================================
@@ -78,5 +81,6 @@ int main() {
 		topoSort(drinks, inD, g);
 		puts(".\n");
 	}
+	
 	return 0;
 }
