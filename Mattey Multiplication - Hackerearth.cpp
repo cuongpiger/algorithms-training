@@ -9,6 +9,7 @@
 #include <set>
 #include <stdio.h>
 #include <bitset>
+#include <sstream>
 using namespace std;
 
 //=============================================================================================
