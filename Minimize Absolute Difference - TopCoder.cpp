@@ -10,6 +10,7 @@
 #include <set>
 #include <bitset>
 #include <cmath>
+#include <sstream>
 using namespace std;
 
 //=============================================================================================
