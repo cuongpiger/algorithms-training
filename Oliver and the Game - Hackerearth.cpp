@@ -59,9 +59,8 @@ void dfs(int vertex, int &t) {
 
 inline void topologicalSort() {
 	int t = 1;
-	for (int i = 1; i <= vertices; ++i) {
+	for (int i = 1; i <= vertices; ++i)
 		if (!vs[i]) dfs(i, t);
-	}
 }
 																					
 int main() {
