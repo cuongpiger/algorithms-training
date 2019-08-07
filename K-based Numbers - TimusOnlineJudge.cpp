@@ -56,7 +56,7 @@ inline double _distance(const pii& a, const pii& b) { return sqrt(pw((double)(a.
 pair<lli, lli> dp[20];
 int n, k;
 
-void solve() {
+inline void solve() {
 	for (int i = 2; i <= n; ++i) {
 		dp[i].not0 = (dp[i - 1].is0 + dp[i - 1].not0) * (k - 1);
 		dp[i].is0 = dp[i - 1].not0;
