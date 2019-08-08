@@ -50,6 +50,7 @@ inline double _distance(const pii& a, const pii& b) { return sqrt(pw((double)(a.
  
 /**
 ** Comment **
+https://www.geeksforgeeks.org/minimum-insertions-to-form-a-palindrome-dp-28/
 **/
  
 inline int solve(const string& s) {
