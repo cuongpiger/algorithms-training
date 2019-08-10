@@ -49,6 +49,7 @@ inline double _distance(const pii& a, const pii& b) { return sqrt(pw((double)(a.
 //=============================================================================================
 
 /**
+https://www.spoj.com/problems/ADFRUITS/
 ** Comment **
 **/
 
