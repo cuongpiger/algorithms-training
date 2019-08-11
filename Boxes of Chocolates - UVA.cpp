@@ -33,6 +33,7 @@ typedef pair<char, char> pcc;
 #define _cin(X) int (X); cin >> X;
 int _gcd(int a, int b){ return !b ? a : _gcd(b, a %b);}
 
+//https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1430
 /**
 ** Comment **
 **/
