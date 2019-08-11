@@ -1,4 +1,3 @@
-//https://textsaver.flap.tv/lists/2rtv
 #include <iostream>
 #include <algorithm>
 #include <functional>
