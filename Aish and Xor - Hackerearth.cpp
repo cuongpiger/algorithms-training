@@ -26,6 +26,7 @@ typedef pair<ld, ld> p2ld;
 typedef pair<char, char> pcc;
 //=============================================================================================
 
+//https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/aish-and-xor-2/
 /*
 - Mảng xorAtIndex dùng để lưu kết quả khi xor các giá trị trước index hiện tại (index - 1) với giá trị tại index hiện tại
 - Mảng countZeroAtIndex dùng để đếm số lượng số 0 tới index hiện tại
