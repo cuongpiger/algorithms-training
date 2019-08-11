@@ -51,7 +51,7 @@ inline double _distance(const pii& a, const pii& b) { return sqrt(pw((double)(a.
 //https://www.spoj.com/problems/ADFRUITS/
 /**
 ** Comment **
-**/
+ **/
 
 inline string solve(const string& s1, const string& s2) {
 	int m = s1.size(), n = s2.size();
