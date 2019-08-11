@@ -26,6 +26,8 @@ typedef pair<ld, ld> p2ld;
 typedef pair<char, char> pcc;
 //=============================================================================================
 
+//https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2001
+
 int n, e;
 vector<string> drinksName;
 
