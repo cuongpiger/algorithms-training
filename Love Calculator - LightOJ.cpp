@@ -53,9 +53,9 @@ inline double _distance(const pii& a, const pii& b) { return sqrt(pw((double)(a.
 /**
 ** Comment **
 https://imgur.com/gallery/oFvsLW6
-- Let dp[i][j] -> The length of the shortest string that contains a[1…i] and b[1….j] as subsequence
-- Let dp2[i][j] -> Total number of unique shortest strings which contain a[1…i] and b[1….j] as subsequence
-**/
+- Let dp[i][j] -> The length of the shortest string that contains a[1â€¦i] and b[1â€¦.j] as subsequence
+- Let dp2[i][j] -> Total number of unique shortest strings which contain a[1â€¦i] and b[1â€¦.j] as subsequence
+ **/
 
 const int MAX = 35;
 ll dp[MAX][MAX], dp2[MAX][MAX];
