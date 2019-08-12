@@ -32,7 +32,7 @@ typedef pair<char, char> pcc;
 
 #define _cin(X) int (X); cin >> X;
 int _gcd(int a, int b){ return !b ? a : _gcd(b, a %b);}
-
+//https://codeforces.com/problemset/problem/515/B
 /**
 ** Comment **
 **/
