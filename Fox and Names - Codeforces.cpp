@@ -26,6 +26,8 @@ typedef pair<ld, ld> p2ld;
 typedef pair<char, char> pcc;
 //=============================================================================================
 
+//https://codeforces.com/problemset/problem/510/C
+
 int n, e;
 vector<string> names;
 vector<vector<int>> g(26, vector<int>());
