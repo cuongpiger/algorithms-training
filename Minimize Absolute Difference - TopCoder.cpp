@@ -26,6 +26,7 @@ typedef pair<ld, ld> p2ld;
 typedef pair<char, char> pcc;
 //=============================================================================================
 
+//https://arena.topcoder.com/index.html#/u/practiceCode/17141/62461/14883/1/331176
 /**
 ** Comment **
 **/
