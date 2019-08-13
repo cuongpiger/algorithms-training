@@ -33,6 +33,7 @@ int _gcd(int a, int b){ return !b ? a : _gcd(b, a %b); }
 double _distance(const pii &a, const pii &b){ return sqrt(pw((double)(a.x - b.x)) + pw((double)(a.y - b.y))); }
 //=============================================================================================
 
+//http://lightoj.com/volume_showproblem.php?problem=1102
 /**
 ** Comment **
 https://www.geeksforgeeks.org/modular-division/
