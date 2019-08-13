@@ -13,7 +13,7 @@
 #include <iomanip>
 using namespace std;
  
-//=============================================================================================
+//==============================================================================================
 const double pi = 3.14159265359;
 #define p(a) ((a) * (a))
 typedef long long ll;
@@ -24,8 +24,7 @@ typedef pair<ll, ll> p2ll;
 typedef pair<string, int> psi;
 typedef pair<ld, ld> p2ld;
 typedef pair<char, char> pcc;
-//=============================================================================================
-
+//==============================================================================================
 //https://www.spoj.com/problems/MAKETREE/
 
 int students, successStudents;
