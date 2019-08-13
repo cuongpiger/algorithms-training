@@ -26,6 +26,8 @@ typedef pair<ld, ld> p2ld;
 typedef pair<char, char> pcc;
 //=============================================================================================
 
+//https://www.spoj.com/problems/RPLA/
+
 int n, e, pos;
 
 inline void topologicalSort(vector<vector<int>> &g, vector<int> &res, vector<int> &inD) {
