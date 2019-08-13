@@ -25,6 +25,7 @@ typedef pair<ld, ld> p2ld;
 typedef pair<char, char> pcc;
 //=============================================================================================
 
+//https://www.hackerrank.com/challenges/sansa-and-xor/problem
 /**
  ** Comment **
  https://www.youtube.com/watch?v=knHJM_JG2Po
