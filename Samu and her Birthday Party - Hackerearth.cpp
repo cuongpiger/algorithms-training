@@ -25,6 +25,7 @@ typedef pair<ld, ld> p2ld;
 typedef pair<char, char> pcc;
 //=============================================================================================
 
+//https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/samu-and-her-birthday-party-1/
 /**
  ** Comment **
 Can learn more about counting the number of bits 1 in an integer here:
