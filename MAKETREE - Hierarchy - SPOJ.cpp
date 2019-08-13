@@ -25,7 +25,9 @@ typedef pair<string, int> psi;
 typedef pair<ld, ld> p2ld;
 typedef pair<char, char> pcc;
 //=============================================================================================
- 
+
+//https://www.spoj.com/problems/MAKETREE/
+
 int students, successStudents;
  
 bool topologicalSort(vector<vector<int>> &grp, vector<int> &res) {
