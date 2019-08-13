@@ -25,6 +25,7 @@ typedef pair<ld, ld> p2ld;
 typedef pair<char, char> pcc;
 //=============================================================================================
 
+//https://www.hackerearth.com/challenges/competitive/thoughtworks-singapore-codeathon-2015/algorithm/power-of-two-4/
 /**
  ** Comment **
 - Can find out more about the power of two on this page:
