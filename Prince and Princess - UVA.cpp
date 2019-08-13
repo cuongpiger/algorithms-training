@@ -54,7 +54,6 @@ inline double _distance(const pii& a, const pii& b) { return sqrt(pw((double)(a.
 ** Comment **
 **/
 
-
 int main() {
 	_FAST;
 	_cin(tc);
