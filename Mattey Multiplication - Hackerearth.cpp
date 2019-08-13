@@ -25,6 +25,7 @@ typedef pair<ld, ld> p2ld;
 typedef pair<char, char> pcc;
 //=============================================================================================
 
+//https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/mattey-multiplication-6/
 /**
  ** Comment **
 - Just take 2 numbers N and M and then convert them to binary strings. then multiply 2 binary strings
