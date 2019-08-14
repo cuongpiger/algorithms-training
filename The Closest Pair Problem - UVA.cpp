@@ -29,9 +29,11 @@ typedef pair<ld, ld> p2ld;
 typedef pair<char, char> pcc;
 //=============================================================================================
 
+//https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1186
 /**
  ** Comment **
  **/
+
 const double INF = 1e5;
 int n;
 vector<pdd> points;
