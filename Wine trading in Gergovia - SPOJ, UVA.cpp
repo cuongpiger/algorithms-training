@@ -29,6 +29,8 @@ typedef pair<ld, ld> p2ld;
 typedef pair<char, char> pcc;
 //=============================================================================================
 
+//https://www.spoj.com/problems/GERGOVIA/
+//https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1995
 /**
  ** Comment **
  **/
