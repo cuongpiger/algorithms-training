@@ -25,6 +25,7 @@ typedef pair<ld, ld> p2ld;
 typedef pair<char, char> pcc;
 //=============================================================================================
 
+//https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=545
 /**
  ** Comment **
  https://www.geeksforgeeks.org/boggle-set-2-using-trie/
