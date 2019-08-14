@@ -29,10 +29,12 @@ typedef pair<ld, ld> p2ld;
 typedef pair<char, char> pcc;
 //=============================================================================================
 
+//https://codeforces.com/problemset/problem/429/D
 /**
  ** Comment **
 - If a number is a smallest number, the its square root will be the smallest number
  **/
+
 const double INF = 1e10;
 int n;
 vector<pdd> points; // to store x and y coordinates
