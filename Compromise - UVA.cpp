@@ -50,8 +50,8 @@ inline double _distance(const pii& a, const pii& b) { return sqrt(pw((double)(a.
 
 //https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=472
 /**
-** Comment **
-**/
+ ** Comment **
+ **/
 
 #define hash_value first
 #define this_string second
