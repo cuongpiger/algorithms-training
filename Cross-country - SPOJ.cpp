@@ -49,8 +49,8 @@ inline double _distance(const pii& a, const pii& b) { return sqrt(pw((double)(a.
 
 //https://www.spoj.com/problems/CRSCNTRY/
 /**
-** Comment **
-**/
+ ** Comment **
+ **/
 
 int lcs[1010][1010];
 
