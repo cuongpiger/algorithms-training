@@ -17,7 +17,7 @@
 #include <unordered_map>
 using namespace std;
 
-//=========================================================================================================================
+//==========================================================================================================================
 #define pw(a) ((a) * (a))
 #define _x first
 #define _y second
@@ -47,7 +47,7 @@ typedef vector<pii> vpii;
 typedef vector<vector<int>> vvint;
 int _gcd(int a, int b) { return !b ? a : _gcd(b, a % b); }
 inline double _distance(const pii& a, const pii& b) { return sqrt(pw((double)(a._x - b._x)) + pw((double)(a._y - b._y))); }
-//=========================================================================================================================
+//==========================================================================================================================
 
 //https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=167
 /**
