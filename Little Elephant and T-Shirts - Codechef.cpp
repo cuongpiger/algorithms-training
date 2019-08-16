@@ -50,7 +50,6 @@ inline double _distance(const pii& a, const pii& b) { return sqrt(pw((double)(a.
 //=========================================================================================================================
 
 //https://www.codechef.com/problems/TSHIRTS
-//
 /**
 ** Comment **
 https://www.geeksforgeeks.org/bitmasking-and-dynamic-programming-set-1-count-ways-to-assign-unique-cap-to-every-person/
