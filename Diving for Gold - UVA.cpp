@@ -101,7 +101,6 @@ void printItems(vpii& a, int t, int index, int w, int cnt) {
 int main() {
 	_FAST;
 	int t, w, n;
-	pii res;
 	string br = "";
 
 	while (cin >> t >> w >> n) {
