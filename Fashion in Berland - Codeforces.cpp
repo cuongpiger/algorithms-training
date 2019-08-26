@@ -52,7 +52,7 @@ int _gcd(int a, int b) { return !b ? a : _gcd(b, a % b); }
 inline double _distance(const pii& a, const pii& b) { return sqrt(pw((double)(a.first - b.first)) + pw((double)(a.second - b.second))); }
 //=========================================================================================================================
 
-//https://codeforces.com/problemset/problem/691/A?fbclid=IwAR2mIh2oO8nSW3o4VVtdTypyL6qOS0BqrslA3IK5y4PhTQ1kXsybZu7DSt4
+//https://codeforces.com/problemset/problem/691/A
 /**
 ** Comment **
 **/
