@@ -68,7 +68,6 @@ void allTopologicalSort(map<int, char> &vari, vector<vector<int>> &grp, vector<i
 	}
 }
 
-
 int main() {
 	ios_base::sync_with_stdio(0);
 	cin.tie(0), cout.tie(0);
