@@ -17,7 +17,7 @@
 #include <unordered_map>
 using namespace std;
 
-//=========================================================================================================================
+//========================================================================================================================
 #define pw(a) ((a) * (a))
 #define vit vector<int>::iterator
 #define FILE_IO freopen("input.txt", "r", stdin); freopen("output.txt", "w", stdout)
@@ -50,7 +50,7 @@ typedef vector<vector<vector<int>>> vvvint;
 typedef vector<vector<vector<long long>>> vvvll;
 int _gcd(int a, int b) { return !b ? a : _gcd(b, a % b); }
 inline double _distance(const pii& a, const pii& b) { return sqrt(pw((double)(a.first - b.first)) + pw((double)(a.second - b.second))); }
-//=========================================================================================================================
+//========================================================================================================================
 
 //https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2451
 /**
