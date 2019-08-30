@@ -17,7 +17,7 @@
 #include <unordered_map>
 using namespace std;
 
-//========================================================================================================================
+//=========================================================================================================================
 #define pw(a) ((a) * (a))
 #define vit vector<int>::iterator
 #define FILE_IO freopen("input.txt", "r", stdin); freopen("output.txt", "w", stdout)
@@ -50,45 +50,44 @@ typedef vector<vector<vector<int>>> vvvint;
 typedef vector<vector<vector<long long>>> vvvll;
 int _gcd(int a, int b) { return !b ? a : _gcd(b, a % b); }
 inline double _distance(const pii& a, const pii& b) { return sqrt(pw((double)(a.first - b.first)) + pw((double)(a.second - b.second))); }
-//========================================================================================================================
+//=========================================================================================================================
 
 //https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2451
 /**
 ** Comment **
 **/
 
-int lis[2010], lds[2010], a[2010];
+int a[4010];
 
 inline int LIS(int n) {
-	int maxx = 0;
-
-	for (int i = 0; i < n; ++i) {
-		lis[i] = lds[i] = 1;
-
-		for (int j = 0; j < i; ++j) {
-			if (a[j] < a[i] && lis[j] + 1 > lis[i]) {
-				lis[i] = lis[j] + 1;
-			}
-
-			if (a[j] > a[i] && lds[j] + 1 > lds[i]) {
-				lds[i] = lds[j] + 1;
-			}
-		}
-
-		maxx = max(maxx, lis[i] + lds[i] - 1);
+	if (!n) {
+		return 0;
 	}
 
-	return maxx;
+	n <<= 1;
+	vint lis = { a[0] };
+
+	for (int i = 1; i < n; ++i) {
+		if (a[i] > lis.back()) {
+			lis.push_back(a[i]);
+		}
+		else {
+			*(lower_bound(lis.begin(), lis.end(), a[i])) = a[i];
+		}
+	}
+
+	return lis.size();
 }
 
 int main() {
 	FAST_IO;
-	int tc, n; cin >> tc;
+	int tc; cin >> tc;
 
 	while (tc--) {
-		cin >> n;
+		int n; cin >> n;
 		for (int i = 0; i < n; ++i) {
-			cin >> a[n - i - 1];
+			cin >> a[n + i];
+			a[n - i - 1] = a[n + i];
 		}
 
 		cout << LIS(n) << endl;
