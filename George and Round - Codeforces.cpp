@@ -59,21 +59,19 @@ inline double _distance(const pii& a, const pii& b) { return sqrt(pw((double)(a.
 
 int main() {
 	FAST_IO;
-	int n, m, x, cnt = 0, j = -1, a[3010];
+	int n, m, x, j = 0, cnt = 0, a[3010];
 
 	cin >> n >> m;
 	for (int i = 0; i < n; ++i) {
 		cin >> a[i];
 	}
 
-	for (int i = 0; i < n; ++i) {
-		while (++j < m) {
-			cin >> x;
+	while (m--) {
+		cin >> x;
 
-			if (x >= a[i]) {
-				++cnt;
-				break;
-			}
+		if (j < n && x >= a[j]) {
+			++j;
+			++cnt;
 		}
 	}
 
