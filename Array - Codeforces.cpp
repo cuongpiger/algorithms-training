@@ -55,7 +55,7 @@ inline double _distance(const pii& a, const pii& b) { return sqrt(pw((double)(a.
 //http://codeforces.com/problemset/problem/224/B
 /**
 ** Comment **
-**/
+ **/
 
 int path[100010], a[100010];
 
