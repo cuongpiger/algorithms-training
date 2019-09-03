@@ -55,7 +55,7 @@ inline double _distance(const pii& a, const pii& b) { return sqrt(pw((double)(a.
 //https://codeforces.com/problemset/problem/518/A
 /**
 ** Comment **
-**/
+ **/
 
 int main() {
 	FAST_IO;
