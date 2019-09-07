@@ -55,7 +55,7 @@ inline double _distance(const pii& a, const pii& b) { return sqrt(pw((double)(a.
 //https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2451
 /**
 ** Comment **
-**/
+ **/
 
 int lis[2010], lds[2010], a[2010];
 
