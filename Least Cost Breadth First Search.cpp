@@ -1,4 +1,4 @@
-﻿#pragma warning(disable:4996)
+#pragma warning(disable:4996)
 #include <iostream>
 #include <cstdint>
 #include <algorithm>
@@ -41,6 +41,7 @@ typedef pair<char, char> pcc;
 typedef pair<ll, string> plls;
 typedef vector<bool> vb;
 typedef vector<int> vi;
+typedef vector<string> vstr;
 typedef vector<ll> vll;
 typedef vector<pii> vpii;
 typedef vector<pdi> vpdi;
@@ -62,32 +63,63 @@ inline int DEC(char x) { return (int)(x - '0'); }
 ** Comment **
 **/
 
+vstr names;
 #define to first
 #define cost second
 
+void printPath(int src, int dst, vi& path) {
+	if (src == dst) {
+		cout << names[dst] << " ";
+	}
+	else {
+		if (path[dst] == -1) {
+			cout << "No path" << endl;
+		}
+		else {
+			printPath(src, path[dst], path);
+			cout << names[dst] << " ";
+		}
+	}
+}
+
 inline int LCBFS(int n, vector<vector<pair<int, int>>>& grp, int src, int dst) {
-	int res = INT_MAX;
-	queue<pair<int, int>> q;
-	q.push(make_pair(src, 0));
+	vi dist(n + 10, 1000000000);
+	vb vs(n + 10, false);
+	vi path(n + 10, -1);
+	queue<pii> q;
+	q.push({ src, 0 });
+	dist[src] = 0;
+	vs[src] = true;
 
 	while (!q.empty()) {
-		pair<int, int> u = q.front();
+		queue<pii> cpy = q;
+
+		while (!cpy.empty()) {
+			cout << "[" << names[cpy.front().to] << ", " << cpy.front().cost << "] ";
+			cpy.pop();
+		}
+		cout << endl;
+
+		int u = q.front().to;
 		q.pop();
 
-		if (u.to == dst) {
-			res = min(res, u.cost);
-		}
+		for (int i = 0; i < grp[u].size(); ++i) {
 
-		for (int i = 0; i < grp[u.to].size(); ++i) {
-			pair<int, int> v = grp[u.to][i];
+			int v = grp[u][i].to;
+			int cst = grp[u][i].cost;
 
-			if (u.cost + v.cost <= res) {
-				q.push(make_pair(v.to, u.cost + v.cost));
+			if (!vs[v] || (dist[v] > dist[u] + cst)) {
+				q.push({ v,  dist[u] + cst });
+				vs[v] = true;
+				dist[v] = dist[u] + cst;
+				path[v] = u;
 			}
 		}
 	}
 
-	return res == INT_MAX ? -1 : res;
+	printPath(src, dst, path);
+
+	return dist[dst];
 }
 
 int main() {
@@ -96,18 +128,21 @@ int main() {
 	int V, E;
 	string src, dst;
 	map<string, int> city;
-	
+
 	cin >> V >> E;
 	vector<vector<pair<int, int>>> grp(V + 10);
+	names.resize(V + 10);
 	for (int w, i = 1; i <= E; ++i) {
 		cin >> src >> dst >> w;
 
 		if (city.count(src) <= 0) {
 			city[src] = i;
+			names[i] = src;
 		}
 
 		if (city.count(dst) <= 0) {
 			city[dst] = i;
+			names[i] = dst;
 		}
 
 		grp[city[src]].push_back(make_pair(city[dst], w));
@@ -122,9 +157,7 @@ int main() {
 
 /*
 Bộ test từ đề bài của thầy
-
 Bộ test 1
-
 19 20
 Oradea Zerind 71
 Zerind Arad 75
@@ -146,9 +179,7 @@ Iasi Vaslui 92
 Vaslui Urziceni 142
 Urziceni Hirsova 98
 Hirsova Eforie 86
-
 Bộ test 2
-
 20 23
 Oradea Zerind 71
 Zerind Arad 75
@@ -173,5 +204,4 @@ Hirsova Eforie 86
 Lugoj Mehadia 70
 Bucharest Giurgiu 90
 Bucharest Urziceni 85
-
 */
