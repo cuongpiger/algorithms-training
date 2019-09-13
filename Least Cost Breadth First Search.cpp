@@ -61,7 +61,7 @@ inline int DEC(char x) { return (int)(x - '0'); }
 //
 /**
 ** Comment **
-**/
+ **/
 
 vstr names;
 #define to first
@@ -104,7 +104,6 @@ inline int LCBFS(int n, vector<vector<pair<int, int>>>& grp, int src, int dst) {
 		q.pop();
 
 		for (int i = 0; i < grp[u].size(); ++i) {
-
 			int v = grp[u][i].to;
 			int cst = grp[u][i].cost;
 
@@ -116,9 +115,8 @@ inline int LCBFS(int n, vector<vector<pair<int, int>>>& grp, int src, int dst) {
 			}
 		}
 	}
-
+	
 	printPath(src, dst, path);
-
 	return dist[dst];
 }
 
