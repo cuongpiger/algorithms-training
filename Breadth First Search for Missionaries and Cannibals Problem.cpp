@@ -96,7 +96,7 @@ State states[2][5][5];
 #define mis first
 #define can second
 
-bool isSafe(int noMis, int noCan) {
+inline bool isSafe(int noMis, int noCan) {
 	if (noMis < 0 || noMis > 3 || noCan < 0 || noCan > 3 || (noCan > noMis && noMis != 0)) {
 		return false;
 	}
@@ -104,7 +104,7 @@ bool isSafe(int noMis, int noCan) {
 	return true;
 }
 
-void bfs() {
+inline void bfs() {
 	queue<State> q;
 	q.push(State(3, 3, 0, -1, -1, -1));
 	states[0][3][3] = State(3, 3, 0, -1, -1, -1);
