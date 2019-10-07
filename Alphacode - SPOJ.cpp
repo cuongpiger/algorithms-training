@@ -48,8 +48,8 @@ int _gcd(int a, int b) { return !b ? a : _gcd(b, a % b); }
 inline double _distance(const pii& a, const pii& b) { return sqrt(pw((double)(a._x - b._x)) + pw((double)(a._y - b._y))); }
 //=============================================================================================
 
-//https://www.spoj.com/problems/ACODE/
 /**
+https://www.spoj.com/problems/ACODE/
 ** Comment **
 - Suppose, the number 25114 is numbered from 0 to 4. So when we check the number 1 at index 3th, we will check the index
 (i - 1)th if the values in these 2 indexs will create a character which it's worth <= 26 or not?
