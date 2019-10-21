@@ -59,47 +59,113 @@ int GCD(int a, int b) { return !b ? a : GCD(b, a % b); }
 inline double DIST(const pii& a, const pii& b) { return sqrt(pw((double)(a.first - b.first)) + pw((double)(a.second - b.second))); }
 inline int DEC(char x) { return (int)(x - '0'); }
 /*__________________________________________________________________________________________________________________________
-https://www.urionlinejudge.com.br/judge/en/problems/view/1655
+https://www.spoj.com/problems/UCV2013B/
 ____________________________________________________________________________________________________________________________*/
 
-typedef struct Node {
-	int u, v;
-	double w;
+const ll INF = 20000000000000ll;
+const int MAX = 105;
 
-	Node(int _u, int _v, double _w) {
-		u = _u;
-		v = _v;
-		w = _w;
+typedef struct Node {
+	int source, target;
+	ll weight;
+
+	Node(int _source, int _target, ll _weight) {
+		source = _source;
+		target = _target;
+		weight = _weight;
 	}
 } Node;
+
+int n;
+vector<Node> grp;
+ll dist[MAX][MAX];
+bool negCycle[MAX][MAX];
+string name[MAX];
+
+inline void BellMan_Ford(int s) {
+	for (int i = 0; i < n; ++i) {
+		dist[s][i] = INF;
+		negCycle[s][i] = false;
+	}
+
+	dist[s][s] = 0;
+
+	for (int i = 0; i < n; ++i) {
+		for (int j = 0; j < grp.size(); ++j) {
+			int u = grp[j].source;
+			int v = grp[j].target;
+			ll w = grp[j].weight;
+
+			if (dist[s][u] != INF && dist[s][v] > dist[s][u] + w) {
+				dist[s][v] = dist[s][u] + w;
+
+				if (i == n - 1) {
+					negCycle[s][v] = true;
+				}
+			}
+		}
+	}
+}
 
 int main() {
 	FAST_IO;
 	//FILE_IO;
-	int V, E;
 
-	while (cin >> V && V) {
-		cin >> E;
-		int u, v;
-		double w;
-		vector<Node> grp;
-		vector<double> dist(V + 5, -1);
-		dist[1] = 1;
+	int cs = 1;
+	while (cin >> n && n != 0) {
+		ll w;
+		int qry;
+		grp.clear();
 
-		for (int i = 0; i < E; ++i) {
-			cin >> u >> v >> w;
-			grp.push_back(Node(u, v, w/100.0));
-		}
+		for (int i = 0; i < n; ++i) {
+			cin >> name[i];
 
-		for (int i = 0; i < V - 1; ++i) {
-			for (int j = 0; j < grp.size(); ++j) {
-				Node x = grp[j];
-				dist[x.u] = max(dist[x.u], dist[x.v] * x.w);
-				dist[x.v] = max(dist[x.v], dist[x.u] * x.w);
+			for (int j = 0; j < n; ++j) {
+				cin >> w;
+
+				if (i == j) { // the case there is a track connect from a vertex to itself
+					if (w > 0) { // if weight greater than 0, it means there is no track
+						w = 0;
+					}
+					else if (w < 0) { // if weight less than 0, that means there is a negative cycle
+						// will occur when reaching this vertex
+						w = -INF;
+					}
+				}
+
+				// if there is a track from a vertex to itself or
+				// if there is a track connect between 2 vertex (O means there is no track) 
+				if (i == j || w != 0) {
+					grp.push_back(Node(i, j, w));
+				}
 			}
 		}
 
-		cout << fixed << setprecision(6) << dist[V] * 100.0 << " percent" << endl;
+		for (int i = 0; i < n; ++i) {
+			BellMan_Ford(i);
+		}
+
+		cin >> qry;
+		cout << "Case #" << cs++ << ":\n";
+
+		while (qry--) {
+			int u, v;
+			cin >> u >> v;
+
+			if (negCycle[u][v]) {
+				cout << "NEGATIVE CYCLE\n";
+			}
+			else {
+				cout << name[u] << "-" << name[v] << " ";
+
+				if (dist[u][v] == INF) {
+					cout << "NOT REACHABLE\n";
+				}
+				else {
+					cout << dist[u][v] << endl;
+				}
+			}
+		}
 	}
 
 	return 0;
