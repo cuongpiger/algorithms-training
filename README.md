@@ -5,3 +5,4 @@
 |3|[A. Night at the Museum](https://codeforces.com/problemset/problem/731/A)|Codeforces|[3.cpp](./solutions/3.cpp)|`logic`|
 |4|[A. Bear and Game](https://codeforces.com/problemset/problem/673/A)|Codeforces|[4.cpp](./solutions/4.cpp)|`logic`|
 |5|[A. Arrays](https://codeforces.com/contest/572/problem/A)|Codeforces|[5.cpp](./solutions/5.cpp)|`sort`|
+|6|[A. Vitaly and Strings](https://codeforces.com/contest/518/problem/A)|Codeforces|[6.cpp](./solutions/6.cpp)|`logic`|
