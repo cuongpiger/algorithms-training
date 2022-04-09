@@ -8,4 +8,4 @@
 |6|[A. Vitaly and Strings](https://codeforces.com/contest/518/problem/A)|Codeforces|[6.cpp](./solutions/6.cpp)|`logic`|
 |7|[B. African Crossword](https://codeforces.com/problemset/problem/90/B)|Codeforces|[7.cpp](./solutions/7.cpp)|`logic`|
 |8|[B. Big Segment](https://codeforces.com/problemset/problem/242/B)|Codeforces|[8.cpp](./solutions/8.cpp)|`logic`|
-|9|[B. Passwords](https://codeforces.com/problemset/problem/721/B)|Codeforces|[9.cpp](./solutions/9.cpp)|`logic`|
+|9|[B. Passwords](https://codeforces.com/problemset/problem/721/B)|Codeforces|[9.cpp](./solutions/9.cpp)|`math`|
