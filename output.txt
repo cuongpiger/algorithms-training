@@ -1,1 +1,1 @@
-No such string
+-1
