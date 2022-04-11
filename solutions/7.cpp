@@ -1,3 +1,5 @@
+// O(n * m * max(n, m))
+
 #include <iostream>
 #include <algorithm>
 #include <string>

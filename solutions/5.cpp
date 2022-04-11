@@ -1,3 +1,5 @@
+// O(1)
+
 #include <iostream>
 #include <algorithm>
 #include <string>
