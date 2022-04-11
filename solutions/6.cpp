@@ -1,3 +1,5 @@
+// O(n) with n is one of the two input strings' length
+
 #include <iostream>
 #include <algorithm>
 #include <string>

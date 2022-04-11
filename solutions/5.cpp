@@ -1,4 +1,4 @@
-// O(1)
+// O(n)
 
 #include <iostream>
 #include <algorithm>

@@ -1,3 +1,5 @@
+// O(max(n, pw))
+
 #include <iostream>
 #include <algorithm>
 #include <string>
