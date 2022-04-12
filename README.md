@@ -11,3 +11,4 @@
 |9|[B. Passwords](https://codeforces.com/problemset/problem/721/B)|Codeforces|[9.cpp](./solutions/9.cpp)|`math`|
 |10|[A. Dress'em in Vests!](https://codeforces.com/problemset/problem/161/A)|Codeforces|[10.cpp](./solutions/10.cpp)|`logic`|
 |11|[A. Sereja and Dima](https://codeforces.com/problemset/problem/381/A)|Codeforces|[11.cpp](./solutions/11.cpp)|`logic`|
+|12|[B. Approximating a Constant Range](https://codeforces.com/problemset/problem/602/B)|Codeforces|[12.cpp](./solutions/11.cpp)|`2-pointer`|
