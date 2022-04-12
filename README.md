@@ -1,3 +1,6 @@
+Hi guys, I'm Cuong 👋.
+Previously, I studied Blue and Orange courses at **Big-O Coding Algorithm Centre** of **Mr. Pham Nguyen Son Tung**. This repository is where I collect the solutions that I do for the exercise during my study. In addition, it also includes other exercises that I find myself to strengthen my knowledge.
+
 |No.|Problem Title|Organization|Solution|Algorithm|
 |-|-|-|-|-|
 |1|[A. Numbers](https://codeforces.com/problemset/problem/13/A)|Codeforces|[1.cpp](./solutions/1.cpp)|`math`|
