@@ -10,3 +10,4 @@
 |8|[B. Big Segment](https://codeforces.com/problemset/problem/242/B)|Codeforces|[8.cpp](./solutions/8.cpp)|`logic`|
 |9|[B. Passwords](https://codeforces.com/problemset/problem/721/B)|Codeforces|[9.cpp](./solutions/9.cpp)|`math`|
 |10|[A. Dress'em in Vests!](https://codeforces.com/problemset/problem/161/A)|Codeforces|[10.cpp](./solutions/10.cpp)|`logic`|
+|11|[A. Sereja and Dima](https://codeforces.com/problemset/problem/381/A)|Codeforces|[11.cpp](./solutions/11.cpp)|`logic`|
