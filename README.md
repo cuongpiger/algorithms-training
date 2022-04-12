@@ -1,4 +1,5 @@
 Hi guys, I'm Cuong 👋.
+
 Previously, I studied Blue and Orange courses at **Big-O Coding Algorithm Centre** of **Mr. Pham Nguyen Son Tung**. This repository is where I collect the solutions that I do for the exercises during my study. In addition, it also includes other exercises that I find myself to strengthen my knowledge.
 
 |No.|Problem Title|Organization|Solution|Algorithm|
