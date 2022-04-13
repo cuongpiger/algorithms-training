@@ -16,3 +16,4 @@ Previously, I studied Blue and Orange courses at **Big-O Coding Algorithm Centre
 |10|[A. Dress'em in Vests!](https://codeforces.com/problemset/problem/161/A)|Codeforces|[10.cpp](./solutions/10.cpp)|`logic`|
 |11|[A. Sereja and Dima](https://codeforces.com/problemset/problem/381/A)|Codeforces|[11.cpp](./solutions/11.cpp)|`logic`|
 |12|[B. Approximating a Constant Range](https://codeforces.com/problemset/problem/602/B)|Codeforces|[12.cpp](./solutions/12.cpp)|`2-pointer`|
+|13|[B. Array](https://codeforces.com/problemset/problem/224/B)|Codeforces|[13.cpp](./solutions/13.cpp)|`2-pointer`|
