@@ -1,4 +1,4 @@
-// O(n)
+// O(n^2)
 
 #include <iostream>
 #include <algorithm>
