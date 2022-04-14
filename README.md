@@ -21,3 +21,4 @@ Previously, I studied Blue and Orange courses at **Big-O Coding Algorithm Centre
 |15|[B. Books](https://codeforces.com/problemset/problem/279/B)|Codeforces|[15.cpp](./solutions/15.cpp)|`2-pointer`|
 |16|[B. George and Round](https://codeforces.com/problemset/problem/387/B)|Codeforces|[16.cpp](./solutions/16.cpp)|`2-pointer`|
 |17|[C. Alice, Bob and Chocolate](https://codeforces.com/contest/6/problem/C)|Codeforces|[17.cpp](./solutions/17.cpp)|`2-pointer`|
+|18|[A. Business trip](https://codeforces.com/problemset/problem/149/A)|Codeforces|[18.cpp](./solutions/18.cpp)|`sort`|
