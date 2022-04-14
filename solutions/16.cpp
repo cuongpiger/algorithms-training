@@ -1,4 +1,4 @@
-// O(n)
+// O(max(m, n))
 
 #include <iostream>
 #include <algorithm>
