@@ -18,3 +18,4 @@ Previously, I studied Blue and Orange courses at **Big-O Coding Algorithm Centre
 |12|[B. Approximating a Constant Range](https://codeforces.com/problemset/problem/602/B)|Codeforces|[12.cpp](./solutions/12.cpp)|`2-pointer`|
 |13|[B. Array](https://codeforces.com/problemset/problem/224/B)|Codeforces|[13.cpp](./solutions/13.cpp)|`2-pointer`|
 |14|[B. Balls Game](https://codeforces.com/problemset/problem/430/B)|Codeforces|[14.cpp](./solutions/14.cpp)|`2-pointer`|
+|15|[B. Books](https://codeforces.com/problemset/problem/279/B)|Codeforces|[15.cpp](./solutions/15.cpp)|`2-pointer`|
