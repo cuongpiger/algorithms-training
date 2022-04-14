@@ -20,3 +20,4 @@ Previously, I studied Blue and Orange courses at **Big-O Coding Algorithm Centre
 |14|[B. Balls Game](https://codeforces.com/problemset/problem/430/B)|Codeforces|[14.cpp](./solutions/14.cpp)|`2-pointer`|
 |15|[B. Books](https://codeforces.com/problemset/problem/279/B)|Codeforces|[15.cpp](./solutions/15.cpp)|`2-pointer`|
 |16|[B. George and Round](https://codeforces.com/problemset/problem/387/B)|Codeforces|[16.cpp](./solutions/16.cpp)|`2-pointer`|
+|17|[C. Alice, Bob and Chocolate](https://codeforces.com/contest/6/problem/C)|Codeforces|[17.cpp](./solutions/17.cpp)|`2-pointer`|
