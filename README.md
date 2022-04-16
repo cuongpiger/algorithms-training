@@ -26,3 +26,4 @@ Previously, I studied Blue and Orange courses at **Big-O Coding Algorithm Centre
 |20|[A. GukiZ and Contest](https://codeforces.com/problemset/problem/551/A)|Codeforces|[20.cpp](./solutions/20.cpp)|`sort`|
 |21|[A. Towers](https://codeforces.com/contest/37/problem/A)|Codeforces|[21.cpp](./solutions/21.cpp)|`logic`|
 |22|[B. Devu, the Dumb Guy](https://codeforces.com/problemset/problem/439/B)|Codeforces|[22.cpp](./solutions/22.cpp)|`sort`|
+|23|[B. Eight Point Sets](https://codeforces.com/contest/334/problem/B)|Codeforces|[23.cpp](./solutions/23.cpp)|`sort`, `logic`|
