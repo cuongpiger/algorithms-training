@@ -1,4 +1,4 @@
-// O(n*log(n)) with n = 8
+// O(n*log(n))
 
 #include <iostream>
 #include <algorithm>
