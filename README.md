@@ -30,4 +30,4 @@ Previously, I studied Blue and Orange courses at **Big-O Coding Algorithm Centre
 |24|[B. Pasha and Tea](https://codeforces.com/contest/557/problem/B)|Codeforces|[24.cpp](./solutions/24.cpp)|`sort`, `logic`|
 |25|[B. Sort the Array](https://codeforces.com/contest/451/problem/B)|Codeforces|[25.cpp](./solutions/25.cpp)|`sort`, `logic`, `2-pointer`|
 |26|[Compilers and parsers](https://www.codechef.com/problems/COMPILER)|Codechef|[26.cpp](./solutions/26.cpp)|`greedy`|
-|27|[MMASS - Mass of Molecule](https://www.spoj.com/problems/MMASS/)|Codechef|[27.cpp](./solutions/27.cpp)|`stack`|
+|27|[MMASS - Mass of Molecule](https://www.spoj.com/problems/MMASS/)|SPOJ|[27.cpp](./solutions/27.cpp)|`stack`|
