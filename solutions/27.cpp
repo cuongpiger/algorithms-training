@@ -1,4 +1,4 @@
-// O(n * length(s))
+// O(n)
 
 #include <iostream>
 #include <algorithm>
