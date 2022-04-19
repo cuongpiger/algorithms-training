@@ -29,3 +29,4 @@ Previously, I studied Blue and Orange courses at **Big-O Coding Algorithm Centre
 |23|[B. Eight Point Sets](https://codeforces.com/contest/334/problem/B)|Codeforces|[23.cpp](./solutions/23.cpp)|`sort`, `logic`|
 |24|[B. Pasha and Tea](https://codeforces.com/contest/557/problem/B)|Codeforces|[24.cpp](./solutions/24.cpp)|`sort`, `logic`|
 |25|[B. Sort the Array](https://codeforces.com/contest/451/problem/B)|Codeforces|[25.cpp](./solutions/25.cpp)|`sort`, `logic`, `2-pointer`|
+|26|[Compilers and parsers](https://www.codechef.com/problems/COMPILER)|Codechef|[26.cpp](./solutions/26.cpp)|`greedy`|
