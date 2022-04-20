@@ -32,3 +32,4 @@ Previously, I studied Blue and Orange courses at **Big-O Coding Algorithm Centre
 |26|[Compilers and parsers](https://www.codechef.com/problems/COMPILER)|Codechef|[26.cpp](./solutions/26.cpp)|`greedy`|
 |27|[MMASS - Mass of Molecule](https://www.spoj.com/problems/MMASS/)|SPOJ|[27.cpp](./solutions/27.cpp)|`stack`|
 |28|[STPAR - Street Parade](https://www.spoj.com/problems/STPAR/)|SPOJ|[28.cpp](./solutions/28.cpp)|`stack`|
+|29|[ONP - Transform the Expression](https://www.spoj.com/problems/ONP/)|SPOJ|[29.cpp](./solutions/29.cpp)|`stack`|
