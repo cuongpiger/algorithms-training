@@ -34,3 +34,4 @@ Previously, I studied Blue and Orange courses at **Big-O Coding Algorithm Centre
 |28|[STPAR - Street Parade](https://www.spoj.com/problems/STPAR/)|SPOJ|[28.cpp](./solutions/28.cpp)|`stack`|
 |29|[ONP - Transform the Expression](https://www.spoj.com/problems/ONP/)|SPOJ|[29.cpp](./solutions/29.cpp)|`stack`|
 |30|[10935 - Throwing cards away I](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1876)|UVA|[30.cpp](./solutions/30.cpp)|`queue`|
+|31|[12207 - That is Your Queue](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3359)|UVA|[31.cpp](./solutions/30.cpp)|`queue`|
