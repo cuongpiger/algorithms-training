@@ -1,4 +1,4 @@
-// O(t*n) with t is number of test cases and n is length of expression
+// O(t*c*min(c, p)) with t is number of test cases
 
 #include <iostream>
 #include <algorithm>
