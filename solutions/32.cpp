@@ -54,7 +54,7 @@ int main() {
             }
 
             if (q[0].empty() + q[1].empty() == 0) {
-                if (q[fb].front() <= q[1 - fb].front()) {
+                if (q[fb].front().vl <= q[1 - fb].front().vl) {
                     ft = max(ft, q[fb].front().vl);
                 } else {
                     ft = max(ft, q[1 - fb].front().vl) + t;
