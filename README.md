@@ -37,3 +37,4 @@ Previously, I studied Blue and Orange courses at **Big-O Coding Algorithm Centre
 |31|[12207 - That is Your Queue](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3359)|UVA|[31.cpp](./solutions/31.cpp)|`queue`|
 |32|[10901 - Ferry Loading III](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1842)|UVA|[32.cpp](./solutions/32.cpp)|`queue`|
 |33|[UCV2013H - Slick](https://www.spoj.com/problems/UCV2013H/)|SPOJ|[33.py](./solutions/33.py)|`bfs`|
+|34|[MAKEMAZE - VALIDATE THE MAZE](https://www.spoj.com/problems/MAKEMAZE/)|SPOJ|[34.py](./solutions/34.py)|`bfs`|
