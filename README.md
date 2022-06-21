@@ -40,3 +40,4 @@ Previously, I studied Blue and Orange courses at **Big-O Coding Algorithm Centre
 |34|[MAKEMAZE - VALIDATE THE MAZE](https://www.spoj.com/problems/MAKEMAZE/)|SPOJ|[34.py](./solutions/34.py)|`bfs`|
 |35|[Guilty Prince](https://lightoj.com/problem/guilty-prince)|LightOJ|[35.py](./solutions/35.py)|`bfs`|
 |36|[Dhoom 4](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/dhoom-4/)|HackerEarth|[36.py](./solutions/36.py)|`bfs`|
+|37|[Breadth First Search: Shortest Reach](https://www.hackerrank.com/challenges/bfsshortreach/problem)|HackerRank|[37.py](./solutions/37.py)|`bfs`|
