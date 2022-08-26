@@ -42,3 +42,4 @@ Previously, I studied Blue and Orange courses at **Big-O Coding Algorithm Centre
 |36|[Dhoom 4](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/dhoom-4/)|HackerEarth|[36.py](./solutions/36.py)|`bfs`|
 |37|[Breadth First Search: Shortest Reach](https://www.hackerrank.com/challenges/bfsshortreach/problem)|HackerRank|[37.py](./solutions/37.py)|`bfs`|
 |38|[C. Ice Cave](https://codeforces.com/contest/540/problem/C)|Codeforces|[38.py](./solutions/38.py)|`bfs`|
+|39|[383. Ransom Note](https://leetcode.com/problems/ransom-note/)|LeetCode|[39.py](./solutions/39.py)|`dictionary`|
