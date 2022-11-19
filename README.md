@@ -44,3 +44,4 @@ Previously, I studied Blue and Orange courses at **Big-O Coding Algorithm Centre
 |38|[C. Ice Cave](https://codeforces.com/contest/540/problem/C)|Codeforces|[38.py](./solutions/38.py)|`bfs`|
 |39|[383. Ransom Note](https://leetcode.com/problems/ransom-note/)|LeetCode|[39.py](./solutions/39.py)|`dictionary`|
 |40|[C. Kefa and Park](https://codeforces.com/problemset/problem/580/C)|Codeforces|[40.py](./solutions/40.py)|`bfs`|
+|41|[1610 - Dudu Service Maker](https://www.beecrowd.com.br/judge/en/problems/view/1610)|UVA|[41.py](./solutions/41.py)|`dfs`|
