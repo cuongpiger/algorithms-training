@@ -46,3 +46,4 @@ Previously, I studied Blue and Orange courses at **Big-O Coding Algorithm Centre
 |40|[C. Kefa and Park](https://codeforces.com/problemset/problem/580/C)|Codeforces|[40.py](./solutions/40.py)|`bfs`|
 |41|[1610 - Dudu Service Maker](https://www.beecrowd.com.br/judge/en/problems/view/1610)|UVA|[41.py](./solutions/41.py)|`dfs`|
 |42|[D. Lakes in Berland](https://codeforces.com/contest/723/problem/D)|Codeforces|[42.py](./solutions/42.py)|`dfs`|
+|43|[CAM5 - prayatna PR](https://www.spoj.com/problems/CAM5/)|Codeforces|[43.cpp](./solutions/43.cpp)|`dfs`|
