@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	// "os"
+	"os"
 )
 
 func dfs(G [][]int, V []bool, s int, cnt int) int {
@@ -19,25 +19,28 @@ func dfs(G [][]int, V []bool, s int, cnt int) int {
 
 
 func main() {
-	// reading from file and write to file
-	// f, err := os.Open("input.txt")
-	// if err != nil {
-	// 	panic(err)
-	// }
-	// defer f.Close()
-	// oldStdin := os.Stdin
-	// defer func() { os.Stdin = oldStdin }()
-	// os.Stdin = f
+	if true == false {
+		// reading from file and write to file
+		f, err := os.Open("input.txt")
+		if err != nil {
+			panic(err)
+		}
+		defer f.Close()
+		oldStdin := os.Stdin
+		defer func() { os.Stdin = oldStdin }()
+		os.Stdin = f
 
-	// f2, err := os.Create("output.txt")
-	// if err != nil {
-	// 	panic(err)
-	// }
-	// defer f2.Close()
-	// oldStdout := os.Stdout
-	// defer func() { os.Stdout = oldStdout }()
-	// os.Stdout = f2
-	// ending reading from file
+		f2, err := os.Create("output.txt")
+		if err != nil {
+			panic(err)
+		}
+		defer f2.Close()
+		oldStdout := os.Stdout
+		defer func() { os.Stdout = oldStdout }()
+		os.Stdout = f2
+		// ending reading from file
+	}
+
 
 	// MAIN LOGIC
 	var N, M, u, v int
