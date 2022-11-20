@@ -48,3 +48,4 @@ Previously, I studied Blue and Orange courses at **Big-O Coding Algorithm Centre
 |42|[D. Lakes in Berland](https://codeforces.com/contest/723/problem/D)|Codeforces|[42.py](./solutions/42.py)|`dfs`|
 |43|[CAM5 - prayatna PR](https://www.spoj.com/problems/CAM5/)|SPOJ|[43.cpp](./solutions/43.cpp)|`dfs`|
 |44|[BENEFACT - The Benefactor](https://www.spoj.com/problems/BENEFACT/)|SPOJ|[44.py](./solutions/44.py)|`dfs`|
+|45|[LASTSHOT - THE LAST SHOT](https://www.spoj.com/problems/LASTSHOT/)|SPOJ|[45.go](./solutions/45.go)|`dfs`|
