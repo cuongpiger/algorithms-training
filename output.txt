@@ -1,2 +1,5 @@
-9
-19
+queue
+not sure
+impossible
+stack
+priority queue

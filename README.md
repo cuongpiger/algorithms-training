@@ -50,3 +50,4 @@ Previously, I studied Blue and Orange courses at **Big-O Coding Algorithm Centre
 |44|[BENEFACT - The Benefactor](https://www.spoj.com/problems/BENEFACT/)|SPOJ|[44.py](./solutions/44.py)|`dfs`|
 |45|[LASTSHOT - THE LAST SHOT](https://www.spoj.com/problems/LASTSHOT/)|SPOJ|[45.go](./solutions/45.go)|`dfs`|
 |46|[10954 - Add All](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1895)|UVA|[46.py](./solutions/46.py)|`heap`|
+|47|[11995 - I Can Guess the Data Structure!](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3146)|UVA|[47.py](./solutions/47.py)|`heap`, `stack`,`queue`|
