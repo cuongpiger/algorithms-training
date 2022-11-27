@@ -1,5 +1,5 @@
-queue
-not sure
-impossible
-stack
-priority queue
+-1
+-1
+6
+24
+60
