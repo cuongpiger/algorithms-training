@@ -53,3 +53,4 @@ Previously, I studied Blue and Orange courses at **Big-O Coding Algorithm Centre
 |47|[11995 - I Can Guess the Data Structure!](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3146)|UVA|[47.py](./solutions/47.py)|`heap`, `stack`,`queue`|
 |48|[Monk and Multiplication](https://www.hackerearth.com/practice/data-structures/trees/heapspriority-queues/practice-problems/algorithm/monk-and-multiplication/)|HackerEarth|[48.py](./solutions/48.py)|`heap`|
 |49|[QHEAP1](https://www.hackerrank.com/challenges/qheap1/problem)|HackerRank|[49.py](./solutions/49.py)|`heap`|
+|50|[Restaurant Rating](https://www.codechef.com/problems/RRATING)|CodeChef|[50.py](./solutions/50.py)|`heap`|
