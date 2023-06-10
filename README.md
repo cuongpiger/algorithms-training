@@ -57,3 +57,4 @@ Previously, I studied Blue and Orange courses at **Big-O Coding Algorithm Centre
 |51|[Roy and Trending Topics](https://www.hackerearth.com/practice/data-structures/trees/heapspriority-queues/practice-problems/algorithm/roy-and-trending-topics-1/)|HackerEarth|[51.py](./solutions/51.py)|`heap`|
 |52|[Two Sum](https://leetcode.com/problems/two-sum/)|LeetCode|[52.py](./solutions/52.py)|`logic`|
 |53|[Ransom Note](https://leetcode.com/problems/ransom-note)|LeetCode|[53.py](./solutions/53.py)|`logic`|
+|54|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|LeetCode|[54.py](./solutions/54.py)|`logic`|
