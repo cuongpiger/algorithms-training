@@ -55,3 +55,4 @@ Previously, I studied Blue and Orange courses at **Big-O Coding Algorithm Centre
 |49|[QHEAP1](https://www.hackerrank.com/challenges/qheap1/problem)|HackerRank|[49.py](./solutions/49.py)|`heap`|
 |50|[Restaurant Rating](https://www.codechef.com/problems/RRATING)|CodeChef|[50.py](./solutions/50.py)|`heap`|
 |51|[Roy and Trending Topics](https://www.hackerearth.com/practice/data-structures/trees/heapspriority-queues/practice-problems/algorithm/roy-and-trending-topics-1/)|HackerEarth|[51.py](./solutions/51.py)|`heap`|
+|52|[Two Sum](https://leetcode.com/problems/two-sum/)|LeetCode|[52.py](./solutions/52.py)|`logic`|
