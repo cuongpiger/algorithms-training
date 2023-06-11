@@ -58,3 +58,4 @@ Previously, I studied Blue and Orange courses at **Big-O Coding Algorithm Centre
 |52|[Two Sum](https://leetcode.com/problems/two-sum/)|LeetCode|[52.py](./solutions/52.py)|`logic`|
 |53|[Ransom Note](https://leetcode.com/problems/ransom-note)|LeetCode|[53.py](./solutions/53.py)|`logic`|
 |54|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|LeetCode|[54.py](./solutions/54.py)|`logic`|
+|55|[Palindrome Number](https://leetcode.com/problems/palindrome-number)|LeetCode|[55.py](./solutions/55.py)|`logic`|
