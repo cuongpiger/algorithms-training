@@ -58,3 +58,4 @@ Hi guys, I'm Cuong 👋.
 |54|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|LeetCode|[54.py](./solutions/54.py)|`logic`|
 |55|[Palindrome Number](https://leetcode.com/problems/palindrome-number)|LeetCode|[55.py](./solutions/55.py)|`logic`|
 |56|[Roman to Integer](https://leetcode.com/problems/roman-to-integer)|LeetCode|[56.py](./solutions/56.py)|`logic`|
+|57|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)|LeetCode|[57.py](./solutions/57.py)|`sort`|
