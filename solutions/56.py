@@ -1,3 +1,9 @@
+"""
+Time Complexity: O(N)
+
+- N: Number of characters in s
+"""
+
 class Solution:
     def romanToInt(self, s: str) -> int:
         subtraction = {
@@ -34,3 +40,4 @@ class Solution:
             sm = sm + subtraction.get(ch, 0)
 
         return sm
+    
