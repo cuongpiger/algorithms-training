@@ -1,15 +1,46 @@
+"""
+Time Complexity: O(n)
+
+n: length of s
+"""
+
 class Solution:
-    def canConstruct(self, ransomNote: str, magazine: str) -> bool:
-        magazine_dict = dict()
+    def isValid(self, s: str) -> bool:
+        cnt = [0, 0, 0]
+        parentheses = {
+            '(': (0, 1),
+            ')': (0, -1),
+            '{': (1, 1),
+            '}': (1, -1),
+            '[': (2, 1),
+            ']': (2, -1)
+        }
+        pairs = {
+            ')': '(',
+            ']': '[',
+            '}': '{'
+        }
 
-        for c in magazine:
-            magazine_dict[c] = magazine_dict.get(c, 0) + 1 
+        last = ""
+        for ch in s:
+            idx, scr = parentheses.get(ch)
+            cnt[idx] += scr
 
-        for c in ransomNote:
-            if magazine_dict.get(c, 0) == 0:
+            if cnt[idx] < 0:
                 return False
 
-            magazine_dict[c] -= 1
+            if ch in ('[', '{', '('):
+                last += ch
+                continue
 
-        return True
+            if last != "" and pairs.get(ch) != last[-1]:
+                return False
+
+            last = last[:-1]
+
+        for v in cnt:
+            if v != 0:
+                return False
+
+        return True 
 
