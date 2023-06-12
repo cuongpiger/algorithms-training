@@ -59,3 +59,4 @@ Hi guys, I'm Cuong 👋.
 |55|[Palindrome Number](https://leetcode.com/problems/palindrome-number)|LeetCode|[55.py](./solutions/55.py)|`logic`|
 |56|[Roman to Integer](https://leetcode.com/problems/roman-to-integer)|LeetCode|[56.py](./solutions/56.py)|`logic`|
 |57|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)|LeetCode|[57.py](./solutions/57.py)|`sort`|
+|58|[Summary Ranges](https://leetcode.com/problems/summary-ranges)|LeetCode|[58.py](./solutions/58.py)|`logic`|
