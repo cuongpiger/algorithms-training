@@ -1,5 +1,3 @@
-from typing import List
-
 class Solution:
     def equalPairs(self, grid: List[List[int]]) -> int:
         cache = {}
@@ -20,12 +18,7 @@ class Solution:
                 cache[hv] = [v[0], v[1] + 1]
 
         cnt = 0
-        for k, v in cache.items():
+        for _, v in cache.items():
             cnt += v[0] * v[1]
 
         return cnt
-    
-sol = Solution()
-
-grid = [[3,2,1],[1,7,6],[2,7,7]]
-print(sol.equalPairs(grid))

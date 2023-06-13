@@ -60,3 +60,4 @@ Hi guys, I'm Cuong 👋.
 |56|[Roman to Integer](https://leetcode.com/problems/roman-to-integer)|LeetCode|[56.py](./solutions/56.py)|`logic`|
 |57|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)|LeetCode|[57.py](./solutions/57.py)|`sort`|
 |58|[Summary Ranges](https://leetcode.com/problems/summary-ranges)|LeetCode|[58.py](./solutions/58.py)|`logic`|
+|59|[Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs)|LeetCode|[59.py](./solutions/59.py)|`hash`|
