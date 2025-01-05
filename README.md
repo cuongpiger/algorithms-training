@@ -63,3 +63,4 @@ Hi guys, I'm Cuong 👋.
 |59|[Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs)|LeetCode|[59.py](./solutions/59.py)|`hash`|
 |60|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst)|LeetCode|[60.py](./solutions/60.py)|`dfs`|
 |61|[Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree)|LeetCode|[61.py](./solutions/61.py)|`dfs`|
+|62|[Bishu and his Girlfriend](https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/bishu-and-his-girlfriend/)|HackerEarth|[62.cpp](./solutions/62.cpp)|`dfs`|
