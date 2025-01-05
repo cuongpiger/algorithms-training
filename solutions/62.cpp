@@ -73,10 +73,7 @@ void DFS(int s) {
 	for (int i = 0; i < grp[s].size(); ++i) {
 		int v = grp[s][i];
 
-		if (!/* The `dist` array in the provided code is used to store the distance of each node from the
-        starting node (node 1) in a graph. The DFS (Depth First Search) algorithm is used to traverse
-        the graph and calculate the distance of each node from the starting node. */
-        dist[v] && v != 1) {
+		if (!dist[v] && v != 1) {
 			dist[v] = dist[s] + 1;
 			DFS(v);
 		}
