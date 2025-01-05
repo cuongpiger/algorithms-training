@@ -64,3 +64,4 @@ Hi guys, I'm Cuong 👋.
 |60|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst)|LeetCode|[60.py](./solutions/60.py)|`dfs`|
 |61|[Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree)|LeetCode|[61.py](./solutions/61.py)|`dfs`|
 |62|[Bishu and his Girlfriend](https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/bishu-and-his-girlfriend/)|HackerEarth|[62.cpp](./solutions/62.cpp)|`dfs`|
+|63|[ALLIZWEL - ALL IZZ WELL](https://www.spoj.com/problems/ALLIZWEL/)|SPOJ|[63.py](./solutions/63.py)|`dfs`|
