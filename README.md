@@ -68,3 +68,4 @@ Hi guys, I'm Cuong 👋.
 |64|[1726. Tuple with Same Product](https://leetcode.com/problems/tuple-with-same-product/description/)|LeetCode|[64.py](./solutions/64.py)|`sorting`, `2-pointers`, `math`|
 |65|[2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|LeetCode|[65.py](./solutions/65.py)|`linked-list`|
 |66|[4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|LeetCode|[66.py](./solutions/66.py)|`sort`|
+|67|[3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|LeetCode|[67.py](./solutions/67.py)|`2-pointers`|
