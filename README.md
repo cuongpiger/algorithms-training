@@ -67,3 +67,4 @@ Hi guys, I'm Cuong 👋.
 |63|[ALLIZWEL - ALL IZZ WELL](https://www.spoj.com/problems/ALLIZWEL/)|SPOJ|[63.py](./solutions/63.py)|`dfs`|
 |64|[1726. Tuple with Same Product](https://leetcode.com/problems/tuple-with-same-product/description/)|LeetCode|[64.py](./solutions/64.py)|`sorting`, `2-pointers`, `math`|
 |65|[2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|LeetCode|[65.py](./solutions/65.py)|`linked-list`|
+|66|[4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|LeetCode|[66.py](./solutions/66.py)|`sort`|
