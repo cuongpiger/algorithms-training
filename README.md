@@ -70,3 +70,4 @@ Hi guys, I'm Cuong 👋.
 |66|[4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|LeetCode|[66.py](./solutions/66.py)|`sort`|
 |67|[3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|LeetCode|[67.py](./solutions/67.py)|`2-pointers`|
 |68|[2576. Find the Maximum Number of Marked Indices](https://leetcode.com/problems/find-the-maximum-number-of-marked-indices/)|LeetCode|[68.py](./solutions/68.py)|`2-pointers`, `sort`|
+|69|[966. Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/)|LeetCode|[69.py](./solutions/69.py)|`logic`|
