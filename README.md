@@ -13,12 +13,12 @@ Hi guys, I'm Cuong 👋.
 |9|[B. Passwords](https://codeforces.com/problemset/problem/721/B)|Codeforces|[9.cpp](./solutions/9.cpp)|`math`|
 |10|[A. Dress'em in Vests!](https://codeforces.com/problemset/problem/161/A)|Codeforces|[10.cpp](./solutions/10.cpp)|`logic`|
 |11|[A. Sereja and Dima](https://codeforces.com/problemset/problem/381/A)|Codeforces|[11.cpp](./solutions/11.cpp)|`logic`|
-|12|[B. Approximating a Constant Range](https://codeforces.com/problemset/problem/602/B)|Codeforces|[12.cpp](./solutions/12.cpp)|`2-pointer`|
-|13|[B. Array](https://codeforces.com/problemset/problem/224/B)|Codeforces|[13.cpp](./solutions/13.cpp)|`2-pointer`|
-|14|[B. Balls Game](https://codeforces.com/problemset/problem/430/B)|Codeforces|[14.cpp](./solutions/14.cpp)|`2-pointer`|
-|15|[B. Books](https://codeforces.com/problemset/problem/279/B)|Codeforces|[15.cpp](./solutions/15.cpp)|`2-pointer`|
-|16|[B. George and Round](https://codeforces.com/problemset/problem/387/B)|Codeforces|[16.cpp](./solutions/16.cpp)|`2-pointer`|
-|17|[C. Alice, Bob and Chocolate](https://codeforces.com/contest/6/problem/C)|Codeforces|[17.cpp](./solutions/17.cpp)|`2-pointer`|
+|12|[B. Approximating a Constant Range](https://codeforces.com/problemset/problem/602/B)|Codeforces|[12.cpp](./solutions/12.cpp)|`2-pointers`|
+|13|[B. Array](https://codeforces.com/problemset/problem/224/B)|Codeforces|[13.cpp](./solutions/13.cpp)|`2-pointers`|
+|14|[B. Balls Game](https://codeforces.com/problemset/problem/430/B)|Codeforces|[14.cpp](./solutions/14.cpp)|`2-pointers`|
+|15|[B. Books](https://codeforces.com/problemset/problem/279/B)|Codeforces|[15.cpp](./solutions/15.cpp)|`2-pointers`|
+|16|[B. George and Round](https://codeforces.com/problemset/problem/387/B)|Codeforces|[16.cpp](./solutions/16.cpp)|`2-pointers`|
+|17|[C. Alice, Bob and Chocolate](https://codeforces.com/contest/6/problem/C)|Codeforces|[17.cpp](./solutions/17.cpp)|`2-pointers`|
 |18|[A. Business trip](https://codeforces.com/problemset/problem/149/A)|Codeforces|[18.cpp](./solutions/18.cpp)|`sort`|
 |19|[A. Chores](https://codeforces.com/problemset/problem/169/A)|Codeforces|[19.cpp](./solutions/19.cpp)|`sort`|
 |20|[A. GukiZ and Contest](https://codeforces.com/problemset/problem/551/A)|Codeforces|[20.cpp](./solutions/20.cpp)|`sort`|
@@ -26,7 +26,7 @@ Hi guys, I'm Cuong 👋.
 |22|[B. Devu, the Dumb Guy](https://codeforces.com/problemset/problem/439/B)|Codeforces|[22.cpp](./solutions/22.cpp)|`sort`|
 |23|[B. Eight Point Sets](https://codeforces.com/contest/334/problem/B)|Codeforces|[23.cpp](./solutions/23.cpp)|`sort`, `logic`|
 |24|[B. Pasha and Tea](https://codeforces.com/contest/557/problem/B)|Codeforces|[24.cpp](./solutions/24.cpp)|`sort`, `logic`|
-|25|[B. Sort the Array](https://codeforces.com/contest/451/problem/B)|Codeforces|[25.cpp](./solutions/25.cpp)|`sort`, `logic`, `2-pointer`|
+|25|[B. Sort the Array](https://codeforces.com/contest/451/problem/B)|Codeforces|[25.cpp](./solutions/25.cpp)|`sort`, `logic`, `2-pointers`|
 |26|[Compilers and parsers](https://www.codechef.com/problems/COMPILER)|Codechef|[26.cpp](./solutions/26.cpp)|`greedy`|
 |27|[MMASS - Mass of Molecule](https://www.spoj.com/problems/MMASS/)|SPOJ|[27.cpp](./solutions/27.cpp)|`stack`|
 |28|[STPAR - Street Parade](https://www.spoj.com/problems/STPAR/)|SPOJ|[28.cpp](./solutions/28.cpp)|`stack`|
@@ -65,3 +65,4 @@ Hi guys, I'm Cuong 👋.
 |61|[Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree)|LeetCode|[61.py](./solutions/61.py)|`dfs`|
 |62|[Bishu and his Girlfriend](https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/bishu-and-his-girlfriend/)|HackerEarth|[62.cpp](./solutions/62.cpp)|`dfs`|
 |63|[ALLIZWEL - ALL IZZ WELL](https://www.spoj.com/problems/ALLIZWEL/)|SPOJ|[63.py](./solutions/63.py)|`dfs`|
+|64|[1726. Tuple with Same Product](https://leetcode.com/problems/tuple-with-same-product/description/)|LeetCode|[64.py](./solutions/64.py)|`sorting`, `2-pointers`, `math`|
