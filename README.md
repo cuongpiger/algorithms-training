@@ -75,3 +75,4 @@ Hi guys, I'm Cuong 👋.
 |71|[3160. Find the Number of Distinct Colors Among the Balls](https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls/description/)|LeetCode|[71.py](./solutions/71.py)|`queue`, `dict`|
 |72|[3043. Find the Length of the Longest Common Prefix](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/description/)|LeetCode|[72.py](./solutions/72.py)|`trie`|
 |73|[TRVCOST - Travelling cost](https://www.spoj.com/problems/TRVCOST/)|SPOJ|[73.py](./solutions/73.py)|`dijkstra`|
+|74|[MICEMAZE - Mice and Maze](https://www.spoj.com/problems/MICEMAZE/)|SPOJ|[74.py](./solutions/74.py)|`dijkstra`|
