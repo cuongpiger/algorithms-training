@@ -72,4 +72,5 @@ Hi guys, I'm Cuong 👋.
 |68|[2576. Find the Maximum Number of Marked Indices](https://leetcode.com/problems/find-the-maximum-number-of-marked-indices/)|LeetCode|[68.py](./solutions/68.py)|`2-pointers`, `sort`|
 |69|[966. Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/)|LeetCode|[69.py](./solutions/69.py)|`logic`|
 |70|[2239. Find Closest Number to Zero](https://leetcode.com/problems/find-closest-number-to-zero/description/)|LeetCode|[70.py](./solutions/70.py)|`logic`|
-|71|[3160. Find the Number of Distinct Colors Among the Balls](https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls/description/?envType=daily-question&envId=2025-02-07)|LeetCode|[71.py](./solutions/71.py)|`queue`, `dict`|
+|71|[3160. Find the Number of Distinct Colors Among the Balls](https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls/description/)|LeetCode|[71.py](./solutions/71.py)|`queue`, `dict`|
+|72|[3043. Find the Length of the Longest Common Prefix](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/description/)|LeetCode|[72.py](./solutions/72.py)|`trie`|
