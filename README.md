@@ -85,3 +85,4 @@ Hi guys, I'm Cuong 👋.
 |81|[UCV2013B - Alice in Amsterdam, I mean Wonderland](https://www.spoj.com/problems/UCV2013B/)|SPOJ|[81.cpp](./solutions/81.cpp)|`bellman`|
 |82|[Monk's Business Day](https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/monks-business-day/description/)|HackerRank|[82.py](./solutions/82.py)|`bellman`|
 |83|[515. Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/description)|LeetCode|[83.py](./solutions/83.py)|`sort`, `binary-tree`|
+|84|[ARBITRAG - Arbitrage](https://www.spoj.com/problems/ARBITRAG/)|SPOJ|[84.py](./solutions/84.py)|`floy-warshall`|
