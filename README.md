@@ -82,3 +82,5 @@ Hi guys, I'm Cuong 👋.
 |78|[TRAFFICN - Traffic Network](https://www.spoj.com/problems/TRAFFICN/)|SPOJ|[78.cpp](./solutions/78.cpp)|`dijkstra`|
 |79|[558 - Wormholes](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=499)|UVA|[79.py](./solutions/79.py)|`bellman`|
 |80|[Extended Traffic](https://lightoj.com/problem/extended-traffic)|LightOJ|[80.cpp](./solutions/80.cpp)|`bellman`|
+|81|[UCV2013B - Alice in Amsterdam, I mean Wonderland](https://www.spoj.com/problems/UCV2013B/)|SPOJ|[81.cpp](./solutions/81.cpp)|`bellman`|
+|82|[Monk's Business Day](https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/monks-business-day/description/)|HackerRank|[82.py](./solutions/82.py)|`bellman`|
