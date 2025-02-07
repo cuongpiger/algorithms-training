@@ -79,3 +79,4 @@ Hi guys, I'm Cuong 👋.
 |75|[SHPATH - The Shortest Path](https://www.spoj.com/problems/SHPATH)|SPOJ|[75.cpp](./solutions/75.cpp)|`dijkstra`|
 |76|[10986 - Sending email](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1927)|UVA|[76.py](./solutions/76.py)|`dijkstra`|
 |77|[Commandos](https://lightoj.com/problem/commandos)|UVA|[77.cpp](./solutions/77.py)|`dijkstra`|
+|78|[TRAFFICN - Traffic Network](https://www.spoj.com/problems/TRAFFICN/)|SPOJ|[78.cpp](./solutions/78.cpp)|`dijkstra`|
