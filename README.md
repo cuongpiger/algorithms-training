@@ -86,3 +86,4 @@ Hi guys, I'm Cuong 👋.
 |82|[Monk's Business Day](https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/monks-business-day/description/)|HackerRank|[82.py](./solutions/82.py)|`bellman`|
 |83|[515. Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/description)|LeetCode|[83.py](./solutions/83.py)|`sort`, `binary-tree`|
 |84|[ARBITRAG - Arbitrage](https://www.spoj.com/problems/ARBITRAG/)|SPOJ|[84.py](./solutions/84.py)|`floy-warshall`|
+|85|[278. First Bad Version](https://leetcode.com/problems/first-bad-version/)|LeetCode|[85.py](./solutions/85.py)|`binary-search`|
