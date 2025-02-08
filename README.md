@@ -89,3 +89,4 @@ Hi guys, I'm Cuong 👋.
 |85|[278. First Bad Version](https://leetcode.com/problems/first-bad-version/)|LeetCode|[85.py](./solutions/85.py)|`binary-search`|
 |86|[10171 - Meeting Prof. Miguel...](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1112)|UVA|[86.py](./solutions/86.py)|`floy-warshall`|
 |87|[10246 - Asterix and Obelix](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1187)|UVA|[87.py](./solutions/87.py)|`floy-warshall`|
+|88|[2349. Design a Number Container System](https://leetcode.com/problems/design-a-number-container-system/description)|LeetCode|[88.py](./solutions/88.py)|`heap`|
