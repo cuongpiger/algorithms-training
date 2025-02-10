@@ -91,3 +91,4 @@ Hi guys, I'm Cuong 👋.
 |87|[10246 - Asterix and Obelix](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1187)|UVA|[87.py](./solutions/87.py)|`floy-warshall`|
 |88|[2349. Design a Number Container System](https://leetcode.com/problems/design-a-number-container-system/description)|LeetCode|[88.py](./solutions/88.py)|`heap`|
 |89|[2364. Count Number of Bad Pairs](https://leetcode.com/problems/count-number-of-bad-pairs/description/)|LeetCode|[89.py](./solutions/89.py)|`logic`, `math`|
+|90|[3174. Clear Digits](https://leetcode.com/problems/clear-digits/description)|LeetCode|[90.py](./solutions/90.py)|`stack`|
