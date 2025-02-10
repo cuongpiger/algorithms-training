@@ -93,3 +93,4 @@ Hi guys, I'm Cuong 👋.
 |89|[2364. Count Number of Bad Pairs](https://leetcode.com/problems/count-number-of-bad-pairs/description/)|LeetCode|[89.py](./solutions/89.py)|`logic`, `math`|
 |90|[3174. Clear Digits](https://leetcode.com/problems/clear-digits/description)|LeetCode|[90.py](./solutions/90.py)|`stack`|
 |91|[3289. The Two Sneaky Numbers of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/description/)|LeetCode|[91.py](./solutions/91.py)|`logic`|
+|92|[2739. Total Distance Traveled](https://leetcode.com/problems/total-distance-traveled)|LeetCode|[92.py](./solutions/92.py)|`logic`|
