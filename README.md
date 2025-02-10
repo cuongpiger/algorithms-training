@@ -92,3 +92,4 @@ Hi guys, I'm Cuong 👋.
 |88|[2349. Design a Number Container System](https://leetcode.com/problems/design-a-number-container-system/description)|LeetCode|[88.py](./solutions/88.py)|`heap`|
 |89|[2364. Count Number of Bad Pairs](https://leetcode.com/problems/count-number-of-bad-pairs/description/)|LeetCode|[89.py](./solutions/89.py)|`logic`, `math`|
 |90|[3174. Clear Digits](https://leetcode.com/problems/clear-digits/description)|LeetCode|[90.py](./solutions/90.py)|`stack`|
+|91|[3289. The Two Sneaky Numbers of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/description/)|LeetCode|[91.py](./solutions/91.py)|`logic`|
