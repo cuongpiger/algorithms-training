@@ -94,3 +94,4 @@ Hi guys, I'm Cuong 👋.
 |90|[3174. Clear Digits](https://leetcode.com/problems/clear-digits/description)|LeetCode|[90.py](./solutions/90.py)|`stack`|
 |91|[3289. The Two Sneaky Numbers of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/description/)|LeetCode|[91.py](./solutions/91.py)|`logic`|
 |92|[2739. Total Distance Traveled](https://leetcode.com/problems/total-distance-traveled)|LeetCode|[92.py](./solutions/92.py)|`logic`|
+|93|[1910. Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring)|LeetCode|[93.py](./solutions/93.py)|`stack`|
