@@ -96,3 +96,4 @@ Hi guys, I'm Cuong 👋.
 |92|[2739. Total Distance Traveled](https://leetcode.com/problems/total-distance-traveled)|LeetCode|[92.py](./solutions/92.py)|`logic`|
 |93|[1910. Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring)|LeetCode|[93.py](./solutions/93.py)|`stack`|
 |94|[2816. Double a Number Represented as a Linked List](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/description/)|LeetCode|[94.py](./solutions/94.py)|`linked-list`|
+|95|[2342. Max Sum of a Pair With Equal Sum of Digits](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/description)|LeetCode|[95.py](./solutions/95.py)|`logic`|
