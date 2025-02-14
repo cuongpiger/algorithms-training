@@ -97,3 +97,4 @@ Hi guys, I'm Cuong 👋.
 |93|[1910. Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring)|LeetCode|[93.py](./solutions/93.py)|`stack`|
 |94|[2816. Double a Number Represented as a Linked List](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/description/)|LeetCode|[94.py](./solutions/94.py)|`linked-list`|
 |95|[2342. Max Sum of a Pair With Equal Sum of Digits](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/description)|LeetCode|[95.py](./solutions/95.py)|`logic`|
+|96|[3066. Minimum Operations to Exceed Threshold Value II](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii/description)|LeetCode|[96.py](./solutions/96.py)|`heap`|
