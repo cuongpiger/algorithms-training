@@ -99,3 +99,4 @@ Hi guys, I'm Cuong 👋.
 |95|[2342. Max Sum of a Pair With Equal Sum of Digits](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/description)|LeetCode|[95.py](./solutions/95.py)|`logic`|
 |96|[3066. Minimum Operations to Exceed Threshold Value II](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii/description)|LeetCode|[96.py](./solutions/96.py)|`heap`|
 |97|[1352. Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/description)|LeetCode|[97.py](./solutions/97.py)|`logic`|
+|98|[2698. Find the Punishment Number of an Integer](https://leetcode.com/problems/find-the-punishment-number-of-an-integer/description)|LeetCode|[98.py](./solutions/98.py)|`recursive`|
