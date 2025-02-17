@@ -1,7 +1,7 @@
 Hi guys, I'm Cuong 👋.
 
-|No.|Problem Title|Organization|Solution|Algorithm|
-|-|-|-|-|-|
+|No.|Problem Title|Organization|Solution|Algorithm|Time Complexity|
+|-|-|-|-|-|-|
 |1|[A. Numbers](https://codeforces.com/problemset/problem/13/A)|Codeforces|[1.cpp](./solutions/1.cpp)|`math`|
 |2|[A. Fashion in Berland](https://codeforces.com/problemset/problem/691/A)|Codeforces|[2.cpp](./solutions/2.cpp)|`logic`|
 |3|[A. Night at the Museum](https://codeforces.com/problemset/problem/731/A)|Codeforces|[3.cpp](./solutions/3.cpp)|`logic`|
@@ -101,3 +101,4 @@ Hi guys, I'm Cuong 👋.
 |97|[1352. Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/description)|LeetCode|[97.py](./solutions/97.py)|`logic`|
 |98|[2698. Find the Punishment Number of an Integer](https://leetcode.com/problems/find-the-punishment-number-of-an-integer/description)|LeetCode|[98.py](./solutions/98.py)|`recursive`|
 |99|[1718. Construct the Lexicographically Largest Valid Sequence](https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/description)|LeetCode|[99.py](./solutions/99.py)|`recursive`|
+|100|[1079. Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/description)|LeetCode|[100.py](./solutions/100.py)|`back-tracking`, `set`|$$O(n \cdot n!)$$|
