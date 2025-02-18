@@ -102,3 +102,4 @@ Hi guys, I'm Cuong 👋.
 |98|[2698. Find the Punishment Number of an Integer](https://leetcode.com/problems/find-the-punishment-number-of-an-integer/description)|LeetCode|[98.py](./solutions/98.py)|`recursive`|
 |99|[1718. Construct the Lexicographically Largest Valid Sequence](https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/description)|LeetCode|[99.py](./solutions/99.py)|`recursive`|
 |100|[1079. Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/description)|LeetCode|[100.py](./solutions/100.py)|`back-tracking`, `set`|$$O(n \cdot n!)$$|
+|101|[2375. Construct Smallest Number From DI String](https://leetcode.com/problems/construct-smallest-number-from-di-string/description)|LeetCode|[101.py](./solutions/101.py)|`back-tracking`, `set`|$$O(n \cdot n!)$$|
