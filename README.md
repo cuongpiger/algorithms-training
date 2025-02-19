@@ -103,5 +103,4 @@ Hi guys, I'm Cuong 👋.
 |99|[1718. Construct the Lexicographically Largest Valid Sequence](https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/description)|LeetCode|[99.py](./solutions/99.py)|`recursive`|
 |100|[1079. Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/description)|LeetCode|[100.py](./solutions/100.py)|`back-tracking`, `set`|$$O(n \cdot n!)$$|
 |101|[2375. Construct Smallest Number From DI String](https://leetcode.com/problems/construct-smallest-number-from-di-string/description)|LeetCode|[101.py](./solutions/101.py)|`back-tracking`, `set`|$$O(n \cdot n!)$$|
-`back-tracking`, `set`|$$O(n \cdot n!)$$|
 |102|[1415. The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/description/)|LeetCode|[102.py](./solutions/102.py)|`back-tracking`, `set`, `sort`|$$O(n!)$$|
