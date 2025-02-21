@@ -105,3 +105,4 @@ Hi guys, I'm Cuong 👋.
 |101|[2375. Construct Smallest Number From DI String](https://leetcode.com/problems/construct-smallest-number-from-di-string/description)|LeetCode|[101.py](./solutions/101.py)|`back-tracking`, `set`|$$O(n \cdot n!)$$|
 |102|[1415. The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/description/)|LeetCode|[102.py](./solutions/102.py)|`back-tracking`, `set`, `sort`|$$O(n!)$$|
 |103|[1980. Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/description/)|LeetCode|[103.py](./solutions/103.py)|`back-tracking`|$$O(n!)$$|
+|104|[1261. Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree)|LeetCode|[104.py](./solutions/104.py)|`back-tracking`|$$O(n)$$|
