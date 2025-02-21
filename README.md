@@ -106,3 +106,4 @@ Hi guys, I'm Cuong 👋.
 |102|[1415. The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/description/)|LeetCode|[102.py](./solutions/102.py)|`back-tracking`, `set`, `sort`|$$O(n!)$$|
 |103|[1980. Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/description/)|LeetCode|[103.py](./solutions/103.py)|`back-tracking`|$$O(n!)$$|
 |104|[1261. Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree)|LeetCode|[104.py](./solutions/104.py)|`back-tracking`|$$O(n)$$|
+|105|[3325. Count Substrings With K-Frequency Characters I](https://leetcode.com/problems/count-substrings-with-k-frequency-characters-i/description/)|LeetCode|[105.py](./solutions/105.py)|`logic`|$$O(n)$$|
