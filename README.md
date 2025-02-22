@@ -107,3 +107,4 @@ Hi guys, I'm Cuong 👋.
 |103|[1980. Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/description/)|LeetCode|[103.py](./solutions/103.py)|`back-tracking`|$$O(n!)$$|
 |104|[1261. Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree)|LeetCode|[104.py](./solutions/104.py)|`back-tracking`|$$O(n)$$|
 |105|[3325. Count Substrings With K-Frequency Characters I](https://leetcode.com/problems/count-substrings-with-k-frequency-characters-i/description/)|LeetCode|[105.py](./solutions/105.py)|`logic`|$$O(n)$$|
+|106|[1028. Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/description/)|LeetCode|[106.py](./solutions/106.py)|`bin-tree`, `back-tracking`|$$O(n)$$|
