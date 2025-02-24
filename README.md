@@ -110,3 +110,4 @@ Hi guys, I'm Cuong 👋.
 |106 ⭐|[1028. Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/description/)|LeetCode|[106.py](./solutions/106.py)|`bin-tree`, `back-tracking`|$$O(n)$$|
 |107 ⭐|[889. Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/description)|LeetCode|[107.py](./solutions/107.py)|`bin-tree`, `back-tracking`|$$O(n^2)$$|
 |108 ⭐|[2467. Most Profitable Path in a Tree](https://leetcode.com/problems/most-profitable-path-in-a-tree/description)|LeetCode|[108.py](./solutions/108.py)|`dfs`|$$O(n)$$|
+|109|[21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)|LeetCode|[109.java](./solutions/109.java)|`logic`|$$O(n)$$|
