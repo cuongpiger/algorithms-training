@@ -111,3 +111,4 @@ Hi guys, I'm Cuong 👋.
 |107 ⭐|[889. Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/description)|LeetCode|[107.py](./solutions/107.py)|`bin-tree`, `back-tracking`|$$O(n^2)$$|
 |108 ⭐|[2467. Most Profitable Path in a Tree](https://leetcode.com/problems/most-profitable-path-in-a-tree/description)|LeetCode|[108.py](./solutions/108.py)|`dfs`|$$O(n)$$|
 |109|[21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)|LeetCode|[109.java](./solutions/109.java)|`logic`|$$O(n)$$|
+|110|[35. Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)|LeetCode|[110.js](./solutions/110.js)|`binary-search`|$$O(log(n))$$|
