@@ -112,3 +112,4 @@ Hi guys, I'm Cuong 👋.
 |108 ⭐|[2467. Most Profitable Path in a Tree](https://leetcode.com/problems/most-profitable-path-in-a-tree/description)|LeetCode|[108.py](./solutions/108.py)|`dfs`|$$O(n)$$|
 |109|[21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)|LeetCode|[109.java](./solutions/109.java)|`logic`|$$O(n)$$|
 |110|[35. Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)|LeetCode|[110.js](./solutions/110.js)|`binary-search`|$$O(log(n))$$|
+|111 ⭐|[1524. Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/description)|LeetCode|[111.py](./solutions/111.py)|`dp`|$$O(n)$$|
