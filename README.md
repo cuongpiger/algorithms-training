@@ -114,3 +114,4 @@ Hi guys, I'm Cuong 👋.
 |110|[35. Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)|LeetCode|[110.js](./solutions/110.js)|`binary-search`|$$O(log(n))$$|
 |111 ⭐|[1524. Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/description)|LeetCode|[111.py](./solutions/111.py)|`dp`|$$O(n)$$|
 |112 ⭐|[1749. Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray)|LeetCode|[112.py](./solutions/112.py)|`greedy`|$$O(n)$$|
+|113 ⭐|[873. Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence)|LeetCode|[113.go](./solutions/113.go)|`dp`|$$O(n^2)$$|
