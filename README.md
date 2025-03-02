@@ -117,3 +117,4 @@ Hi guys, I'm Cuong 👋.
 |113 ⭐|[873. Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence)|LeetCode|[113.go](./solutions/113.go)|`dp`|$$O(n^2)$$|
 |114 ⭐|[1092. Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/description)|LeetCode|[114.py](./solutions/114.py)|`dp`|$$O(n \cdot m)$$|
 |115|[2460. Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/)|LeetCode|[115.go](./solutions/115.go)|`logic`|$$O(n)$$|
+|116|[2570. Merge Two 2D Arrays by Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/description)|LeetCode|[116.js](./solutions/116.js)|`logic`|$$O(m + n)$$|
