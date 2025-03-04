@@ -119,3 +119,4 @@ Hi guys, I'm Cuong 👋.
 |115|[2460. Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/)|LeetCode|[115.go](./solutions/115.go)|`logic`|$$O(n)$$|
 |116|[2570. Merge Two 2D Arrays by Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/description)|LeetCode|[116.js](./solutions/116.js)|`logic`|$$O(m + n)$$|
 |117|[2161. Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/description)|LeetCode|[117.ts](./solutions/117.ts)|`logic`|$$O(n)$$|
+|118|[1780. Check if Number is a Sum of Powers of Three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three)|LeetCode|[118.js](./solutions/118.js)|`logic`|$$O(16)$$|
