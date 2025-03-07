@@ -121,3 +121,4 @@ Hi guys, I'm Cuong 👋.
 |117|[2161. Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/description)|LeetCode|[117.ts](./solutions/117.ts)|`logic`|$$O(n)$$|
 |118|[1780. Check if Number is a Sum of Powers of Three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three)|LeetCode|[118.js](./solutions/118.js)|`logic`|$$O(16)$$|
 |119|[2579. Count Total Number of Colored Cells](https://leetcode.com/problems/count-total-number-of-colored-cells)|LeetCode|[119.go](./solutions/119.go)|`logic`|$$O(n / 2)$$|
+|120|[2965. Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/description)|LeetCode|[120.py](./solutions/120.py)|`logic`|$$O(n^2)$$|
