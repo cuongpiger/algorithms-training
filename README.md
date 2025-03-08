@@ -123,3 +123,4 @@ Hi guys, I'm Cuong 👋.
 |119|[2579. Count Total Number of Colored Cells](https://leetcode.com/problems/count-total-number-of-colored-cells)|LeetCode|[119.go](./solutions/119.go)|`logic`|$$O(n / 2)$$|
 |120|[2965. Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/description)|LeetCode|[120.py](./solutions/120.py)|`logic`|$$O(n^2)$$|
 |121|[2523. Closest Prime Numbers in Range](https://leetcode.com/problems/closest-prime-numbers-in-range)|LeetCode|[121.go](./solutions/121.go)|`logic`|$$O(n\cdot log(log(n)))$$|
+|122|[2379. Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks)|LeetCode|[122.go](./solutions/122.go)|`logic`|$$O(n)$$|
