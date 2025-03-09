@@ -1,31 +1,37 @@
-from typing import List
+from typing import List, Any
 
-class Solution:
-    def equalPairs(self, grid: List[List[int]]) -> int:
-        cache = {}
-        n = len(grid)
-        for i in range(n):
-            hv = hash(tuple(grid[i]))
-            v = cache.get(hv, None)
-            if v is None:
-                cache[hv] = [1, 0]
-            else:
-                cache[hv] = [v[0] + 1, v[1]]
-
-            hv = hash(tuple([grid[j][i] for j in range(n)]))
-            v = cache.get(hv, None)
-            if v is None:
-                cache[hv] = [0, 1]
-            else:
-                cache[hv] = [v[0], v[1] + 1]
-
-        cnt = 0
-        for k, v in cache.items():
-            cnt += v[0] * v[1]
-
-        return cnt
+class Heap:
     
-sol = Solution()
+    def __init__(self) -> None:
+        self.items = []
+    
+    def enqueue(self, ad: Any, priority: int):
+        item = (priority, ad)
+        self.items.append(item)
+        self.items = sorted(self.items, reverse=True)
+    
+    def dequeue(self): 
+        processed_item = self.items[0]
+        self.items = self.items[1:]
+        return processed_item[1]
+    
+    def len(self):
+        return len(self.items)
+    
+    def is_empty(self):
+        return self.len() < 1
+    
 
-grid = [[3,2,1],[1,7,6],[2,7,7]]
-print(sol.equalPairs(grid))
+def main():
+    ads = [(10, "ad 1"), (1, "ad 2"), (99, "ad 3")]
+    heap = Heap()
+    
+    for item in ads:
+        heap.enqueue(item[1], item[0])
+    
+    while not heap.is_empty():
+        first = heap.dequeue()
+        print(f"The first item is: {first}")
+        
+    
+main()

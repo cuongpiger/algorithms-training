@@ -125,3 +125,4 @@ Hi guys, I'm Cuong 👋.
 |121|[2523. Closest Prime Numbers in Range](https://leetcode.com/problems/closest-prime-numbers-in-range)|LeetCode|[121.go](./solutions/121.go)|`logic`|$$O(n\cdot log(log(n)))$$|
 |122|[2379. Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks)|LeetCode|[122.go](./solutions/122.go)|`logic`|$$O(n)$$|
 |123|[876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|LeetCode|[123.go](./solutions/123.go)|`logic`|$$O(n)$$|
+|124|[3208. Alternating Groups II](https://leetcode.com/problems/alternating-groups-ii/description)|LeetCode|[124.js](./solutions/124.js)|`2-pointers`|$$O(n + k)$$|
