@@ -128,3 +128,5 @@ Hi guys, I'm Cuong 👋.
 |124|[3208. Alternating Groups II](https://leetcode.com/problems/alternating-groups-ii/description)|LeetCode|[124.js](./solutions/124.js)|`2-pointers`|$$O(n + k)$$|
 |125|[1358. Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters)|LeetCode|[125.py](./solutions/125.py)|`slide-window`|$$O(n)$$|
 |126|[2529. Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer)|LeetCode|[126.py](./solutions/126.py)|`logic`|$$O(n)$$|
+|126|[2529. Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer)|LeetCode|[126.py](./solutions/126.py)|`logic`|$$O(n)$$|
+|127|[3306. Count of Substrings Containing Every Vowel and K Consonants II](https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii)|LeetCode|[127.py](./solutions/127.py)|`slide-window`|$$O(n)$$|
