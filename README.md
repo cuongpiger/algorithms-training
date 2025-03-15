@@ -130,3 +130,4 @@ Hi guys, I'm Cuong 👋.
 |126|[2529. Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer)|LeetCode|[126.py](./solutions/126.py)|`logic`|$$O(n)$$|
 |127|[3306. Count of Substrings Containing Every Vowel and K Consonants II](https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii)|LeetCode|[127.py](./solutions/127.py)|`slide-window`|$$O(n)$$|
 |128|[88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)|LeetCode|[128.py](./solutions/128.py)|`sort`|$$O(log(n))$$|
+|129|[2226. Maximum Candies Allocated to K Children](https://leetcode.com/problems/maximum-candies-allocated-to-k-children)|LeetCode|[129.py](./solutions/129.py)|`binary-search`|$$O(n log(m))$$ with $m$ is the maximum value in the array $candies$, and $n$ is the length of $candies$|
