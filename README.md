@@ -132,3 +132,4 @@ Hi guys, I'm Cuong 👋.
 |128|[88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)|LeetCode|[128.py](./solutions/128.py)|`sort`|$$O(log(n))$$|
 |129|[2226. Maximum Candies Allocated to K Children](https://leetcode.com/problems/maximum-candies-allocated-to-k-children)|LeetCode|[129.py](./solutions/129.py)|`binary-search`|$$O(n log(m))$$ with $m$ is the maximum value in the array $candies$, and $n$ is the length of $candies$|
 |130 ⭐|[3356. Zero Array Transformation II](https://leetcode.com/problems/zero-array-transformation-ii)|LeetCode|[130.py](./solutions/130.py)|`binary-search`|$$O(n log(n))$$|
+|131 ⭐|[2560. House Robber IV](https://leetcode.com/problems/house-robber-iv)|LeetCode|[131.py](./solutions/131.py)|`binary-search`|$$O(n log(n))$$|
