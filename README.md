@@ -134,3 +134,4 @@ Hi guys, I'm Cuong 👋.
 |130 ⭐|[3356. Zero Array Transformation II](https://leetcode.com/problems/zero-array-transformation-ii)|LeetCode|[130.py](./solutions/130.py)|`binary-search`|$$O(n log(n))$$|
 |131 ⭐|[2560. House Robber IV](https://leetcode.com/problems/house-robber-iv)|LeetCode|[131.py](./solutions/131.py)|`binary-search`|$$O(n log(n))$$|
 |132 ⭐|[2594. Minimum Time to Repair Cars](https://leetcode.com/problems/minimum-time-to-repair-cars)|LeetCode|[132.java](./solutions/132.java)|`binary-search`|$$O(n log(n))$$|
+|133|[2206. Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs/description)|LeetCode|[133.java](./solutions/133.java)|`logic`|$$O(max(n, 500))$$|
