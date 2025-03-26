@@ -137,3 +137,4 @@ Hi guys, I'm Cuong 👋.
 |133|[2206. Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs/description)|LeetCode|[133.java](./solutions/133.java)|`logic`|$$O(max(n, 500))$$|
 |134|[1976. Number of Ways to Arrive at Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination)|LeetCode|[134.py](./solutions/134.py)|`dijkstra`|$$O((N + E)log(N))$$|
 |135|[2685. Count the Number of Complete Components](https://leetcode.com/problems/count-the-number-of-complete-components)|LeetCode|[135.py](./solutions/135.py)|`dfs`|$$O(n+mlogn) \text{ and } O(n+m)$$|
+|136|[2033. Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid)|LeetCode|[136.py](./solutions/136.py)|`sort`, `math`|$$O(n \cdot logn)$$|
