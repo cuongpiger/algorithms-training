@@ -140,3 +140,4 @@ Hi guys, I'm Cuong 👋.
 |136|[2033. Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid)|LeetCode|[136.py](./solutions/136.py)|`sort`, `math`|$$O(n \cdot logn)$$|
 |137|[2780. Minimum Index of a Valid Split](https://leetcode.com/problems/minimum-index-of-a-valid-split)|LeetCode|[137.py](./solutions/137.py)|`logic`|$$O(n)$$|
 |138|[3169. Count Days Without Meetings](https://leetcode.com/problems/count-days-without-meetings)|LeetCode|[138.py](./solutions/138.py)|`sort`|$$O(log(n))$$|
+|139|[3191. Minimum Operations to Make Binary Array Elements Equal to One I](https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i)|LeetCode|[139.py](./solutions/139.py)|`sliding-window`|$$O(n)$$|
