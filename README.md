@@ -142,3 +142,4 @@ Hi guys, I'm Cuong 👋.
 |138|[3169. Count Days Without Meetings](https://leetcode.com/problems/count-days-without-meetings)|LeetCode|[138.py](./solutions/138.py)|`sort`|$$O(log(n))$$|
 |139|[3191. Minimum Operations to Make Binary Array Elements Equal to One I](https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i)|LeetCode|[139.py](./solutions/139.py)|`sliding-window`|$$O(n)$$|
 |140|[2401. Longest Nice Subarray](https://leetcode.com/problems/longest-nice-subarray/description)|LeetCode|[140.py](./solutions/140.py)|`sliding-window`|$$O(n)$$|
+|141 ⭐|[763. Partition Labels](https://leetcode.com/problems/partition-labels/description)|LeetCode|[141.py](./solutions/141.py)|`2-pointers`|$$O(n)$$|
