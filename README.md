@@ -143,3 +143,4 @@ Hi guys, I'm Cuong 👋.
 |139|[3191. Minimum Operations to Make Binary Array Elements Equal to One I](https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i)|LeetCode|[139.py](./solutions/139.py)|`sliding-window`|$$O(n)$$|
 |140|[2401. Longest Nice Subarray](https://leetcode.com/problems/longest-nice-subarray/description)|LeetCode|[140.py](./solutions/140.py)|`sliding-window`|$$O(n)$$|
 |141 ⭐|[763. Partition Labels](https://leetcode.com/problems/partition-labels/description)|LeetCode|[141.py](./solutions/141.py)|`2-pointers`|$$O(n)$$|
+|142 ⭐|[2140. Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower)|LeetCode|[142.py](./solutions/142.py)|`dp`|$$O(n)$$|
