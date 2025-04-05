@@ -144,5 +144,5 @@ Hi guys, I'm Cuong 👋.
 |140|[2401. Longest Nice Subarray](https://leetcode.com/problems/longest-nice-subarray/description)|LeetCode|[140.py](./solutions/140.py)|`sliding-window`|$$O(n)$$|
 |141 ⭐|[763. Partition Labels](https://leetcode.com/problems/partition-labels/description)|LeetCode|[141.py](./solutions/141.py)|`2-pointers`|$$O(n)$$|
 |142 ⭐|[2140. Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower)|LeetCode|[142.py](./solutions/142.py)|`dp`|$$O(n)$$|
-|143 ⭐|[2140. Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower)|LeetCode|[142.py](./solutions/142.py)|`dp`|$$O(n)$$|
+|143|[2874. Maximum Value of an Ordered Triplet II](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii)|LeetCode|[143.py](./solutions/143.py)|`greedy`|$$O(n)$$|
 |144|[1123. Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves)|LeetCode|[144.py](./solutions/144.py)|`dfs`, `backtracking`|$$O(n)$$|
