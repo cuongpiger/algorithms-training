@@ -146,3 +146,4 @@ Hi guys, I'm Cuong 👋.
 |142 ⭐|[2140. Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower)|LeetCode|[142.py](./solutions/142.py)|`dp`|$$O(n)$$|
 |143|[2874. Maximum Value of an Ordered Triplet II](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii)|LeetCode|[143.py](./solutions/143.py)|`greedy`|$$O(n)$$|
 |144|[1123. Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves)|LeetCode|[144.py](./solutions/144.py)|`dfs`, `backtracking`|$$O(n)$$|
+|145|[1863. Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals)|LeetCode|[145.py](./solutions/145.py)|`backtracking`|$$O(2^n)$$|
