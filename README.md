@@ -149,3 +149,4 @@ Hi guys, I'm Cuong 👋.
 |145|[1863. Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals)|LeetCode|[145.py](./solutions/145.py)|`backtracking`|$$O(2^n)$$|
 |146|[198. House Robber](https://leetcode.com/problems/house-robber/description/)|LeetCode|[146.py](./solutions/146.py)|`dp`|$$O(n)$$|
 |147|[368. Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/description)|LeetCode|[147.py](./solutions/147.py)|`dp`|$$O(n^2)$$|
+|148|[416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum)|LeetCode|[148.py](./solutions/148.py)|`dp`|$$O(n^2)$$|
