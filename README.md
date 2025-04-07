@@ -148,3 +148,4 @@ Hi guys, I'm Cuong 👋.
 |144|[1123. Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves)|LeetCode|[144.py](./solutions/144.py)|`dfs`, `backtracking`|$$O(n)$$|
 |145|[1863. Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals)|LeetCode|[145.py](./solutions/145.py)|`backtracking`|$$O(2^n)$$|
 |146|[198. House Robber](https://leetcode.com/problems/house-robber/description/)|LeetCode|[146.py](./solutions/146.py)|`dp`|$$O(n)$$|
+|147|[368. Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/description)|LeetCode|[147.py](./solutions/147.py)|`dp`|$$O(n^2)$$|
