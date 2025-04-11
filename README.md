@@ -150,3 +150,4 @@ Hi guys, I'm Cuong 👋.
 |146|[198. House Robber](https://leetcode.com/problems/house-robber/description/)|LeetCode|[146.py](./solutions/146.py)|`dp`|$$O(n)$$|
 |147|[368. Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/description)|LeetCode|[147.py](./solutions/147.py)|`dp`|$$O(n^2)$$|
 |148|[416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum)|LeetCode|[148.py](./solutions/148.py)|`dp`|$$O(n^2)$$|
+|149|[2843. Count Symmetric Integers](https://leetcode.com/problems/count-symmetric-integers/description)|LeetCode|[149.py](./solutions/149.py)|`logic`|$$O(n)$$|
