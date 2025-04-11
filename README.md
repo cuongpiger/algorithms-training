@@ -151,3 +151,4 @@ Hi guys, I'm Cuong 👋.
 |147|[368. Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/description)|LeetCode|[147.py](./solutions/147.py)|`dp`|$$O(n^2)$$|
 |148|[416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum)|LeetCode|[148.py](./solutions/148.py)|`dp`|$$O(n^2)$$|
 |149|[2843. Count Symmetric Integers](https://leetcode.com/problems/count-symmetric-integers/description)|LeetCode|[149.py](./solutions/149.py)|`logic`|$$O(n)$$|
+|150|[3396. Minimum Number of Operations to Make Elements in Array Distinct](https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct)|LeetCode|[150.java](./solutions/150.java)|`logic`|$$O(n)$$|
