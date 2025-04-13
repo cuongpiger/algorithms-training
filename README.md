@@ -152,3 +152,4 @@ Hi guys, I'm Cuong 👋.
 |148|[416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum)|LeetCode|[148.py](./solutions/148.py)|`dp`|$$O(n^2)$$|
 |149|[2843. Count Symmetric Integers](https://leetcode.com/problems/count-symmetric-integers/description)|LeetCode|[149.py](./solutions/149.py)|`logic`|$$O(n)$$|
 |150|[3396. Minimum Number of Operations to Make Elements in Array Distinct](https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct)|LeetCode|[150.java](./solutions/150.java)|`logic`|$$O(n)$$|
+|151 ⭐|[1922. Count Good Numbers](https://leetcode.com/problems/count-good-numbers)|LeetCode|[151.py](./solutions/151.py)|`fast-exponentiation`|$$O(logn)$$|
