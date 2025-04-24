@@ -154,3 +154,4 @@ Hi guys, I'm Cuong 👋.
 |150|[3396. Minimum Number of Operations to Make Elements in Array Distinct](https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct)|LeetCode|[150.java](./solutions/150.java)|`logic`|$$O(n)$$|
 |151 ⭐|[1922. Count Good Numbers](https://leetcode.com/problems/count-good-numbers)|LeetCode|[151.py](./solutions/151.py)|`fast-exponentiation`|$$O(logn)$$|
 |152|[38. Count and Say](https://leetcode.com/problems/count-and-say)|LeetCode|[152.py](./solutions/152.py)|`backtracking`|$$O(2^n)$$|
+|153|[1399. Count Largest Group](https://leetcode.com/problems/count-largest-group)|LeetCode|[153.py](./solutions/153.py)|`hashmap`|$$O(nlogn)$$|
