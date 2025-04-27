@@ -155,3 +155,4 @@ Hi guys, I'm Cuong 👋.
 |151 ⭐|[1922. Count Good Numbers](https://leetcode.com/problems/count-good-numbers)|LeetCode|[151.py](./solutions/151.py)|`fast-exponentiation`|$$O(logn)$$|
 |152|[38. Count and Say](https://leetcode.com/problems/count-and-say)|LeetCode|[152.py](./solutions/152.py)|`backtracking`|$$O(2^n)$$|
 |153|[1399. Count Largest Group](https://leetcode.com/problems/count-largest-group)|LeetCode|[153.py](./solutions/153.py)|`hashmap`|$$O(nlogn)$$|
+|154|[3392. Count Subarrays of Length Three With a Condition](https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition)|LeetCode|[154.py](./solutions/154.py)|`sliding-window`|$$O(n)$$|
