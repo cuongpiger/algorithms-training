@@ -157,4 +157,4 @@ Hi guys, I'm Cuong 👋.
 |153|[1399. Count Largest Group](https://leetcode.com/problems/count-largest-group)|LeetCode|[153.py](./solutions/153.py)|`hashmap`|$$O(nlogn)$$|
 |154|[3392. Count Subarrays of Length Three With a Condition](https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition)|LeetCode|[154.py](./solutions/154.py)|`sliding-window`|$$O(n)$$|
 |155|[2302. Count Subarrays With Score Less Than K](https://leetcode.com/problems/count-subarrays-with-score-less-than-k)|LeetCode|[155.py](./solutions/155.py)|`sliding-window`|$$O(n)$$|
-|156|[2962. Count Subarrays Where Max Element Appears at Least K Times](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times)|LeetCode|[156.py](./solutions/156.py)|`sliding-window`|$$O(n)$$|
+|156 ⭐|[2962. Count Subarrays Where Max Element Appears at Least K Times](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times)|LeetCode|[156.py](./solutions/156.py)|`sliding-window`|$$O(n)$$|
