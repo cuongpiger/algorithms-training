@@ -158,3 +158,4 @@ Hi guys, I'm Cuong 👋.
 |154|[3392. Count Subarrays of Length Three With a Condition](https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition)|LeetCode|[154.py](./solutions/154.py)|`sliding-window`|$$O(n)$$|
 |155|[2302. Count Subarrays With Score Less Than K](https://leetcode.com/problems/count-subarrays-with-score-less-than-k)|LeetCode|[155.py](./solutions/155.py)|`sliding-window`|$$O(n)$$|
 |156 ⭐|[2962. Count Subarrays Where Max Element Appears at Least K Times](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times)|LeetCode|[156.py](./solutions/156.py)|`sliding-window`|$$O(n)$$|
+|157|[1295. Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits)|LeetCode|[157.ts](./solutions/157.ts)|`recursive`|$$O(n*\log_{10}{m}) \\ \text{with m is the maximum value in the given array}$$|
