@@ -158,7 +158,8 @@ Hi guys, I'm Cuong 👋.
 |154|[3392. Count Subarrays of Length Three With a Condition](https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition)|LeetCode|[154.py](./solutions/154.py)|`sliding-window`|$$O(n)$$|
 |155|[2302. Count Subarrays With Score Less Than K](https://leetcode.com/problems/count-subarrays-with-score-less-than-k)|LeetCode|[155.py](./solutions/155.py)|`sliding-window`|$$O(n)$$|
 |156 ⭐|[2962. Count Subarrays Where Max Element Appears at Least K Times](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times)|LeetCode|[156.py](./solutions/156.py)|`sliding-window`|$$O(n)$$|
-|157|[1295. Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits)|LeetCode|[157.ts](./solutions/157.ts)|`recursive`|$$O(n*\log_{10}{m})$$ <br> with $m$ is the maximum value in the given array $nums$|
+|157|[1295. Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits)|LeetCode|[157.ts](./solutions/157.ts)|`recursive`|$$O(n \cdot \log_{10}{m})$$ <br> with $m$ is the maximum value in the given array $nums$|
 |158|[1534. Count Good Triplets](https://leetcode.com/problems/count-good-triplets/)|LeetCode|[158.ts](./solutions/158.ts)|`logic`|$$O(n^3)$$|
 |159|[2845. Count of Interesting Subarrays](https://leetcode.com/problems/count-of-interesting-subarrays)|LeetCode|[159.ts](./solutions/159.ts)|`prefix-sum`|$$O(n)$$|
 |160|[2799. Count Complete Subarrays in an Array](https://leetcode.com/problems/count-complete-subarrays-in-an-array)|LeetCode|[160.ts](./solutions/160.ts)|`sliding-window`|$$O(n)$$|
+|161|[1399. Count Largest Group](https://leetcode.com/problems/count-largest-group)|LeetCode|[161.ts](./solutions/161.ts)|`hash-map`|$$O(n \cdot \log_{10}{n})$$|
