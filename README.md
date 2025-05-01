@@ -161,3 +161,4 @@ Hi guys, I'm Cuong 👋.
 |157|[1295. Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits)|LeetCode|[157.ts](./solutions/157.ts)|`recursive`|$$O(n*\log_{10}{m})$$ <br> with $m$ is the maximum value in the given array $nums$|
 |158|[1534. Count Good Triplets](https://leetcode.com/problems/count-good-triplets/)|LeetCode|[158.ts](./solutions/158.ts)|`logic`|$$O(n^3)$$|
 |159|[2845. Count of Interesting Subarrays](https://leetcode.com/problems/count-of-interesting-subarrays)|LeetCode|[159.ts](./solutions/159.ts)|`prefix-sum`|$$O(n)$$|
+|160|[2799. Count Complete Subarrays in an Array](https://leetcode.com/problems/count-complete-subarrays-in-an-array)|LeetCode|[160.ts](./solutions/160.ts)|`sliding-window`|$$O(n)$$|
