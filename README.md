@@ -164,3 +164,4 @@ Hi guys, I'm Cuong 👋.
 |160|[2799. Count Complete Subarrays in an Array](https://leetcode.com/problems/count-complete-subarrays-in-an-array)|LeetCode|[160.ts](./solutions/160.ts)|`sliding-window`|$$O(n)$$|
 |161|[1399. Count Largest Group](https://leetcode.com/problems/count-largest-group)|LeetCode|[161.ts](./solutions/161.ts)|`hash-map`|$$O(n \cdot \log_{10}{n})$$|
 |162 ⭐|[2071. Maximum Number of Tasks You Can Assign](https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign)|LeetCode|[162.py](./solutions/162.py)|`binary-search`|$$O(\max(nlogn, mlogm) + \min(m, n) \cdot \log_{2}{min(m, n)})$$|
+|163|[838. Push Dominoes](https://leetcode.com/problems/push-dominoes)|LeetCode|[163.py](./solutions/163.py)|`logic`|$$O(n)$$|
