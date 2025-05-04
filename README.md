@@ -166,3 +166,4 @@ Hi guys, I'm Cuong 👋.
 |162 ⭐|[2071. Maximum Number of Tasks You Can Assign](https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign)|LeetCode|[162.py](./solutions/162.py)|`binary-search`|$$O(\max(nlogn, mlogm) + \min(m, n) \cdot \log_{2}{min(m, n)})$$|
 |163|[838. Push Dominoes](https://leetcode.com/problems/push-dominoes)|LeetCode|[163.py](./solutions/163.py)|`logic`|$$O(n)$$|
 |164|[1007. Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row)|LeetCode|[164.ts](./solutions/164.ts)|`logic`|$$O(n)$$|
+|165|[1128. Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs)|LeetCode|[165.ts](./solutions/165.ts)|`logic`|$$O(n)$$|
