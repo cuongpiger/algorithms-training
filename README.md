@@ -168,3 +168,4 @@ Hi guys, I'm Cuong 👋.
 |164|[1007. Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row)|LeetCode|[164.ts](./solutions/164.ts)|`logic`|$$O(n)$$|
 |165|[1128. Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs)|LeetCode|[165.ts](./solutions/165.ts)|`logic`|$$O(n)$$|
 |166|[1920. Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation)|LeetCode|[166.ts](./solutions/166.ts)|`logic`|$$O(n)$$|
+|167 ⭐|[790. Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling)|LeetCode|[167.py](./solutions/167.py)|`dp`|$$O(n)$$|
