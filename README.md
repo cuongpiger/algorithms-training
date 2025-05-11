@@ -170,3 +170,4 @@ Hi guys, I'm Cuong 👋.
 |166|[1920. Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation)|LeetCode|[166.ts](./solutions/166.ts)|`logic`|$$O(n)$$|
 |167 ⭐|[790. Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling)|LeetCode|[167.py](./solutions/167.py)|`dp`|$$O(n)$$|
 |168|[3341. Find Minimum Time to Reach Last Room I](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-i)|LeetCode|[168.py](./solutions/168.py)|`dijsktra`|$$O(mn \cdot \log{mn})$$|
+|169|[1550. Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds)|LeetCode|[169.ts](./solutions/169.ts)|`array`|$$O(n)$$|
