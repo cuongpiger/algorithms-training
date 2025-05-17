@@ -173,3 +173,4 @@ Hi guys, I'm Cuong 👋.
 |169|[1550. Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds)|LeetCode|[169.ts](./solutions/169.ts)|`array`|$$O(n)$$|
 |170|[2094. Finding 3-Digit Even Numbers](https://leetcode.com/problems/finding-3-digit-even-numbers)|LeetCode|[170.ts](./solutions/170.ts)|`array`|$$O(n^3)$$|
 |171|[3335. Total Characters in String After Transformations I](https://leetcode.com/problems/total-characters-in-string-after-transformations-i)|LeetCode|[171.ts](./solutions/171.ts)|`array`|$$O(max(n, t))$$|
+|172|[75. Sort Colors](https://leetcode.com/problems/sort-colors)|LeetCode|[172.py](./solutions/172.py)|`array`|$$O(n)$$|
