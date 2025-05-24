@@ -175,3 +175,4 @@ Hi guys, I'm Cuong 👋.
 |171|[3335. Total Characters in String After Transformations I](https://leetcode.com/problems/total-characters-in-string-after-transformations-i)|LeetCode|[171.ts](./solutions/171.ts)|`array`|$$O(max(n, t))$$|
 |172|[75. Sort Colors](https://leetcode.com/problems/sort-colors)|LeetCode|[172.py](./solutions/172.py)|`array`|$$O(n)$$|
 |173|[3024. Type of Triangle](https://leetcode.com/problems/type-of-triangle)|LeetCode|[173.py](./solutions/173.py)|`math`|$$O(1)$$|
+|174|[2942. Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character)|LeetCode|[174.py](./solutions/174.py)|`math`|$$O(n \cdot max(length(word)))$$|
