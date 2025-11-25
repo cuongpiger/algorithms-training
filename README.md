@@ -183,4 +183,5 @@ Hi guys, I'm Cuong 👋.
 |179|[58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|LeetCode|[179.py](./solutions/179.py)|`array`|$$O(n)$$|
 |180|[66. Plus One](https://leetcode.com/problems/plus-one)|LeetCode|[180.py](./solutions/180.py)|`array`|$$O(n)$$|
 |181|[67. Add Binary](https://leetcode.com/problems/add-binary)|LeetCode|[181.py](./solutions/181.py)|`string`|$$O(n)$$|
+|182|[69. Sqrt(x)](https://leetcode.com/problems/sqrtx)|LeetCode|[182.py](./solutions/182.py)|`binary-search`|$$O(\log n)$$|
 |NO|[TITLE](HYPERLINK)|LeetCode|[FILENAME](LINK)|`string`|$$O(n)$$|
