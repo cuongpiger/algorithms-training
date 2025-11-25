@@ -181,4 +181,5 @@ Hi guys, I'm Cuong 👋.
 |177|[27. Remove Element](https://leetcode.com/problems/remove-element/)|LeetCode|[177.py](./solutions/177.py)|`2-pointers`|$$O(n)$$|
 |178|[28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)|LeetCode|[178.py](./solutions/178.py)|`string`|$$O(n \cdot m)$$|
 |179|[58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|LeetCode|[179.py](./solutions/179.py)|`array`|$$O(n)$$|
+|180|[66. Plus One](https://leetcode.com/problems/plus-one)|LeetCode|[180.py](./solutions/180.py)|`array`|$$O(n)$$|
 |NO|[TITLE](HYPERLINK)|LeetCode|[FILENAME](LINK)|`string`|$$O(n)$$|
