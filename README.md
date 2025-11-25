@@ -179,3 +179,4 @@ Hi guys, I'm Cuong 👋.
 |175|[2131. Longest Palindrome by Concatenating Two Letter Words](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words)|LeetCode|[175.py](./solutions/175.py)|`math`|$$O(n)$$|
 |176|[26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|LeetCode|[176.py](./solutions/176.py)|`array`|$$O(n)$$|
 |177|[27. Remove Element](https://leetcode.com/problems/remove-element/)|LeetCode|[177.py](./solutions/177.py)|`2-pointers`|$$O(n)$$|
+|178|[28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)|LeetCode|[178.py](./solutions/178.py)|`string`|$$O(n \cdot m)$$|
