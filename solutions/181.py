@@ -27,8 +27,3 @@ class Solution:
             res = f"1{res}"
 
         return res
-    
-a = "100"
-b = "110010"
-sol = Solution()
-print(sol.addBinary(a, b))
