@@ -192,3 +192,4 @@ Hi guys, I'm Cuong 👋.
 |188|[104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|LeetCode|[188.py](./solutions/188.py)|`tree`|$$O(n)$$|
 |189|[108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|LeetCode|[189.py](./solutions/189.py)|`tree`|$$O(n)$$|
 |190 ⭐|[110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|LeetCode|[190.py](./solutions/190.py)|`tree`|$$O(n)$$|
+|191|[111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree)|LeetCode|[191.py](./solutions/191.py)|`tree`|$$O(n)$$|
