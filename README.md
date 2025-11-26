@@ -187,4 +187,5 @@ Hi guys, I'm Cuong 👋.
 |183|[70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs)|LeetCode|[183.py](./solutions/183.py)|`dp`|$$O(n)$$|
 |184|[83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|LeetCode|[184.py](./solutions/184.py)|`linked-list`|$$O(n)$$|
 |185|[94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|LeetCode|[185.py](./solutions/185.py)|`tree`|$$O(n)$$|
+|186|[100. Same Tree](https://leetcode.com/problems/same-tree/)|LeetCode|[186.py](./solutions/186.py)|`tree`|$$O(n)$$|
 |NO|[TITLE](HYPERLINK)|LeetCode|[FILENAME](LINK)|`string`|$$O(n)$$|
