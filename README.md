@@ -185,4 +185,5 @@ Hi guys, I'm Cuong 👋.
 |181|[67. Add Binary](https://leetcode.com/problems/add-binary)|LeetCode|[181.py](./solutions/181.py)|`string`|$$O(n)$$|
 |182|[69. Sqrt(x)](https://leetcode.com/problems/sqrtx)|LeetCode|[182.py](./solutions/182.py)|`binary-search`|$$O(\log n)$$|
 |183|[70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs)|LeetCode|[183.py](./solutions/183.py)|`dp`|$$O(n)$$|
+|184|[83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|LeetCode|[184.py](./solutions/184.py)|`linked-list`|$$O(n)$$|
 |NO|[TITLE](HYPERLINK)|LeetCode|[FILENAME](LINK)|`string`|$$O(n)$$|
