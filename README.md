@@ -188,4 +188,4 @@ Hi guys, I'm Cuong 👋.
 |184|[83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|LeetCode|[184.py](./solutions/184.py)|`linked-list`|$$O(n)$$|
 |185|[94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|LeetCode|[185.py](./solutions/185.py)|`tree`|$$O(n)$$|
 |186|[100. Same Tree](https://leetcode.com/problems/same-tree/)|LeetCode|[186.py](./solutions/186.py)|`tree`|$$O(n)$$|
-|NO|[TITLE](HYPERLINK)|LeetCode|[FILENAME](LINK)|`string`|$$O(n)$$|
+|187|[101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|LeetCode|[187.py](./solutions/187.py)|`tree`|$$O(n)$$|
