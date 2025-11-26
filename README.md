@@ -189,3 +189,4 @@ Hi guys, I'm Cuong 👋.
 |185|[94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|LeetCode|[185.py](./solutions/185.py)|`tree`|$$O(n)$$|
 |186|[100. Same Tree](https://leetcode.com/problems/same-tree/)|LeetCode|[186.py](./solutions/186.py)|`tree`|$$O(n)$$|
 |187|[101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|LeetCode|[187.py](./solutions/187.py)|`tree`|$$O(n)$$|
+|188|[104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|LeetCode|[188.py](./solutions/188.py)|`tree`|$$O(n)$$|
