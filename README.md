@@ -197,3 +197,4 @@ Hi guys, I'm Cuong 👋.
 |193|[118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|LeetCode|[193.py](./solutions/193.py)|`array`|$$O(2^n)$$|
 |194|[119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|LeetCode|[194.py](./solutions/194.py)|`array`|$$O(2^n)$$|
 |195 💜|[121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|LeetCode|[195.go](./solutions/195.go)|`array`|$$O(n)$$|
+|196|[125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|LeetCode|[196.js](./solutions/196.js)|`string`|$$O(n)$$|
