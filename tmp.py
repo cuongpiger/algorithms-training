@@ -1,34 +1,39 @@
+from typing import List
+
 class Solution:
-    def addBinary(self, a: str, b: str) -> str:
-        len_a = len(a)
-        len_b = len(b)
+    def generate(self, numRows: int) -> List[List[int]]:
+        # res = []
 
-        res = ""
-        leftover = 0
+        # for n in range(1, 3):
+        #     res.append([1 for _ in range(n)])
+        #     if n == numRows:
+        #         return res
 
-        for i in range(max(len_a, len_b)):
-            val_a = 0 if i >= len_a else int(a[-(i + 1)] == "1")
-            val_b = 0 if i >= len_b else int(b[-(i + 1)] == "1")
-            sm = val_a + val_b + leftover
-            
-            if sm == 0:
-                res = f"0{res}"
-            elif sm == 1:
-                res = f"1{res}"
-                leftover = 0
-            elif sm == 2:
-                res = f"0{res}"
-                leftover = 1
-            else:
-                res = f"1{res}"
-                leftover = 1
+        # for i in range(3, numRows + 1):
+        #     prev = res[-1]
+        #     row = [1] + [prev[j] + prev[j - 1] for j in range(1, i - 1)] + [1]
+        #     res.append(row)
 
-        if leftover > 0:
-            res = f"1{res}"
+        # return res
 
-        return res
+        return self._solve(numRows)
+
+    def _solve(self, n: int) -> List[List[int]]:
+        if n == 1:
+            return [[1]]
+
+        if n == 2:
+            prev_result = self._solve(1)
+            prev_result.append([1, 1])
+            return prev_result
+
+        upper = self._solve(n - 1)
+        prev = upper[-1]
+        row = [1] + [prev[j] + prev[j - 1] for j in range(1, n - 1)] + [1]
+        upper.append(row)
+        return upper
     
-a = "100"
-b = "110010"
+
+n = 5
 sol = Solution()
-print(sol.addBinary(a, b))
+print(sol.generate(n))
