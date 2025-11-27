@@ -194,6 +194,6 @@ Hi guys, I'm Cuong 👋.
 |190 ⭐|[110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|LeetCode|[190.py](./solutions/190.py)|`tree`|$$O(n)$$|
 |191|[111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree)|LeetCode|[191.py](./solutions/191.py)|`tree`|$$O(n)$$|
 |192|[112. Path Sum](https://leetcode.com/problems/path-sum/)|LeetCode|[192.py](./solutions/192.py)|`tree`|$$O(n)$$|
-|193|[118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|LeetCode|[193.py](./solutions/193.py)|`array`|$$O(n^2)$$|
-|194|[119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|LeetCode|[194.py](./solutions/194.py)|`array`|$$O(n^2)$$|
+|193|[118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|LeetCode|[193.py](./solutions/193.py)|`array`|$$O(2^n)$$|
+|194|[119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|LeetCode|[194.py](./solutions/194.py)|`array`|$$O(2^n)$$|
 |195|[121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|LeetCode|[195.go](./solutions/195.go)|`array`|$$O(n)$$|
