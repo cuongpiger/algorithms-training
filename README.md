@@ -196,3 +196,4 @@ Hi guys, I'm Cuong 👋.
 |192|[112. Path Sum](https://leetcode.com/problems/path-sum/)|LeetCode|[192.py](./solutions/192.py)|`tree`|$$O(n)$$|
 |193|[118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|LeetCode|[193.py](./solutions/193.py)|`array`|$$O(n^2)$$|
 |194|[119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|LeetCode|[194.py](./solutions/194.py)|`array`|$$O(n^2)$$|
+|195|[121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|LeetCode|[195.go](./solutions/195.go)|`array`|$$O(n)$$|
