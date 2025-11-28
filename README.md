@@ -199,3 +199,5 @@ Hi guys, I'm Cuong 👋.
 |195 💜|[121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|LeetCode|[195.go](./solutions/195.go)|`array`|$$O(n)$$|
 |196|[125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|LeetCode|[196.js](./solutions/196.js)|`string`|$$O(n)$$|
 |197 ⭐|[136. Single Number](https://leetcode.com/problems/single-number/)|LeetCode|[197.ts](./solutions/197.ts)|`bitwise`|$$O(n)$$|
+|198 ⭐|[141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)|LeetCode|[198.py](./solutions/198.py)|`linked-list`|$$O(n)$$|
+
