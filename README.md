@@ -200,4 +200,5 @@ Hi guys, I'm Cuong 👋.
 |196|[125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|LeetCode|[196.js](./solutions/196.js)|`string`|$$O(n)$$|
 |197 ⭐|[136. Single Number](https://leetcode.com/problems/single-number/)|LeetCode|[197.ts](./solutions/197.ts)|`bitwise`|$$O(n)$$|
 |198 ⭐|[141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)|LeetCode|[198.py](./solutions/198.py)|`linked-list`|$$O(n)$$|
-
+|199|[144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|LeetCode|[199.py](./solutions/199.py)|`tree`|$$O(n)$$|
+|200|[145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|LeetCode|[200.go](./solutions/200.go)|`tree`|$$O(n)$$|
