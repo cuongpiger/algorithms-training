@@ -206,6 +206,6 @@ Hi guys, I'm Cuong 👋.
 |202 💜|[168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|LeetCode|[202.py](./solutions/202.py)|`math`|$$O(\log n)$$|
 |203|[169. Majority Element](https://leetcode.com/problems/majority-element/)|LeetCode|[203.py](./solutions/203.py)|`sorting`|$$O(n \log n)$$|
 |204 💜|[171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|LeetCode|[204.py](./solutions/204.py)|`math`|$$O(n)$$|
-|205|[175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|LeetCode|[205.sql](./solutions/205.sql)||$$O(n)$$|
-|206|[181. Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers)|LeetCode|[206.sql](./solutions/206.sql)||$$O(n)$$|
-|207|[182. Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|LeetCode|[207.sql](./solutions/207.sql)||$$O(n)$$|
+|205|[175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|LeetCode|[205.sql](./solutions/205.sql)|`sql`|$$O(n)$$|
+|206|[181. Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers)|LeetCode|[206.sql](./solutions/206.sql)|`sql`|$$O(n)$$|
+|207|[182. Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|LeetCode|[207.sql](./solutions/207.sql)|`sql`|$$O(n)$$|
