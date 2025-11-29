@@ -203,4 +203,5 @@ Hi guys, I'm Cuong 👋.
 |199|[144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|LeetCode|[199.py](./solutions/199.py)|`tree`|$$O(n)$$|
 |200|[145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|LeetCode|[200.go](./solutions/200.go)|`tree`|$$O(n)$$|
 |201|[160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|LeetCode|[201.py](./solutions/201.py)|`linked-list`|$$O(n + m)$$|
-|202|[168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|LeetCode|[202.py](./solutions/202.py)|`math`|$$O(\log n)$$|
+|202 💜|[168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|LeetCode|[202.py](./solutions/202.py)|`math`|$$O(\log n)$$|
+|203|[169. Majority Element](https://leetcode.com/problems/majority-element/)|LeetCode|[203.py](./solutions/203.py)|`sorting`|$$O(n \log n)$$|
