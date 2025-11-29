@@ -210,4 +210,4 @@ Hi guys, I'm Cuong 👋.
 |206|[181. Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers)|LeetCode|[206.sql](./solutions/206.sql)|`sql`|$$O(n)$$|
 |207|[182. Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|LeetCode|[207.sql](./solutions/207.sql)|`sql`|$$O(n)$$|
 |208|[183. Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)|LeetCode|[208.sql](./solutions/208.sql)|`sql`|$$O(n)$$|
-
+|209 💜|[190. Reverse Bits](https://leetcode.com/problems/reverse-bits/)|LeetCode|[209.go](./solutions/209.go)|`bitwise`|$$O(1)$$|
