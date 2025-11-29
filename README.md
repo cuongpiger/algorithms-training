@@ -207,3 +207,4 @@ Hi guys, I'm Cuong 👋.
 |203|[169. Majority Element](https://leetcode.com/problems/majority-element/)|LeetCode|[203.py](./solutions/203.py)|`sorting`|$$O(n \log n)$$|
 |204 💜|[171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|LeetCode|[204.py](./solutions/204.py)|`math`|$$O(n)$$|
 |205|[175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|LeetCode|[205.sql](./solutions/205.sql)||$$O(n)$$|
+|206|[Code Code Code Sample Testcase Testcase Test Result 181. Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers)|LeetCode|[206.sql](./solutions/206.sql)||$$O(n)$$|
