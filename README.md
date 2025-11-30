@@ -2,6 +2,7 @@ Hi guys, I'm Cuong 👋.
 
 |⬇️ No.|Problem Title|Organization|Solution|Algorithm|Time Complexity|
 |-|-|-|-|-|-|
+|213|[196. Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)|LeetCode|[213.sql](./solutions/213.sql)|`sql`|$$O(n)$$|
 |212|[195. Tenth Line](https://leetcode.com/problems/tenth-line/)|LeetCode|[212.sh](./solutions/212.sh)|`shell`|$$O(n)$$|
 |211|[193. Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/)|LeetCode|[211.sh](./solutions/211.sh)|`shell`|$$O(n)$$|
 |210|[191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|LeetCode|[210.py](./solutions/210.py)|`bitwise`|$$O(\log n)$$|
