@@ -2,6 +2,7 @@ Hi guys, I'm Cuong 👋.
 
 |⬇️ No.|Problem Title|Organization|Solution|Algorithm|Time Complexity|
 |-|-|-|-|-|-|
+|215|[202. Happy Number](https://leetcode.com/problems/happy-number/)|LeetCode|[215.py](./solutions/215.py)|`math`|$$O(1)$$|
 |214|[197. Rising Temperature](https://leetcode.com/problems/rising-temperature/)|LeetCode|[214.sql](./solutions/214.sql)|`sql`|$$O(n)$$|
 |213|[196. Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)|LeetCode|[213.sql](./solutions/213.sql)|`sql`|$$O(n)$$|
 |212|[195. Tenth Line](https://leetcode.com/problems/tenth-line/)|LeetCode|[212.sh](./solutions/212.sh)|`shell`|$$O(n)$$|
