@@ -2,6 +2,7 @@ Hi guys, I'm Cuong 👋.
 
 |⬇️ No.|Problem Title|Organization|Solution|Algorithm|Time Complexity|
 |-|-|-|-|-|-|
+|210|[191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|LeetCode|[210.py](./solutions/210.py)|`bitwise`|$$O(\log n)$$|
 |209 💜|[190. Reverse Bits](https://leetcode.com/problems/reverse-bits/)|LeetCode|[209.go](./solutions/209.go)|`bitwise`|$$O(1)$$|
 |208|[183. Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)|LeetCode|[208.sql](./solutions/208.sql)|`sql`|$$O(n)$$|
 |207|[182. Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|LeetCode|[207.sql](./solutions/207.sql)|`sql`|$$O(n)$$|
