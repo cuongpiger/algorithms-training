@@ -2,6 +2,7 @@ Hi guys, I'm Cuong 👋.
 
 |⬇️ No.|Problem Title|Organization|Solution|Algorithm|Time Complexity|
 |-|-|-|-|-|-|
+|219|[217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|LeetCode|[219.py](./solutions/219.py)|`sorting`|$$O(n \log n)$$|
 |218|[206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|LeetCode|[218.py](./solutions/218.py)|`linked-list`|$$O(n)$$|
 |217 💜|[205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|LeetCode|[217.py](./solutions/217.py)|`string`|$$O(n)$$|
 |216|[203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements)|LeetCode|[216.py](./solutions/216.py)|`linked-list`|$$O(n)$$|
