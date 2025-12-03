@@ -2,6 +2,7 @@ Hi guys, I'm Cuong 👋.
 
 |⬇️ No.|Problem Title|Organization|Solution|Algorithm|Time Complexity|
 |-|-|-|-|-|-|
+|223|[226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)|LeetCode|[223.py](./solutions/223.py)|`tree`|$$O(n)$$|
 |222|[225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues)|LeetCode|[222.py](./solutions/222.py)|`queue`|$$O(n)$$|
 |221|[222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|LeetCode|[221.ts](./solutions/221.ts)|`tree`|$$O(n)$$|
 |220|[219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|LeetCode|[220.py](./solutions/220.py)|`hash-map`|$$O(n)$$|
