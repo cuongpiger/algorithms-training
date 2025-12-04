@@ -2,6 +2,8 @@ Hi guys, I'm Cuong 👋.
 
 |⬇️ No.|Problem Title|Organization|Solution|Algorithm|Time Complexity|
 |-|-|-|-|-|-|
+|226|[232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|LeetCode|[226.py](./solutions/226.py)|`stack`|$$O(n)$$|
+|225|[228. Summary Ranges](https://leetcode.com/problems/summary-ranges/)|LeetCode|[225.py](./solutions/225.py)|`array`|$$O(n)$$|
 |224|[231. Power of Two](https://leetcode.com/problems/power-of-two)|LeetCode|[224.py](./solutions/224.py)|`math`|$$O(1)$$|
 |223|[226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)|LeetCode|[223.py](./solutions/223.py)|`tree`|$$O(n)$$|
 |222|[225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues)|LeetCode|[222.py](./solutions/222.py)|`queue`|$$O(n)$$|
