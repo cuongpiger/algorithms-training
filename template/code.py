@@ -1,20 +1,27 @@
+# Definition for singly-linked list.
+from typing import Optional
+from typing import List
+
+class ListNode:
+    def __init__(self, val=0, next=None):
+        self.val = val
+        self.next = next
 class Solution:
-    def summaryRanges(self, nums: List[int]) -> List[str]:
-        n = len(nums)
+    def isPalindrome(self, head: Optional[ListNode]) -> bool:
+        front, prev = 0, 0
+        multi = 1
 
-        if n < 1:
-            return []
+        while not head:
+            front = front * 10 + head.val
+            prev = head.val * multi + prev
+            multi = multi * 10
+            head = head.next
 
-        nums = nums + [nums[-1] + 10]
-        res = []
-        i = 0
-        for j in range(n):
-            if nums[j] + 1 != nums[j + 1]:
-                if j == i:
-                    res.append(f"{nums[i]}")
-                else:
-                    res.append(f"{nums[i]}->{nums[j]}")
+        return int(front) == int(prev)
 
-                i = j + 1
 
-        return res
+head = ListNode(1)
+head.next = ListNode(2)
+
+sol = Solution()
+print(sol.isPalindrome(head))  # Output: False
