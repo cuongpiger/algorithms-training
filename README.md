@@ -2,7 +2,8 @@ Hi guys, I'm Cuong 👋.
 
 |⬇️ No.|Problem Title|Organization|Solution|Algorithm|Time Complexity|
 |-|-|-|-|-|-|
-|228|[242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)|LeetCode|[228.py](./solutions/228.py)|`sorting`|$$O(n \log n)$$|
+|229|[257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|LeetCode|[229.py](./solutions/229.py)|`bfs`|$$O(n)$$|
+|228 ⭐|[242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)|LeetCode|[228.py](./solutions/228.py)|`sorting`|$$O(n \log n)$$|
 |227|[234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|LeetCode|[227.py](./solutions/227.py)|`linked-list`|$$O(n)$$|
 |226|[232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|LeetCode|[226.py](./solutions/226.py)|`stack`|$$O(n)$$|
 |225|[228. Summary Ranges](https://leetcode.com/problems/summary-ranges/)|LeetCode|[225.py](./solutions/225.py)|`array`|$$O(n)$$|
