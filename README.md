@@ -2,6 +2,7 @@ Hi guys, I'm Cuong 👋.
 
 |⬇️ No.|Problem Title|Organization|Solution|Algorithm|Time Complexity|
 |-|-|-|-|-|-|
+|230 ⭐|[258. Add Digits](https://leetcode.com/problems/add-digits/)|LeetCode|[230.js](./solutions/230.js)|`math`, `number-theory`|$$O(1)$$|
 |229|[257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|LeetCode|[229.py](./solutions/229.py)|`bfs`|$$O(n)$$|
 |228 ⭐|[242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)|LeetCode|[228.py](./solutions/228.py)|`sorting`|$$O(n \log n)$$|
 |227|[234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|LeetCode|[227.py](./solutions/227.py)|`linked-list`|$$O(n)$$|
