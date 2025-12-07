@@ -2,6 +2,7 @@ Hi guys, I'm Cuong 👋.
 
 |⬇️ No.|Problem Title|Organization|Solution|Algorithm|Time Complexity|
 |-|-|-|-|-|-|
+|236 ⭐|[292. Nim Game](https://leetcode.com/problems/nim-game/)|LeetCode|[236.rs](./solutions/236.rs)|`math`, `number-theory`|$$O(1)$$|
 |235|[290. Word Pattern](https://leetcode.com/problems/word-pattern/)|LeetCode|[235.js](./solutions/235.js)|`hash`|$$O(n)$$|
 |234 💜|[283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)|LeetCode|[234.py](./solutions/234.py)|`2-pointers`|$$O(n)$$|
 |233|[278. First Bad Version](https://leetcode.com/problems/first-bad-version)|LeetCode|[233.js](./solutions/233.js)|`binary-search`|$$O(\log n)$$|
