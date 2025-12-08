@@ -2,6 +2,7 @@ Hi guys, I'm Cuong 👋.
 
 |⬇️ No.|Problem Title|Organization|Solution|Algorithm|Time Complexity|
 |-|-|-|-|-|-|
+|239 💜|[338. Counting Bits](https://leetcode.com/problems/counting-bits/)|LeetCode|[239.py](./solutions/239.py)|`dp`|$$O(n)$$|
 |238|[326. Power of Three](https://leetcode.com/problems/power-of-three/)|LeetCode|[238.go](./solutions/238.go)|`math`|$$O(n)$$|
 |237|[303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|LeetCode|[237.ts](./solutions/237.ts)|`array`|$$O(n)$$|
 |236 ⭐|[292. Nim Game](https://leetcode.com/problems/nim-game/)|LeetCode|[236.rs](./solutions/236.rs)|`math`, `number-theory`|$$O(1)$$|
