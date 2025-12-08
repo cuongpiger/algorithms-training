@@ -2,7 +2,7 @@ Hi guys, I'm Cuong 👋.
 
 |⬇️ No.|Problem Title|Organization|Solution|Algorithm|Time Complexity|
 |-|-|-|-|-|-|
-|241 💜|[344. Reverse String](https://leetcode.com/problems/reverse-string)|LeetCode|[241.ts](./solutions/241.ts)|`string`|$$O(n)$$|
+|241|[344. Reverse String](https://leetcode.com/problems/reverse-string)|LeetCode|[241.ts](./solutions/241.ts)|`string`|$$O(n)$$|
 |240 💜|[342. Power of Four](https://leetcode.com/problems/power-of-four)|LeetCode|[240.py](./solutions/240.py)|`math`, `bitwise`|$$O(1)$$|
 |239 💜|[338. Counting Bits](https://leetcode.com/problems/counting-bits/)|LeetCode|[239.py](./solutions/239.py)|`dp`|$$O(n)$$|
 |238|[326. Power of Three](https://leetcode.com/problems/power-of-three/)|LeetCode|[238.go](./solutions/238.go)|`math`|$$O(n)$$|
