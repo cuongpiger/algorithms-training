@@ -2,6 +2,7 @@ Hi guys, I'm Cuong 👋.
 
 |⬇️ No.|Problem Title|Organization|Solution|Algorithm|Time Complexity|
 |-|-|-|-|-|-|
+|242|[345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|LeetCode|[242.py](./solutions/242.py)|`2-pointers`|$$O(n)$$|
 |241|[344. Reverse String](https://leetcode.com/problems/reverse-string)|LeetCode|[241.ts](./solutions/241.ts)|`string`|$$O(n)$$|
 |240 💜|[342. Power of Four](https://leetcode.com/problems/power-of-four)|LeetCode|[240.py](./solutions/240.py)|`math`, `bitwise`|$$O(1)$$|
 |239 💜|[338. Counting Bits](https://leetcode.com/problems/counting-bits/)|LeetCode|[239.py](./solutions/239.py)|`dp`|$$O(n)$$|
