@@ -2,6 +2,7 @@ Hi guys, I'm Cuong 👋.
 
 |⬇️ No.|Problem Title|Organization|Solution|Algorithm|Time Complexity|
 |-|-|-|-|-|-|
+|244|[350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|LeetCode|[244.py](./solutions/244.py)|`sort`|$$O(n)$$|
 |243|[349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|LeetCode|[243.py](./solutions/243.py)|`array`|$$O(n)$$|
 |242|[345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|LeetCode|[242.py](./solutions/242.py)|`2-pointers`|$$O(n)$$|
 |241|[344. Reverse String](https://leetcode.com/problems/reverse-string)|LeetCode|[241.ts](./solutions/241.ts)|`string`|$$O(n)$$|
