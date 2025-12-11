@@ -2,6 +2,7 @@ Hi guys, I'm Cuong 👋.
 
 |⬇️ No.|Problem Title|Organization|Solution|Algorithm|Time Complexity|
 |-|-|-|-|-|-|
+|249|[389. Find the Difference](https://leetcode.com/problems/find-the-difference/)|LeetCode|[249.py](./solutions/249.py)|`array`|$$O(n)$$|
 |248|[387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|LeetCode|[248.py](./solutions/248.py)|`array`|$$O(n)$$|
 |247|[383. Ransom Note](https://leetcode.com/problems/ransom-note/)|LeetCode|[247.py](./solutions/247.py)|`array`|$$O(n)$$|
 |246|[374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|LeetCode|[246.py](./solutions/246.py)|`binary-search`|$$O(\log n)$$|
