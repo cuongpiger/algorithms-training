@@ -2,7 +2,7 @@ Hi guys, I'm Cuong 👋.
 
 |⬇️ No.|Problem Title|Organization|Solution|Algorithm|Time Complexity|
 |-|-|-|-|-|-|
-|245|[367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|LeetCode|[245.py](./solutions/245.py)|`binary-search`|$$O(\logn)$$|
+|245|[367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|LeetCode|[245.py](./solutions/245.py)|`binary-search`|$$O(\log n)$$|
 |244|[350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|LeetCode|[244.py](./solutions/244.py)|`sort`|$$O(n)$$|
 |243|[349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|LeetCode|[243.py](./solutions/243.py)|`array`|$$O(n)$$|
 |242|[345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|LeetCode|[242.py](./solutions/242.py)|`2-pointers`|$$O(n)$$|
