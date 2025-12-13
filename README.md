@@ -2,6 +2,7 @@ Hi guys, I'm Cuong 👋.
 
 |⬇️ No.|Problem Title|Organization|Solution|Algorithm|Time Complexity|
 |-|-|-|-|-|-|
+|256|[414. Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|LeetCode|[256.py](./solutions/256.py)|`sorting`|$$O(n \log n)$$|
 |255|[412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|LeetCode|[255.py](./solutions/255.py)|`math`|$$O(n)$$|
 |254|[409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)|LeetCode|[254.py](./solutions/254.py)|`array`|$$O(n)$$|
 |253|[405. Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/)|LeetCode|[253.py](./solutions/253.py)|`math`|$$O(n)$$|
