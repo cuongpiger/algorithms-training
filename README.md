@@ -2,7 +2,7 @@ Hi guys, I'm Cuong 👋.
 
 |⬇️ No.|Problem Title|Organization|Solution|Algorithm|Time Complexity|
 |-|-|-|-|-|-|
-|254|[409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)|LeetCode|[254.py](./solutions/254.py)|`math`|$$O(n)$$|
+|254|[409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)|LeetCode|[254.py](./solutions/254.py)|`array`|$$O(n)$$|
 |253|[405. Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/)|LeetCode|[253.py](./solutions/253.py)|`math`|$$O(n)$$|
 |252 💜|[404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|LeetCode|[252.py](./solutions/252.py)|`tree`|$$O(n)$$|
 |251 💜|[401. Binary Watch](https://leetcode.com/problems/binary-watch)|LeetCode|[251.py](./solutions/251.py)|`bitwise`|$$O(1)$$|
