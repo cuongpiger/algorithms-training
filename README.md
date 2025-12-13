@@ -2,6 +2,7 @@ Hi guys, I'm Cuong 👋.
 
 |⬇️ No.|Problem Title|Organization|Solution|Algorithm|Time Complexity|
 |-|-|-|-|-|-|
+|252 💜|[404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|LeetCode|[252.py](./solutions/252.py)|`tree`|$$O(n)$$|
 |251 💜|[401. Binary Watch](https://leetcode.com/problems/binary-watch)|LeetCode|[251.py](./solutions/251.py)|`bitwise`|$$O(1)$$|
 |250|[392. Is Subsequence](https://leetcode.com/problems/is-subsequence/)|LeetCode|[250.py](./solutions/250.py)|`array`|$$O(n)$$|
 |249|[389. Find the Difference](https://leetcode.com/problems/find-the-difference/)|LeetCode|[249.py](./solutions/249.py)|`array`|$$O(n)$$|
