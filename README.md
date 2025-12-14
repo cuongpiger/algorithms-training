@@ -2,6 +2,8 @@ Hi guys, I'm Cuong 👋.
 
 |⬇️ No.|Problem Title|Organization|Solution|Algorithm|Time Complexity|
 |-|-|-|-|-|-|
+|259|[441. Arranging Coins](https://leetcode.com/problems/arranging-coins/)|LeetCode|[259.py](./solutions/259.py)|`binary-search` or `math`|$$O(\log n) \text{ or } O(1)$$|
+|258|[434. Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/)|LeetCode|[258.py](./solutions/258.py)|`2-pointers`|$$O(n)$$|
 |257|[415. Add Strings](https://leetcode.com/problems/add-strings/)|LeetCode|[257.py](./solutions/257.py)|`array`|$$O(n)$$|
 |256|[414. Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|LeetCode|[256.py](./solutions/256.py)|`sorting`|$$O(n \log n)$$|
 |255|[412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|LeetCode|[255.py](./solutions/255.py)|`math`|$$O(n)$$|
