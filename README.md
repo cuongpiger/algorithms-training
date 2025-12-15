@@ -2,6 +2,7 @@ Hi guys, I'm Cuong 👋.
 
 |⬇️ No.|Problem Title|Organization|Solution|Algorithm|Time Complexity|
 |-|-|-|-|-|-|
+|262 ⭐|[459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)|LeetCode|[262.py](./solutions/262.py)|`array`|$$O(n)$$|
 |261|[455. Assign Cookies](https://leetcode.com/problems/assign-cookies)|LeetCode|[261.py](./solutions/261.py)|`sorting`, `2-pointers`|$$O(n \log n)$$|
 |260 💜|[448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|LeetCode|[260.py](./solutions/260.py)|`array`|$$O(n)$$|
 |259 💜|[441. Arranging Coins](https://leetcode.com/problems/arranging-coins/)|LeetCode|[259.py](./solutions/259.py)|`binary-search` or `math`|$$O(\log n) \text{ or } O(1)$$|
