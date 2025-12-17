@@ -2,6 +2,7 @@ Hi guys, I'm Cuong 👋.
 
 |⬇️ No.|Problem Title|Organization|Solution|Algorithm|Time Complexity|
 |-|-|-|-|-|-|
+|266|[482. License Key Formatting](https://leetcode.com/problems/license-key-formatting/)|LeetCode|[266.py](./solutions/266.py)|`array`|$$O(n)$$|
 |265|[476. Number Complement](https://leetcode.com/problems/number-complement/)|LeetCode|[265.py](./solutions/265.py)|`bitwise`|$$O(1)$$|
 |264|[463. Island Perimeter](https://leetcode.com/problems/island-perimeter/)|LeetCode|[264.py](./solutions/264.py)|`array`|$$O(n^2)$$|
 |263|[461. Hamming Distance](https://leetcode.com/problems/hamming-distance/)|LeetCode|[263.py](./solutions/263.py)|`bitwise`|$$O(1)$$|
