@@ -2,7 +2,7 @@ Hi guys, I'm Cuong 👋.
 
 |⬇️ No.|Problem Title|Organization|Solution|Algorithm|Time Complexity|
 |-|-|-|-|-|-|
-|270|[496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|LeetCode|[270.py](./solutions/270.py)|`array`|$$O(n + m)$$|
+|270 ⭐|[496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|LeetCode|[270.py](./solutions/270.py)|`array`|$$O(n + m)$$|
 |269|[495. Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)|LeetCode|[269.py](./solutions/269.py)|`array`|$$O(n)$$|
 |268 💜|[492. Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/)|LeetCode|[268.py](./solutions/268.py)|`math`|$$O(n)$$|
 |267|[485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|LeetCode|[267.py](./solutions/267.py)|`2-pointers`|$$O(n)$$|
