@@ -2,6 +2,7 @@ Hi guys, I'm Cuong 👋.
 
 |⬇️ No.|Problem Title|Organization|Solution|Algorithm|Time Complexity|
 |-|-|-|-|-|-|
+|272|[501. Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/)|LeetCode|[272.py](./solutions/272.py)|`dfs`|$$O(n)$$|
 |271|[500. Keyboard Row](https://leetcode.com/problems/keyboard-row/)|LeetCode|[271.py](./solutions/271.py)|`array`|$$O(n)$$|
 |270 ⭐|[496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|LeetCode|[270.py](./solutions/270.py)|`array`|$$O(n + m)$$|
 |269|[495. Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)|LeetCode|[269.py](./solutions/269.py)|`array`|$$O(n)$$|
