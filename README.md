@@ -2,6 +2,8 @@ Hi guys, I'm Cuong 👋.
 
 |⬇️ No.|Problem Title|Organization|Solution|Algorithm|Time Complexity|
 |-|-|-|-|-|-|
+|275|[507. Perfect Number](https://leetcode.com/problems/perfect-number/)|LeetCode|[275.py](./solutions/275.py)|`math`|$$O(n)$$|
+|274|[506. Relative Ranks](https://leetcode.com/problems/relative-ranks/)|LeetCode|[274.py](./solutions/274.py)|`sorting`|$$O(n \log n)$$|
 |273|[504. Base 7](https://leetcode.com/problems/base-7/)|LeetCode|[273.py](./solutions/273.py)|`math`|$$O(n)$$|
 |272 ⭐|[501. Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/)|LeetCode|[272.py](./solutions/272.py)|`dfs`|$$O(n)$$|
 |271|[500. Keyboard Row](https://leetcode.com/problems/keyboard-row/)|LeetCode|[271.py](./solutions/271.py)|`array`|$$O(n)$$|
