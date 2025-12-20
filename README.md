@@ -2,6 +2,7 @@ Hi guys, I'm Cuong 👋.
 
 |⬇️ No.|Problem Title|Organization|Solution|Algorithm|Time Complexity|
 |-|-|-|-|-|-|
+|278|[520. Detect Capital](https://leetcode.com/problems/detect-capital/)|LeetCode|[278.py](./solutions/278.py)|`string`|$$O(n)$$|
 |277|[511. Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/)|LeetCode|[277.sql](./solutions/277.sql)|`sql`||
 |276|[509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|LeetCode|[276.py](./solutions/276.py)|`recursion`|$$O(n)$$|
 |275|[507. Perfect Number](https://leetcode.com/problems/perfect-number/)|LeetCode|[275.py](./solutions/275.py)|`math`|$$O(n)$$|
