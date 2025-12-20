@@ -2,6 +2,7 @@ Hi guys, I'm Cuong 👋.
 
 |⬇️ No.|Problem Title|Organization|Solution|Algorithm|Time Complexity|
 |-|-|-|-|-|-|
+|280|[530. Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)|LeetCode|[280.py](./solutions/280.py)|`dfs`|$$O(n)$$|
 |279|[521. Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/)|LeetCode|[279.py](./solutions/279.py)|`string`|$$O(n)$$|
 |278|[520. Detect Capital](https://leetcode.com/problems/detect-capital/)|LeetCode|[278.py](./solutions/278.py)|`string`|$$O(n)$$|
 |277|[511. Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/)|LeetCode|[277.sql](./solutions/277.sql)|`sql`||
