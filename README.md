@@ -2,7 +2,7 @@ Hi guys, I'm Cuong 👋.
 
 |⬇️ No.|Problem Title|Organization|Solution|Algorithm|Time Complexity|
 |-|-|-|-|-|-|
-|282|[543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|LeetCode|[282.py](./solutions/282.py)|`dfs`|$$O(n)$$|
+|282 ⭐|[543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|LeetCode|[282.py](./solutions/282.py)|`dfs`|$$O(n)$$|
 |281|[541. Reverse String II](https://leetcode.com/problems/reverse-string-ii/)|LeetCode|[281.py](./solutions/281.py)|`string`|$$O(n)$$|
 |280|[530. Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)|LeetCode|[280.py](./solutions/280.py)|`dfs`|$$O(n)$$|
 |279|[521. Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/)|LeetCode|[279.py](./solutions/279.py)|`string`|$$O(n)$$|
