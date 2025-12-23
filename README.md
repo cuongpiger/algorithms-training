@@ -2,6 +2,7 @@ Hi guys, I'm Cuong 👋.
 
 |⬇️ No.|Problem Title|Organization|Solution|Algorithm|Time Complexity|
 |-|-|-|-|-|-|
+|286|[561. Array Partition](https://leetcode.com/problems/array-partition/)|LeetCode|[286.py](./solutions/286.py)|`sorting`|$$O(n \log n)$$|
 |285|[559. Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)|LeetCode|[285.py](./solutions/285.py)|`dfs`|$$O(n)$$|
 |284|[557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|LeetCode|[284.py](./solutions/284.py)|`2-pointers`|$$O(n)$$|
 |283|[551. Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)|LeetCode|[283.py](./solutions/283.py)|`array`|$$O(n)$$|
