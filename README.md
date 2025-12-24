@@ -2,6 +2,7 @@ Hi guys, I'm Cuong 👋.
 
 |⬇️ No.|Problem Title|Organization|Solution|Algorithm|Time Complexity|
 |-|-|-|-|-|-|
+|288 💜|[566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)|LeetCode|[288.py](./solutions/288.py)|`array`|$$O(n * m)$$|
 |287 💜|[563. Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)|LeetCode|[287.py](./solutions/287.py)|`tree`|$$O(n)$$|
 |286|[561. Array Partition](https://leetcode.com/problems/array-partition/)|LeetCode|[286.py](./solutions/286.py)|`sorting`|$$O(n \log n)$$|
 |285|[559. Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)|LeetCode|[285.py](./solutions/285.py)|`dfs`|$$O(n)$$|
