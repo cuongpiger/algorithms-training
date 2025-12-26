@@ -2,6 +2,7 @@ Hi guys, I'm Cuong 👋.
 
 |⬇️ No.|Problem Title|Organization|Solution|Algorithm|Time Complexity|
 |-|-|-|-|-|-|
+|292|[584. Find Customer Referee](https://leetcode.com/problems/find-customer-referee/)|LeetCode|[292.sql](./solutions/292.sql)|`sql`||
 |291|[577. Employee Bonus](https://leetcode.com/problems/employee-bonus/)|LeetCode|[291.sql](./solutions/291.sql)|`sql`||
 |290|[575. Distribute Candies](https://leetcode.com/problems/distribute-candies/)|LeetCode|[290.py](./solutions/290.py)|`hash`|$$O(n)$$|
 |289 ⭐|[572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)|LeetCode|[289.py](./solutions/289.py)|`tree`|$$O(n^2)$$|
