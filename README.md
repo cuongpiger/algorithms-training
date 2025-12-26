@@ -2,6 +2,7 @@ Hi guys, I'm Cuong 👋.
 
 |⬇️ No.|Problem Title|Organization|Solution|Algorithm|Time Complexity|
 |-|-|-|-|-|-|
+|293|[586. Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/)|LeetCode|[293.sql](./solutions/293.sql)|`sql`||
 |292|[584. Find Customer Referee](https://leetcode.com/problems/find-customer-referee/)|LeetCode|[292.sql](./solutions/292.sql)|`sql`||
 |291|[577. Employee Bonus](https://leetcode.com/problems/employee-bonus/)|LeetCode|[291.sql](./solutions/291.sql)|`sql`||
 |290|[575. Distribute Candies](https://leetcode.com/problems/distribute-candies/)|LeetCode|[290.py](./solutions/290.py)|`hash`|$$O(n)$$|
