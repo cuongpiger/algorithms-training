@@ -2,6 +2,7 @@ Hi guys, I'm Cuong 👋.
 
 |⬇️ No.|Problem Title|Organization|Solution|Algorithm|Time Complexity|
 |-|-|-|-|-|-|
+|295|[590. N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)|LeetCode|[295.py](./solutions/295.py)|`dfs`|$$O(n)$$|
 |294|[589. N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|LeetCode|[294.py](./solutions/294.py)|`dfs`|$$O(n)$$|
 |293|[586. Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/)|LeetCode|[293.sql](./solutions/293.sql)|`sql`||
 |292|[584. Find Customer Referee](https://leetcode.com/problems/find-customer-referee/)|LeetCode|[292.sql](./solutions/292.sql)|`sql`||
