@@ -2,6 +2,7 @@ Hi guys, I'm Cuong 👋.
 
 |⬇️ No.|Problem Title|Organization|Solution|Algorithm|Time Complexity|
 |-|-|-|-|-|-|
+|300|[599. Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)|LeetCode|[300.py](./solutions/300.py)|`hash`|$$O(n)$$|
 |299|[598. Range Addition II](https://leetcode.com/problems/range-addition-ii/)|LeetCode|[299.py](./solutions/299.py)|`array`|$$O(n * m)$$|
 |298|[596. Classes With at Least 5 Students](https://leetcode.com/problems/classes-with-at-least-5-students/)|LeetCode|[298.sql](./solutions/298.sql)|`sql`||
 |297|[595. Big Countries](https://leetcode.com/problems/big-countries/)|LeetCode|[297.sql](./solutions/297.sql)|`sql`||
