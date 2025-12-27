@@ -2,6 +2,7 @@ Hi guys, I'm Cuong 👋.
 
 |⬇️ No.|Problem Title|Organization|Solution|Algorithm|Time Complexity|
 |-|-|-|-|-|-|
+|297|[595. Big Countries](https://leetcode.com/problems/big-countries/)|LeetCode|[297.sql](./solutions/297.sql)|`sql`||
 |296 💜|[594. Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/)|LeetCode|[296.py](./solutions/296.py)|`2-pointers`, `sorting`|$$O(n^2)$$|
 |295|[590. N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)|LeetCode|[295.py](./solutions/295.py)|`dfs`|$$O(n)$$|
 |294|[589. N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|LeetCode|[294.py](./solutions/294.py)|`dfs`|$$O(n)$$|
