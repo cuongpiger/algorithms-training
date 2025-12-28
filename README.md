@@ -2,6 +2,7 @@ Hi guys, I'm Cuong 👋.
 
 |⬇️ No.|Problem Title|Organization|Solution|Algorithm|Time Complexity|
 |-|-|-|-|-|-|
+|302|[607. Sales Person](https://leetcode.com/problems/sales-person/)|LeetCode|[302.sql](./solutions/302.sql)|`sql`||
 |301 💜|[605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)|LeetCode|[301.py](./solutions/301.py)|`array`|$$O(n)$$|
 |300|[599. Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)|LeetCode|[300.py](./solutions/300.py)|`hash`|$$O(n)$$|
 |299|[598. Range Addition II](https://leetcode.com/problems/range-addition-ii/)|LeetCode|[299.py](./solutions/299.py)|`array`|$$O(n * m)$$|
