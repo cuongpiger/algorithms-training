@@ -2,6 +2,7 @@ Hi guys, I'm Cuong 👋.
 
 |⬇️ No.|Problem Title|Organization|Solution|Algorithm|Time Complexity|
 |-|-|-|-|-|-|
+|305|[619. Biggest Single Number](https://leetcode.com/problems/biggest-single-number)|LeetCode|[305.sql](./solutions/305.sql)|`sql`, `mysql`||
 |304 💜|[617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|LeetCode|[304.py](./solutions/304.py)|`tree`|$$O(n + m)$$|
 |303|[610. Triangle Judgement](https://leetcode.com/problems/triangle-judgement/)|LeetCode|[303.sql](./solutions/303.sql)|`sql`, `postgresql`||
 |302|[607. Sales Person](https://leetcode.com/problems/sales-person/)|LeetCode|[302.sql](./solutions/302.sql)|`sql`||
