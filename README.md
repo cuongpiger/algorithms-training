@@ -2,6 +2,7 @@ Hi guys, I'm Cuong 👋.
 
 |⬇️ No.|Problem Title|Organization|Solution|Algorithm|Time Complexity|
 |-|-|-|-|-|-|
+|309 💜|[637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)|LeetCode|[309.py](./solutions/309.py)|`bfs`|$$O(n)$$|
 |308|[628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)|LeetCode|[308.py](./solutions/308.py)|`sorting`|$$O(n \log n)$$|
 |307|[627. Swap Sex of Employees](https://leetcode.com/problems/swap-sex-of-employees)|LeetCode|[307.sql](./solutions/307.sql)|`sql`, `mysql`||
 |306|[620. Not Boring Movies](https://leetcode.com/problems/not-boring-movies)|LeetCode|[306.sql](./solutions/306.sql)|`sql`, `mysql`||
