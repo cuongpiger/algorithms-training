@@ -2,6 +2,7 @@ Hi guys, I'm Cuong 👋.
 
 |⬇️ No.|Problem Title|Organization|Solution|Algorithm|Time Complexity|
 |-|-|-|-|-|-|
+|311|[645. Set Mismatch](https://leetcode.com/problems/set-mismatch/)|LeetCode|[311.py](./solutions/311.py)|`array`|$$O(n)$$|
 |310|[643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)|LeetCode|[310.py](./solutions/310.py)|`array`|$$O(n)$$|
 |309 💜|[637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)|LeetCode|[309.py](./solutions/309.py)|`bfs`|$$O(n)$$|
 |308|[628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)|LeetCode|[308.py](./solutions/308.py)|`sorting`|$$O(n \log n)$$|
