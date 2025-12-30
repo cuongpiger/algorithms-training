@@ -2,6 +2,7 @@ Hi guys, I'm Cuong 👋.
 
 |⬇️ No.|Problem Title|Organization|Solution|Algorithm|Time Complexity|
 |-|-|-|-|-|-|
+|314|[661. Image Smoother](https://leetcode.com/problems/image-smoother/)|LeetCode|[314.py](./solutions/314.py)|`array`|$$O(m * n)$$|
 |313|[657. Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)|LeetCode|[313.py](./solutions/313.py)|`array`|$$O(n)$$|
 |312|[653. Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)|LeetCode|[312.py](./solutions/312.py)|`dfs`|$$O(n)$$|
 |311|[645. Set Mismatch](https://leetcode.com/problems/set-mismatch/)|LeetCode|[311.py](./solutions/311.py)|`array`|$$O(n)$$|
