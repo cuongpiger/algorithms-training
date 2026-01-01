@@ -2,7 +2,8 @@ Hi guys, I'm Cuong 👋.
 
 |⬇️ No.|Problem Title|Organization|Solution|Algorithm|Time Complexity|
 |-|-|-|-|-|-|
-|317|[680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|LeetCode|[317.py](./solutions/317.py)|`recursion`|$$O(n^2)$$|
+|318|[682. Baseball Game](https://leetcode.com/problems/baseball-game/)|LeetCode|[318.py](./solutions/318.py)|`heap`|$$O(n)$$|
+|317 💜|[680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|LeetCode|[317.py](./solutions/317.py)|`recursion`|$$O(n^2)$$|
 |316|[674. Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)|LeetCode|[316.py](./solutions/316.py)|`2-pointers`|$$O(n)$$|
 |315|[671. Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)|LeetCode|[315.py](./solutions/315.py)|`dfs`, `hash`|$$O(n)$$|
 |314|[661. Image Smoother](https://leetcode.com/problems/image-smoother/)|LeetCode|[314.py](./solutions/314.py)|`array`|$$O(m * n)$$|
