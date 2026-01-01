@@ -2,6 +2,7 @@ Hi guys, I'm Cuong 👋.
 
 |⬇️ No.|Problem Title|Organization|Solution|Algorithm|Time Complexity|
 |-|-|-|-|-|-|
+|316|[674. Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)|LeetCode|[316.py](./solutions/316.py)|`2-pointers`|$$O(n)$$|
 |315|[671. Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)|LeetCode|[315.py](./solutions/315.py)|`dfs`, `hash`|$$O(n)$$|
 |314|[661. Image Smoother](https://leetcode.com/problems/image-smoother/)|LeetCode|[314.py](./solutions/314.py)|`array`|$$O(m * n)$$|
 |313|[657. Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)|LeetCode|[313.py](./solutions/313.py)|`array`|$$O(n)$$|
