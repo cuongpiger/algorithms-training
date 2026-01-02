@@ -2,6 +2,7 @@ Hi guys, I'm Cuong 👋.
 
 |⬇️ No.|Problem Title|Organization|Solution|Algorithm|Time Complexity|
 |-|-|-|-|-|-|
+|323|[703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream)|LeetCode|[323.py](./solutions/323.py)|`heap`|$$O(\log k)$$|
 |322|[700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree)|LeetCode|[322.py](./solutions/322.py)|`tree`|$$O(n)$$|
 |321|[697. Degree of an Array](https://leetcode.com/problems/degree-of-an-array/)|LeetCode|[321.py](./solutions/321.py)|`hash`|$$O(n)$$|
 |320|[696. Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/)|LeetCode|[320.py](./solutions/320.py)|`array`|$$O(n)$$|
