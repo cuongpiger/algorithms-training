@@ -2,6 +2,7 @@ Hi guys, I'm Cuong 👋.
 
 |⬇️ No.|Problem Title|Organization|Solution|Algorithm|Time Complexity|
 |-|-|-|-|-|-|
+|322|[700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree)|LeetCode|[322.py](./solutions/322.py)|`tree`|$$O(n)$$|
 |321|[697. Degree of an Array](https://leetcode.com/problems/degree-of-an-array/)|LeetCode|[321.py](./solutions/321.py)|`hash`|$$O(n)$$|
 |320|[696. Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/)|LeetCode|[320.py](./solutions/320.py)|`array`|$$O(n)$$|
 |319|[693. Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)|LeetCode|[319.py](./solutions/319.py)|`bitwise`|$$O(n)$$|
