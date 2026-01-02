@@ -2,6 +2,7 @@ Hi guys, I'm Cuong 👋.
 
 |⬇️ No.|Problem Title|Organization|Solution|Algorithm|Time Complexity|
 |-|-|-|-|-|-|
+|325|[705. Design HashSet](https://leetcode.com/problems/design-hashset/)|LeetCode|[325.py](./solutions/325.py)|`heap`|$$O(n \log n)$$|
 |324|[704. Binary Search](https://leetcode.com/problems/binary-search/)|LeetCode|[324.py](./solutions/324.py)|`binary-search`|$$O(\log n)$$|
 |323|[703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream)|LeetCode|[323.py](./solutions/323.py)|`heap`|$$O(\log k)$$|
 |322|[700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree)|LeetCode|[322.py](./solutions/322.py)|`tree`|$$O(n)$$|
