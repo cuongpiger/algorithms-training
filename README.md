@@ -2,6 +2,7 @@ Hi guys, I'm Cuong 👋.
 
 |⬇️ No.|Problem Title|Organization|Solution|Algorithm|Time Complexity|
 |-|-|-|-|-|-|
+|321|[697. Degree of an Array](https://leetcode.com/problems/degree-of-an-array/)|LeetCode|[321.py](./solutions/321.py)|`hash`|$$O(n)$$|
 |320|[696. Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/)|LeetCode|[320.py](./solutions/320.py)|`array`|$$O(n)$$|
 |319|[693. Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)|LeetCode|[319.py](./solutions/319.py)|`bitwise`|$$O(n)$$|
 |318|[682. Baseball Game](https://leetcode.com/problems/baseball-game/)|LeetCode|[318.py](./solutions/318.py)|`heap`|$$O(n)$$|
