@@ -2,6 +2,7 @@ Hi guys, I'm Cuong 👋.
 
 |⬇️ No.|Problem Title|Organization|Solution|Algorithm|Time Complexity|
 |-|-|-|-|-|-|
+|329|[724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index)|LeetCode|[329.py](./solutions/329.py)|`array`|$$O(n)$$|
 |328|[717. 1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/)|LeetCode|[328.py](./solutions/328.py)|`heap`|$$O(n)$$|
 |327|[709. To Lower Case](https://leetcode.com/problems/to-lower-case/)|LeetCode|[327.py](./solutions/327.py)|`heap`|$$O(n)$$|
 |326|[706. Design HashMap](https://leetcode.com/problems/design-hashmap/)|LeetCode|[326.py](./solutions/326.py)|`heap`|$$O(n \log n)$$|
