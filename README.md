@@ -2,6 +2,8 @@ Hi guys, I'm Cuong 👋.
 
 |⬇️ No.|Problem Title|Organization|Solution|Algorithm|Time Complexity|
 |-|-|-|-|-|-|
+|328|[717. 1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/)|LeetCode|[328.py](./solutions/328.py)|`heap`|$$O(n)$$|
+|327|[709. To Lower Case](https://leetcode.com/problems/to-lower-case/)|LeetCode|[327.py](./solutions/327.py)|`heap`|$$O(n)$$|
 |326|[706. Design HashMap](https://leetcode.com/problems/design-hashmap/)|LeetCode|[326.py](./solutions/326.py)|`heap`|$$O(n \log n)$$|
 |325|[705. Design HashSet](https://leetcode.com/problems/design-hashset/)|LeetCode|[325.py](./solutions/325.py)|`heap`|$$O(n \log n)$$|
 |324|[704. Binary Search](https://leetcode.com/problems/binary-search/)|LeetCode|[324.py](./solutions/324.py)|`binary-search`|$$O(\log n)$$|
