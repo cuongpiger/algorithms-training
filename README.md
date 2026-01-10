@@ -2,6 +2,7 @@ Hi guys, I'm Cuong 👋.
 
 |⬇️ No.|Problem Title|Organization|Solution|Algorithm|Time Complexity|
 |-|-|-|-|-|-|
+|335|[748. Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/)|LeetCode|[335.py](./solutions/335.py)|`hash`|$$O(m * n)$$|
 |334|[747. Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)|LeetCode|[334.py](./solutions/334.py)|`array`|$$O(n)$$|
 |333|[746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|LeetCode|[333.py](./solutions/333.py)|`greedy`|$$O(n)$$|
 |332|[744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)|LeetCode|[332.py](./solutions/332.py)|`binary-search`|$$O(\log n)$$|
