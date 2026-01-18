@@ -2,7 +2,8 @@ Hi guys, I'm Cuong 👋.
 
 |⬇️ No.|Problem Title|Organization|Solution|Algorithm|Time Complexity|
 |-|-|-|-|-|-|
-|339|[783. Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)|LeetCode|[339.py](./solutions/339.py)|`bst`|$$O(n)$$|
+|340 💜|[796. Rotate String](https://leetcode.com/problems/rotate-string/)|LeetCode|[340.py](./solutions/340.py)|`string`|$$O(n)$$|
+|339 💜|[783. Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)|LeetCode|[339.py](./solutions/339.py)|`bst`|$$O(n)$$|
 |338|[771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|LeetCode|[338.py](./solutions/338.py)|`hash`|$$O(n)$$|
 |337|[766. Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)|LeetCode|[337.py](./solutions/337.py)|`matrix`|$$O(m*n)$$|
 |336|[762. Prime Number of Set Bits in Binary](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/)|LeetCode|[336.py](./solutions/336.py)|`bitwise`|$$O(n)$$|
