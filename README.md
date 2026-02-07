@@ -2,7 +2,7 @@ Hi guys, I'm Cuong 👋.
 
 |⬇️ No.|Problem Title|Organization|Solution|Algorithm|Time Complexity|
 |-|-|-|-|-|-|
-
+|342|[806. Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/)|LeetCode|[342.py](./solutions/342.py)|`string`|$$O(n)$$|
 |341|[804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)|LeetCode|[341.py](./solutions/341.py)|`hash-set`|$$O(n * m)$$|
 |340 💜|[796. Rotate String](https://leetcode.com/problems/rotate-string/)|LeetCode|[340.py](./solutions/340.py)|`string`|$$O(n)$$|
 |339 💜|[783. Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)|LeetCode|[339.py](./solutions/339.py)|`bst`|$$O(n)$$|
