@@ -2,6 +2,7 @@ Hi guys, I'm Cuong 👋.
 
 |⬇️ No.|Problem Title|Organization|Solution|Algorithm|Time Complexity|
 |-|-|-|-|-|-|
+|343|[812. Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/)|LeetCode|[343.py](./solutions/343.py)|`geometry`|$$O(n^3)$$|
 |342|[806. Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/)|LeetCode|[342.py](./solutions/342.py)|`string`|$$O(n)$$|
 |341|[804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)|LeetCode|[341.py](./solutions/341.py)|`hash-set`|$$O(n * m)$$|
 |340 💜|[796. Rotate String](https://leetcode.com/problems/rotate-string/)|LeetCode|[340.py](./solutions/340.py)|`string`|$$O(n)$$|
