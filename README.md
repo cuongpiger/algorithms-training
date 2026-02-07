@@ -2,6 +2,7 @@ Hi guys, I'm Cuong 👋.
 
 |⬇️ No.|Problem Title|Organization|Solution|Algorithm|Time Complexity|
 |-|-|-|-|-|-|
+|345|[821. Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)|LeetCode|[345.py](./solutions/345.py)|`2-pointers`|$$O(n)$$|
 |344|[819. Most Common Word](https://leetcode.com/problems/most-common-word/)|LeetCode|[344.py](./solutions/344.py)|`hash`, `regex`|$$O(n)$$|
 |343|[812. Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/)|LeetCode|[343.py](./solutions/343.py)|`geometry`|$$O(n^3)$$|
 |342|[806. Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/)|LeetCode|[342.py](./solutions/342.py)|`string`|$$O(n)$$|
