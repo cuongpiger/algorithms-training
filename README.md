@@ -2,6 +2,8 @@ Hi guys, I'm Cuong 👋.
 
 |⬇️ No.|Problem Title|Organization|Solution|Algorithm|Time Complexity|
 |-|-|-|-|-|-|
+
+|347|[830. Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/)|LeetCode|[347.py](./solutions/347.py)|`2-pointers`|$$O(n)$$|
 |346|[824. Goat Latin](https://leetcode.com/problems/goat-latin/)|LeetCode|[346.py](./solutions/346.py)|`string`|$$O(n)$$|
 |345|[821. Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)|LeetCode|[345.py](./solutions/345.py)|`2-pointers`|$$O(n)$$|
 |344|[819. Most Common Word](https://leetcode.com/problems/most-common-word/)|LeetCode|[344.py](./solutions/344.py)|`hash`, `regex`|$$O(n)$$|
