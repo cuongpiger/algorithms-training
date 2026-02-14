@@ -2,6 +2,7 @@ Hi guys, I'm Cuong 👋.
 
 |⬇️ No.|Problem Title|Organization|Solution|Algorithm|Time Complexity|
 |-|-|-|-|-|-|
+|352|[860. Lemonade Change](https://leetcode.com/problems/lemonade-change)|LeetCode|[352.py](./solutions/352.py)|`greedy`|$$O(n)$$|
 |351|[859. Buddy Strings](https://leetcode.com/problems/buddy-strings/)|LeetCode|[351.py](./solutions/351.py)|`string`, `hash`|$$O(n)$$|
 |350|[844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|LeetCode|[350.py](./solutions/350.py)|`stack`, `2-pointers`|$$O(n)$$|
 |349|[836. Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/)|LeetCode|[349.py](./solutions/349.py)|`math`, `geometry`|$$O(1)$$|
