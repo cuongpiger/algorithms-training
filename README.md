@@ -2,6 +2,7 @@ Hi guys, I'm Cuong 👋.
 
 |⬇️ No.|Problem Title|Organization|Solution|Algorithm|Time Complexity|
 |-|-|-|-|-|-|
+|354|[868. Binary Gap](https://leetcode.com/problems/binary-gap/)|LeetCode|[354.py](./solutions/354.py)|`bitwise`, `logic`|$$O(\log n)$$|
 |353|[867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|LeetCode|[353.py](./solutions/353.py)|`array`|$$O(m * n)$$|
 |352|[860. Lemonade Change](https://leetcode.com/problems/lemonade-change)|LeetCode|[352.py](./solutions/352.py)|`greedy`|$$O(n)$$|
 |351|[859. Buddy Strings](https://leetcode.com/problems/buddy-strings/)|LeetCode|[351.py](./solutions/351.py)|`string`, `hash`|$$O(n)$$|
