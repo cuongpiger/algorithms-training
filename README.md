@@ -2,6 +2,7 @@ Hi guys, I'm Cuong 👋.
 
 |⬇️ No.|Problem Title|Organization|Solution|Algorithm|Time Complexity|
 |-|-|-|-|-|-|
+|356|[883. Projection Area of 3D Shapes](https://leetcode.com/problems/projection-area-of-3d-shapes/)|LeetCode|[356.py](./solutions/356.py)|`array`, `math`|$$O(n^2)$$|
 |355|[872. Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees)|LeetCode|[355.py](./solutions/355.py)|`tree`, `dfs`|$$O(n + m)$$|
 |354|[868. Binary Gap](https://leetcode.com/problems/binary-gap/)|LeetCode|[354.py](./solutions/354.py)|`bitwise`, `logic`|$$O(\log n)$$|
 |353|[867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|LeetCode|[353.py](./solutions/353.py)|`array`|$$O(m * n)$$|
