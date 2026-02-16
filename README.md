@@ -2,6 +2,7 @@ Hi guys, I'm Cuong 👋.
 
 |⬇️ No.|Problem Title|Organization|Solution|Algorithm|Time Complexity|
 |-|-|-|-|-|-|
+|358|[888. Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)|LeetCode|[358.py](./solutions/358.py)|`hash-map`|$$O(n + m)$$|
 |357|[884. Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/)|LeetCode|[357.py](./solutions/357.py)|`hash-map`|$$O(n + m)$$|
 |356|[883. Projection Area of 3D Shapes](https://leetcode.com/problems/projection-area-of-3d-shapes/)|LeetCode|[356.py](./solutions/356.py)|`array`, `math`|$$O(n^2)$$|
 |355|[872. Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees)|LeetCode|[355.py](./solutions/355.py)|`tree`, `dfs`|$$O(n + m)$$|
