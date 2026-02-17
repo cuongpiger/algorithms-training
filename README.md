@@ -2,7 +2,7 @@ Hi guys, I'm Cuong 👋.
 
 |⬇️ No.|Problem Title|Organization|Solution|Algorithm|Time Complexity|
 |-|-|-|-|-|-|
-|363|[914. X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/)|LeetCode|[363.py](./solutions/363.py)|`hash-map`, `math`, `gcd`|$$O(n)$$|
+|363 ⭐|[914. X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/)|LeetCode|[363.py](./solutions/363.py)|`hash-map`, `math`, `gcd`|$$O(n)$$|
 |362 💜|[908. Smallest Range I](https://leetcode.com/problems/smallest-range-i/)|LeetCode|[362.py](./solutions/362.py)|`array`, `math`|$$O(n)$$|
 |361 ⭐|[897. Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/)|LeetCode|[361.py](./solutions/361.py)|`dfs`, `tree`|$$O(n)$$|
 |360|[896. Monotonic Array](https://leetcode.com/problems/monotonic-array/)|LeetCode|[360.py](./solutions/360.py)|`array`|$$O(n)$$|
