@@ -2,7 +2,7 @@ Hi guys, I'm Cuong 👋.
 
 |⬇️ No.|Problem Title|Organization|Solution|Algorithm|Time Complexity|
 |-|-|-|-|-|-|
-|362|[908. Smallest Range I](https://leetcode.com/problems/smallest-range-i/)|LeetCode|[362.py](./solutions/362.py)|`array`, `math`|$$O(n)$$|
+|362 💜|[908. Smallest Range I](https://leetcode.com/problems/smallest-range-i/)|LeetCode|[362.py](./solutions/362.py)|`array`, `math`|$$O(n)$$|
 |361 ⭐|[897. Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/)|LeetCode|[361.py](./solutions/361.py)|`dfs`, `tree`|$$O(n)$$|
 |360|[896. Monotonic Array](https://leetcode.com/problems/monotonic-array/)|LeetCode|[360.py](./solutions/360.py)|`array`|$$O(n)$$|
 |359|[892. Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes/)|LeetCode|[359.py](./solutions/359.py)|`math`, `geometry`|$$O(n^2)$$|
