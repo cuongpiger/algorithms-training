@@ -2,6 +2,7 @@ Hi guys, I'm Cuong 👋.
 
 |⬇️ No.|Problem Title|Organization|Solution|Algorithm|Time Complexity|
 |-|-|-|-|-|-|
+|367|[925. Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)|LeetCode|[367.py](./solutions/367.py)|`two-pointers`, `string`|$$O(n)$$|
 |366|[922. Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|LeetCode|[366.py](./solutions/366.py)|`two-pointers`, `array`|$$O(n)$$|
 |365|[917. Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)|LeetCode|[365.py](./solutions/365.py)|`two-pointers`, `string`|$$O(n)$$|
 |364|[905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|LeetCode|[364.py](./solutions/364.py)|`array`, `two-pointers`|$$O(n)$$|
