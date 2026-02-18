@@ -2,6 +2,7 @@ Hi guys, I'm Cuong 👋.
 
 |⬇️ No.|Problem Title|Organization|Solution|Algorithm|Time Complexity|
 |-|-|-|-|-|-|
+|366|[922. Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|LeetCode|[366.py](./solutions/366.py)|`two-pointers`, `array`|$$O(n)$$|
 |365|[917. Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)|LeetCode|[365.py](./solutions/365.py)|`two-pointers`, `string`|$$O(n)$$|
 |364|[905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|LeetCode|[364.py](./solutions/364.py)|`array`, `two-pointers`|$$O(n)$$|
 |363 ⭐|[914. X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/)|LeetCode|[363.py](./solutions/363.py)|`hash-map`, `math`, `gcd`|$$O(n)$$|
