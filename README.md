@@ -2,6 +2,7 @@ Hi guys, I'm Cuong 👋.
 
 |⬇️ No.|Problem Title|Organization|Solution|Algorithm|Time Complexity|
 |-|-|-|-|-|-|
+|375|[961. N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)|LeetCode|[375.py](./solutions/375.py)|`hash-map`|$$O(n)$$|
 |374|[953. Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)|LeetCode|[374.py](./solutions/374.py)|`hash-map`, `string`|$$O(n \cdot m)$$|
 |373|[944. Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/)|LeetCode|[373.py](./solutions/373.py)|`string`, `array`|$$O(n \cdot m)$$|
 |372 ⭐|[942. DI String Match](https://leetcode.com/problems/di-string-match/)|LeetCode|[372.py](./solutions/372.py)|`greedy`, `two-pointers`|$$O(n)$$|
