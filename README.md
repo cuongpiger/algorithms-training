@@ -2,8 +2,9 @@ Hi guys, I'm Cuong 👋.
 
 |⬇️ No.|Problem Title|Organization|Solution|Algorithm|Time Complexity|
 |-|-|-|-|-|-|
+|374|[953. Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)|LeetCode|[374.py](./solutions/374.py)|`hash-map`, `string`|$$O(n \cdot m)$$|
 |373|[944. Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/)|LeetCode|[373.py](./solutions/373.py)|`string`, `array`|$$O(n \cdot m)$$|
-|372|[942. DI String Match](https://leetcode.com/problems/di-string-match/)|LeetCode|[372.py](./solutions/372.py)|`greedy`, `two-pointers`|$$O(n)$$|
+|372 ⭐|[942. DI String Match](https://leetcode.com/problems/di-string-match/)|LeetCode|[372.py](./solutions/372.py)|`greedy`, `two-pointers`|$$O(n)$$|
 |371|[941. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)|LeetCode|[371.py](./solutions/371.py)|`two-pointers`, `array`|$$O(n)$$|
 |370 💜|[938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|LeetCode|[370.py](./solutions/370.py)|`dfs`, `tree`|$$O(n)$$|
 |369|[933. Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)|LeetCode|[369.py](./solutions/369.py)|`queue`|$$O(n)$$|
