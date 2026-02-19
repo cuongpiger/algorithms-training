@@ -2,6 +2,7 @@ Hi guys, I'm Cuong 👋.
 
 |⬇️ No.|Problem Title|Organization|Solution|Algorithm|Time Complexity|
 |-|-|-|-|-|-|
+|371|[941. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)|LeetCode|[371.py](./solutions/371.py)|`two-pointers`, `array`|$$O(n)$$|
 |370 💜|[938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|LeetCode|[370.py](./solutions/370.py)|`dfs`, `tree`|$$O(n)$$|
 |369|[933. Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)|LeetCode|[369.py](./solutions/369.py)|`queue`|$$O(n)$$|
 |368|[929. Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)|LeetCode|[368.py](./solutions/368.py)|`hash-set`, `string`|$$O(n)$$|
