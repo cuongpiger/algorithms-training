@@ -2,6 +2,7 @@ Hi guys, I'm Cuong 👋.
 
 |⬇️ No.|Problem Title|Organization|Solution|Algorithm|Time Complexity|
 |-|-|-|-|-|-|
+|380|[993. Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/)|LeetCode|[380.py](./solutions/380.py)|`dfs`, `tree`|$$O(n)$$|
 |379|[989. Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)|LeetCode|[379.py](./solutions/379.py)|`array`, `math`|$$O(n)$$|
 |378|[977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|LeetCode|[378.py](./solutions/378.py)|`sort`|$$O(n \log n)$$|
 |377 ⭐|[976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)|LeetCode|[377.py](./solutions/377.py)|`greedy`, `sort`|$$O(n \log n)$$|
