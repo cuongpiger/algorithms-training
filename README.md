@@ -2,6 +2,7 @@ Hi guys, I'm Cuong 👋.
 
 |⬇️ No.|Problem Title|Organization|Solution|Algorithm|Time Complexity|
 |-|-|-|-|-|-|
+|378|[977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|LeetCode|[378.py](./solutions/378.py)|`sort`|$$O(n \log n)$$|
 |377 ⭐|[976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)|LeetCode|[377.py](./solutions/377.py)|`greedy`, `sort`|$$O(n \log n)$$|
 |376|[965. Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/)|LeetCode|[376.py](./solutions/376.py)|`dfs`, `tree`|$$O(n)$$|
 |375|[961. N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)|LeetCode|[375.py](./solutions/375.py)|`hash-map`|$$O(n)$$|
