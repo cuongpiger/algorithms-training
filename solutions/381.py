@@ -1,11 +1,10 @@
 class Solution:
-    def findJudge(self, n: int, trust: List[List[int]]) -> int:
-        relations = [[0 for _ in range(n + 1)] for _ in range(n + 1)]
-        for source, target in trust:
-            relations[source][target] = 1
-
-        for j in range(1, n + 1):
-            if sum([relations[i][j] for i in range(1, n + 1)]) == n - 1 and sum(relations[j]) == 0:
-                return j
-
+    def findJudge(self, N, trust):
+        count = [0] * (N + 1)
+        for i, j in trust:
+            count[i] -= 1
+            count[j] += 1
+        for i in range(1, N + 1):
+            if count[i] == N - 1:
+                return i
         return -1
