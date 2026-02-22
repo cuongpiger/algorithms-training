@@ -2,6 +2,7 @@ Hi guys, I'm Cuong 👋.
 
 |⬇️ No.|Problem Title|Organization|Solution|Algorithm|Time Complexity|
 |-|-|-|-|-|-|
+|383|[1002. Find Common Characters](https://leetcode.com/problems/find-common-characters/)|LeetCode|[383.py](./solutions/383.py)|`hash-map`, `string`|$$O(n \cdot m)$$|
 |382|[999. Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/)|LeetCode|[382.py](./solutions/382.py)|`simulation`, `matrix`|$$O(1)$$|
 |381|[997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)|LeetCode|[381.py](./solutions/381.py)|`graph`, `matrix`|$$O(n + m)$$|
 |380|[993. Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/)|LeetCode|[380.py](./solutions/380.py)|`dfs`, `tree`|$$O(n)$$|
