@@ -2,6 +2,7 @@ Hi guys, I'm Cuong 👋.
 
 |⬇️ No.|Problem Title|Organization|Solution|Algorithm|Time Complexity|
 |-|-|-|-|-|-|
+|388|[7. Reverse Integer](https://leetcode.com/problems/reverse-integer/)|LeetCode|[388.py](./solutions/388.py)|`math`|$$O(\log n)$$|
 |387|[6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)|LeetCode|[387.py](./solutions/387.py)|`simulation`, `string`|$$O(n)$$|
 |386|[5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|LeetCode|[386.py](./solutions/386.py)|`two-pointers`, `string`|$$O(n^2)$$|
 |385|[1009. Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)|LeetCode|[385.py](./solutions/385.py)|`bitwise`, `string`|$$O((\log n)^2)$$|
