@@ -2,6 +2,7 @@ Hi guys, I'm Cuong 👋.
 
 |⬇️ No.|Problem Title|Organization|Solution|Algorithm|Time Complexity|
 |-|-|-|-|-|-|
+|387|[6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)|LeetCode|[387.py](./solutions/387.py)|`simulation`, `string`|$$O(n)$$|
 |386|[5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|LeetCode|[386.py](./solutions/386.py)|`two-pointers`, `string`|$$O(n^2)$$|
 |385|[1009. Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)|LeetCode|[385.py](./solutions/385.py)|`bitwise`, `string`|$$O((\log n)^2)$$|
 |384|[1005. Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/)|LeetCode|[384.py](./solutions/384.py)|`greedy`, `sort`|$$O(n \log n)$$|
